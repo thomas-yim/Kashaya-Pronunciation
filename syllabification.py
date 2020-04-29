@@ -26,11 +26,12 @@ def splitIntoSegments(entry):
             segments.append(entry[i])
     return segments
 
+
+
 def main():
     df = constructDF("Kashaya word list.txt")
     randIndex = random.randint(0,len(df['Entries']))
     entry = df.iloc[randIndex]['Entries']
-    
 
     segments = splitIntoSegments(entry)
     
@@ -50,7 +51,7 @@ def main():
         if segments[k][0] in vowels:
             syllable = segments[k]
             if k > 0:
-                if segments[k-1] in nonVowels:
+                if segments[k-1][0] in nonVowels:
                     if k < len(segments)-1 and k+1 != lastUsedSegmentIndex:
                         syllable = syllable + segments[k+1]
                     syllable = segments[k-1] + syllable

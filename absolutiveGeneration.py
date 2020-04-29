@@ -41,8 +41,8 @@ def main():
         #If it is a 's' segment, then don't do anything
         elif final in sChars:
             pass
-        #If it is a vowel, add a w
-        else:
+        #If it is a short vowel, add a w
+        elif final in vowels:
             segments.append('w')
         generatedAbs.append("".join(segments) + "\n")
         
