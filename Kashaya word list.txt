@@ -3794,7 +3794,7 @@ Entry: *bihlihli
 
 Pronunciation: bihlíhliw
 
-Absolutive: bihlihliw 
+Absolutive: bihlihliw
 
 Grammatical Info: Reduplicating Verb
 
@@ -19068,14 +19068,6 @@ Gloss: be close together
 
 
 
-Entry: *díʔtʼeʔtʼec
-
-Grammatical Info: Verb
-
-Gloss: hang close together?
-
-
-
 Entry: *diʔṭiʔṭi
 
 Pronunciation: diʔṭíʔṭiw
@@ -23475,14 +23467,6 @@ Entry: háê
 Pronunciation: háé
 
 Absolutive: háê
-
-
-
-Entry: háeh
-
-Pronunciation: háeh
-
-Absolutive: háeh
 
 
 
@@ -31695,14 +31679,6 @@ Entry: *mahnataʔ
 Pronunciation: mahnatáʔ
 
 Absolutive: mahnataʔ
-
-
-
-Entry: mahnáʔmahnati
-
-Pronunciation: mahnáʔmahnati
-
-Absolutive: mahnáʔmahnati
 
 
 
@@ -42571,18 +42547,6 @@ Entry: *pohcopocotad
 Pronunciation: pohcopócota·du
 
 Absolutive: pohcopocota·du
-
-
-
-Entry: pohcopócota·du·li
-
-Pronunciation: pohcopócota·du·li
-
-Absolutive: pohcopócota·du·li
-
-Grammatical Info: Noun
-
-Gloss: wear away by blowing
 
 
 
@@ -58407,18 +58371,6 @@ Absolutive: ṭiliṭiliw
 Grammatical Info: Verb
 
 Gloss: lie down!
-
-
-
-Entry: ṭi·ŋ
-
-Pronunciation: ṭí·ŋ
-
-Absolutive: ṭi·ŋ
-
-Grammatical Info: Inanimate Mimetic
-
-Gloss: boing
 
 
 
