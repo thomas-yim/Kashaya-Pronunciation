@@ -3,7 +3,7 @@
 
 import pandas as pd
 from dfConstructor import constructDF
-from syllabification import splitIntoSegments, syllabify, footStructure
+from syllabification import splitIntoSegments, syllabify, footStructure, stripFinalSpaces
 
 #ARRAY GROUPINGS OF CHARACTERS
 specialIncrements = ["ʼ", "ʰ", "·", "ʷ"]
@@ -27,8 +27,14 @@ for entry in entries:
     This code looks for the last vowel and if it doesn't end with /d/,
     it shortens the long vowel
     """
-    syllables = syllabify(entry)
+    segments = splitIntoSegments(entry)
+    #If the first segment is a h or ʔ, then it is deleted
+    if segments[0] == "h" or segments[0] == "ʔ":
+        if segments[1][0] not in vowels:
+            segments = segments[1:]
+    syllables = syllabify(segments)
     finalSyllable = syllables[-1]
+    #If the final letter is not d and the final vowel is long, shorten it.
     if finalSyllable[-1] != 'd':
         #This iterates backwards through the last syllable in the word
         for i in range(len(finalSyllable)-1, -1, -1):
@@ -41,32 +47,38 @@ for entry in entries:
                         #This deletes that long vowel dot
                         finalSyllable = finalSyllable[:i+1] + finalSyllable[i+2:]
                         syllables[-1] = finalSyllable
+    
                         
 
     structure = footStructure(syllables)
-    
     #This is the process of "Foot Flipping"
-    if len(structure) > 1:
+    if len(structure) > 2:
         if structure[0] == "CVV" and structure[1] == "CV":
             syllables[0] = syllables[0].rstrip("·")
             syllables[1] += "·"
             structure[0] = "CV"
             structure[1] = "CVV"
     
-    #Entry has now been modified.
+    #Entry has now been modified. Needs to be after initial foot flipping
     entry = "".join(syllables)
     segments = splitIntoSegments(entry)
     
         
-    
+    #This gets the final letter without its special increment
     final = segments[-1][0]
     #If the final segment is a d, add a 'u'
     if final == 'd':
         segments.append('u')
+        syllables = syllabify(segments)
+        structure = footStructure(syllables)
+        if len(structure) > 3:
+            if structure[-2] == "CV" and structure[-3] == "CV":
+                syllables[-2] += "·"
+                segments = splitIntoSegments("".join(syllables))
     #If the final segment is a sonorant, add a glottal stop
     elif final in sonorants:
         segments.append('ʔ')
-        #If it is a 's' segment, then don't do anything
+    #If it is a 's' segment, then don't do anything
     elif final in sChars:
         pass
     #If the final segment is a consonant, butnon 's' character or not a sonorant
@@ -79,26 +91,28 @@ for entry in entries:
     
     entry = "".join(segments)
         
-    generatedAbs.append(entry + "\n")
+    generatedAbs.append(stripFinalSpaces(entry))
     
     
 df.insert(4, "Generated Abs", generatedAbs)
 with open("Absolutive Errors.txt", "w") as errorFile:
     correct = 0
+    total = 0
     for i in range(0, len(df['Entries'])):
         if df.iloc[i]['Absolutives'] != None:
-            if df.iloc[i]['Absolutives'] == df.iloc[i]['Generated Abs']:
+            absolutive = df.iloc[i]['Absolutives']
+            generated = df.iloc[i]['Generated Abs']
+            total += 1
+            if absolutive == generated:
                 correct += 1
-            elif df.iloc[i]['Generated Abs'][-2] == "u":
+            else:
                 errorFile.write(
                         "Entry: " + df.iloc[i]['Entries'].rstrip("\n") +
-                        " | Absolutive: " + df.iloc[i]['Absolutives'].rstrip("\n") +
-                        " | Generated Absolutive: " + df.iloc[i]['Generated Abs']
+                        " | Absolutive: " + df.iloc[i]['Absolutives'] +
+                        " | Generated Absolutive: " + df.iloc[i]['Generated Abs'] + "\n"
                     )
-        else:
-            correct += 1
     errorFile.close()
-print("Number Correct: " + str(correct) + ", Percent Correct: " + str(correct/len(df['Entries'])))
+print("Number Correct: " + str(correct) + ", Total: " + str(total) + ", Percent Correct: " + str(correct/total))
             
 #if __name__ == "__main__":
     #main()

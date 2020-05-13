@@ -10,13 +10,18 @@ consonants = ['b','c','d','f','g','j','k','p','q','r',
               's','t','ṭ','v','w','x','z', 'ʔ', 'h']
 nonVowels = sonorants + sChars + consonants
 
+def stripFinalSpaces(entry):
+    entry = entry.rstrip('\n')
+    while entry[-1] == " ":
+        entry = entry[:-1]
+    return entry
+        
+
 def splitIntoSegments(entry):
     segments = []
     #Get rid of the newline or the star character or a space at the end
-    entry = entry.rstrip('\n')
     entry = entry.rstrip('*')
-    if entry[-1] == " ":
-        entry = entry[:-1]
+    entry = stripFinalSpaces(entry)
     for i in range(0, len(entry)):
         if i+1 < len(entry):
             if entry[i+1] in specialIncrements:
@@ -27,13 +32,8 @@ def splitIntoSegments(entry):
             segments.append(entry[i])
     return segments
 
-def syllabify(word):
+def syllabify(segments):
     syllables = []
-    segments = splitIntoSegments(word)
-    #If the first segment is a h or ʔ, then it is deleted
-    if segments[0] == "h" or segments[0] == "ʔ":
-        if segments[1][0] not in vowels:
-            segments = segments[1:]
     lastUsedSegmentIndex = len(segments)
     for k in range(len(segments)-1, -1, -1):
         if segments[k][0] in vowels:
@@ -49,7 +49,7 @@ def syllabify(word):
                     lastUsedSegmentIndex = k-1
             syllables.insert(0,onset + vowel + coda)
     if len(syllables) == 0:
-        return[word]
+        return["".join(segments)]
     return syllables
     
 def footStructure(syllables):
@@ -58,7 +58,6 @@ def footStructure(syllables):
         syllableStruct = ""
         letters = splitIntoSegments(syllable)
         for i in range(0,len(letters)):
-            print(letters[i])
             if letters[i][0] in nonVowels:
                 syllableStruct += 'C'
             else:
@@ -72,18 +71,20 @@ def footStructure(syllables):
         structure.append(syllableStruct)
     return structure
 
+
 def main():
     df = constructDF("Kashaya word list.txt")
     randIndex = random.randint(0,len(df['Entries']))
     entry = df.iloc[randIndex]['Entries']
     #entry = "*pʰaʔsʼulh"
-    entry = "*bo·catad"
+    #entry = "*bo·catad"
+    entry = "ta·š"
     print(entry)
 
     segments = splitIntoSegments(entry)
     print(segments)
     
-    syllables = syllabify(entry)
+    syllables = syllabify(segments)
     print(syllables)
         
                     

@@ -3,6 +3,12 @@
 
 import pandas as pd
 
+def stripFinalSpaces(entry):
+    entry = entry.rstrip('\n')
+    while entry[-1] == " ":
+        entry = entry[:-1]
+    return entry
+
 def constructDF(filename):
     #ARRAYS TO BE ADDED TO PANDAS DATAFRAME
     entries = []
@@ -56,7 +62,7 @@ def constructDF(filename):
                     currentTone = line[len("Tone: "):]
             elif (line[:len("Absolutive")] == "Absolutive"):
                 if line[len("Absolutive: "):len("Absolutive: ")+1] != "-":
-                    currentAbsolutive = line[len("Absolutive: "):]
+                    currentAbsolutive = stripFinalSpaces(line[len("Absolutive: "):])
             elif (line[:len("Grammatical")] == "Grammatical"):
                 if line[len("Grammatical Info: "):len("Grammatical Info: ")+1] != "-":
                     currentInfo = line[len("Grammatical Info: "):]
