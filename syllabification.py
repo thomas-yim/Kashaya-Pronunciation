@@ -1,13 +1,16 @@
+#Thomas Yim 4/26/20
+#Kashaya Syllabification, Segmentation, and Foot Structure Generation.
+
 import random
 from dfConstructor import constructDF
+from specialLists import Config
 
-
-specialIncrements = ["ʼ", "ʰ", "·", "ʷ"]
-vowels = ['a','e','i','o','u']
-sonorants = ['m', 'n', 'l', 'y', 'w']
-sChars = ['s', 'sʼ', 'š']
-consonants = ['b','c','d','f','g','j','k','p','q','r',
-              's','t','ṭ','v','w','x','z', 'ʔ', 'h']
+lists = Config()
+specialIncrements = lists.increments
+vowels = lists.vowels
+sonorants = lists.sonorants
+sChars = lists.sChars
+consonants = lists.consonants
 nonVowels = sonorants + sChars + consonants
 
 def stripFinalSpaces(entry):
@@ -78,7 +81,7 @@ def main():
     entry = df.iloc[randIndex]['Entries']
     #entry = "*pʰaʔsʼulh"
     #entry = "*bo·catad"
-    entry = "ta·š"
+    entry = "biyo·lmaw"
     print(entry)
 
     segments = splitIntoSegments(entry)

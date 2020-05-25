@@ -26,7 +26,6 @@ Entry: *bitayʔta | Absolutive: bihtayʔtaw | Generated Absolutive: bitayʔtaw
 Entry: *biʔkʼiʔkʼi | Absolutive: biʔkʼiʔkʼiʔ | Generated Absolutive: biʔkʼiʔkʼiw
 Entry: *biʔqʼoʔdiwad | Absolutive: biʔqʼoʔdowa·du | Generated Absolutive: biʔqʼoʔdiwa·du
 Entry: *bohyo | Absolutive: bohyomʔ | Generated Absolutive: bohyow
-Entry: *bo·catad | Absolutive: boca·tadu | Generated Absolutive: boca·ta·du
 Entry: *bo·cʰqa | Absolutive: bocʰqaw | Generated Absolutive: bo·cʰqaw
 Entry: *bo·tʼamqa | Absolutive: botʼamqaw | Generated Absolutive: bo·tʼamqaw
 Entry: *cahmucamutad | Absolutive: cahmucamutadu | Generated Absolutive: cahmucamuta·du
@@ -51,6 +50,7 @@ Entry: *cihwisʼ | Absolutive: cihwiʔ | Generated Absolutive: cihwisʼ
 Entry: *citayʔta | Absolutive: cihtayʔtaw | Generated Absolutive: citayʔtaw
 Entry: *ciṭiṭi·ma | Absolutive: ciṭiṭimʔ | Generated Absolutive: ciṭiṭi·maw
 Entry: *ciʔdo | Absolutive: ciʔdo | Generated Absolutive: ciʔdow
+Entry: *ci·cʼid | Absolutive: cicʼi·du | Generated Absolutive: ci·cʼidu
 Entry: *ci·cʼqa | Absolutive: cicʼqaw | Generated Absolutive: ci·cʼqaw
 Entry: *ci·cʼwacʼ | Absolutive: cicʼwaʔ | Generated Absolutive: ci·cʼwaʔ
 Entry: *cobo·kʼma | Absolutive: cobokʼmaw | Generated Absolutive: cobo·kʼmaw
@@ -113,7 +113,6 @@ Entry: *ditayʔta | Absolutive: dihtayʔtaw | Generated Absolutive: ditayʔtaw
 Entry: *diʔcʼabatad | Absolutive: diʔcʼaba·tadu | Generated Absolutive: diʔcʼabata·du
 Entry: *diʔcʼenhma | Absolutive: diʔcʼenmaw | Generated Absolutive: diʔcʼenhmaw
 Entry: *diʔkʼanh | Absolutive: diʔkʼanh- | Generated Absolutive: diʔkʼanʔ
-Entry: *di·cʼid | Absolutive: di·cʼidu | Generated Absolutive: dicʼi·du
 Entry: *dohkodohkotad | Absolutive: dohkodokota·du | Generated Absolutive: dohkodohkota·du
 Entry: *dohpola·tad | Absolutive: dohpolha·ta·du | Generated Absolutive: dohpola·tadu
 Entry: *dohqoyqa | Absolutive: dohqo·qaw | Generated Absolutive: dohqoyqaw

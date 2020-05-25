@@ -71,7 +71,7 @@ def constructDF(filename):
                     currentGloss = line[len("Gloss: "):]
             elif (line[:len("Pronunciation")] == "Pronunciation"):
                 if line[len("Pronunciation: "):len("Pronunciation: ")+1] != "-":
-                    currentPronunciation = line[len("Pronunciation: "):]
+                    currentPronunciation = stripFinalSpaces(line[len("Pronunciation: "):])
         pronunciation.append(currentPronunciation)
         tones.append(currentTone)
         absolutive.append(currentAbsolutive)
