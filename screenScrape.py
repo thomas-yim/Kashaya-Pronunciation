@@ -10,14 +10,16 @@ import urllib.request
 import time
 from bs4 import BeautifulSoup
 from dfConstructor import constructDF
+from tqdm import tqdm
 
 df = constructDF("Kashaya word list.txt")
 entries = df['Entries']
 count = 0
-for entry in entries:
+allComponents = []
+for i in tqdm(range(3918, 5598)):
+    entry = entries[i]
     entry = entry.rstrip("\n")
-    if count > 100:
-        break
+    print(entry)
     # Set the URL you want to webscrape from
     url = 'https://www.webonary.org/kashaya?s=' + entry + '&search=Search&key=&tax=-1&displayAdvancedSearchName=0'
     
@@ -30,7 +32,6 @@ for entry in entries:
 
         if link.text == entry:
             url = link.get('href')
-    print(url)
     wordResponse = requests.get(url)
     soup = BeautifulSoup(wordResponse.text, "html.parser")
     """
@@ -48,7 +49,15 @@ for entry in entries:
         for link in links:
             components.append(link.text)
     if len(components) == 0:
-        print("No components found for " + entry)
+        components.append("Same")
     else:
-        print(components)
         count += 1
+    allComponents.append(components)
+print(count)
+with open("complexEntries.txt", 'a') as file:
+    for components in allComponents:
+        for component in components:
+            file.write(component + " ")
+        file.write("\n")
+        
+    

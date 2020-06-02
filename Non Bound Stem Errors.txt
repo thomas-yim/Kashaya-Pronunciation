@@ -1,0 +1,73 @@
+Entry: bacʼohya· | Absolutive: bacʼo hya· | Generated Absolutive: bacʼohya·
+Entry: biqʰama· tol | Absolutive: biqʰama· tolʔ | Generated Absolutive: biqʰama· tol
+Entry: bo·tʼ | Absolutive: botʼ | Generated Absolutive: boʔ
+Entry: cahwe·nmucʼ | Absolutive: cumatʰma· cahwenmuʔ | Generated Absolutive: cahwenmuʔ
+Entry: ciriyo·n | Absolutive: ciriyo·n | Generated Absolutive: ciriyon
+Entry: cuhṭʰe | Absolutive: cuhṭʰew | Generated Absolutive: cuhṭʰe
+Entry: cuhu lahwal | Absolutive: cuhulahwal | Generated Absolutive: cuhu lahwal
+Entry: dul qʰaʔa·li | Absolutive: dulqʰaʔa·li | Generated Absolutive: dul qʰaʔa·li
+Entry: háê | Absolutive: háê | Generated Absolutive: áê
+Entry: haʔcʼa | Absolutive: haʔcʼaw | Generated Absolutive: haʔcʼa
+Entry: he·cʼ | Absolutive: he·cʼ hecʼ | Generated Absolutive: heʔ
+Entry: hoṭʰe·l | Absolutive: hoṭʰe·l | Generated Absolutive: hoṭʰel
+Entry: hqa cuhse | Absolutive: qacuhse | Generated Absolutive: qa cuhse
+Entry: huʔuy tol | Absolutive: huʔu·tol | Generated Absolutive: huʔuy tol
+Entry: huʔuymo | Absolutive: huʔu·mo | Generated Absolutive: huʔuymo
+Entry: kafe· | Absolutive: kafe·y | Generated Absolutive: kafe·
+Entry: kalikakʰ | Absolutive: kalikakʰ | Generated Absolutive: kalikaʔ
+Entry: kaṭʰo·fla | Absolutive: kaṭʰo·fla | Generated Absolutive: kaṭʰofla
+Entry: kaṭʰo·flas | Absolutive: kaṭʰo·flas | Generated Absolutive: kaṭʰoflas
+Entry: kawa·yu hca | Absolutive: kawa·yuhca | Generated Absolutive: kawa·yu hca
+Entry: kawa·yu hso | Absolutive: kawa·yuhso | Generated Absolutive: kawa·yu hso
+Entry: kiki·ṭʰ | Absolutive: kiki·ṭʰ | Generated Absolutive: kikiʔ
+Entry: kʰiwim | Absolutive: kʰiwimʔ | Generated Absolutive: kʰiwim
+Entry: kʰiʔwiʔwi | Absolutive: kʰiʔwiʔwiw | Generated Absolutive: kʰiʔwiʔwi
+Entry: kʼana·tad | Absolutive: kʼana·tad | Generated Absolutive: kʼana·taʔ
+Entry: kʼopʼkʼopʼ | Absolutive: kʼopʼkʼopʼ | Generated Absolutive: kʼopʼkʼoʔ
+Entry: lipʰuyhya | Absolutive: lipʰuy hya | Generated Absolutive: lipʰuyhya
+Entry: liʔši | Absolutive: liʔšiw | Generated Absolutive: liʔši
+Entry: makʼahci | Absolutive: maʔkʼahciw | Generated Absolutive: makʼahci
+Entry: mi hcaw | Absolutive: mihcaw | Generated Absolutive: mi hcaw
+Entry: mihi lahwal | Absolutive: mihilahwal | Generated Absolutive: mihi lahwal
+Entry: naṭa ṭʼa·mqa | Absolutive: ṭʼamqaw | Generated Absolutive: naṭa ṭʼamqa
+Entry: na·ncʼa | Absolutive: na·ncʼa | Generated Absolutive: nancʼa
+Entry: pacew | Absolutive: pʰacew | Generated Absolutive: pacew
+Entry: pataro·n | Absolutive: pataro·n | Generated Absolutive: pataron
+Entry: patro·n | Absolutive: patro·n | Generated Absolutive: patron
+Entry: pa·dre | Absolutive: pa·tere | Generated Absolutive: padre
+Entry: pe·cʰka | Absolutive: pe·cʰka | Generated Absolutive: pecʰka
+Entry: pe·m | Absolutive: pe·m | Generated Absolutive: pem
+Entry: picʰe·l | Absolutive: picʰe·l | Generated Absolutive: picʰel
+Entry: pi·tʰuštʰušu | Absolutive: pi·tʰušpušu | Generated Absolutive: pi·tʰuštʰušu
+Entry: po·tʰlo | Absolutive: po·tʰlo | Generated Absolutive: potʰlo
+Entry: punya·l | Absolutive: punya·l | Generated Absolutive: punyal
+Entry: pʰibe·lma | Absolutive: pʰibelmaw | Generated Absolutive: pʰibelma
+Entry: qada·la | Absolutive: qada·law | Generated Absolutive: qada·la
+Entry: qʼ | Absolutive: qʼ | Generated Absolutive: ʔ
+Entry: qʼ | Absolutive: qʼ | Generated Absolutive: ʔ
+Entry: sibo se·ntu | Absolutive: sibose·ntu | Generated Absolutive: sibo sentu
+Entry: sihṭʰe | Absolutive: sihṭʰew | Generated Absolutive: sihṭʰe
+Entry: ste·cʰ | Absolutive: ste·cʰ | Generated Absolutive: teʔ
+Entry: sʼapʼ | Absolutive: sʼapʼ | Generated Absolutive: sʼaʔ
+Entry: sʼaṭʼ | Absolutive: sʼaṭʼ | Generated Absolutive: sʼaʔ
+Entry: sʼipʼ | Absolutive: sʼipʼ | Generated Absolutive: sʼiʔ
+Entry: sʼiṭʼ | Absolutive: sʼiṭʼ | Generated Absolutive: sʼiʔ
+Entry: sʼupʼ | Absolutive: sʼupʼ | Generated Absolutive: sʼuʔ
+Entry: šaqʼa·qʼayʔ | Absolutive: ša qʼa·qʼayʔ šaqʼa·qʼay | Generated Absolutive: šaqʼa·qʼayʔ
+Entry: šatʼ | Absolutive: šatʼ | Generated Absolutive: šaʔ
+Entry: šihmi | Absolutive: šihmiw | Generated Absolutive: šihmi
+Entry: šo·tʼ | Absolutive: šotʼ | Generated Absolutive: šoʔ
+Entry: ta·pʰla | Absolutive: ta·pʰla | Generated Absolutive: tapʰla
+Entry: ta·š | Absolutive: ta·š | Generated Absolutive: taš
+Entry: teneto·r | Absolutive: teneto·r | Generated Absolutive: tenetoʔ
+Entry: tu·š | Absolutive: tu·š | Generated Absolutive: tuš
+Entry: tʼupʼ | Absolutive: tʼupʼ | Generated Absolutive: tʼuʔ
+Entry: ṭaqʰ | Absolutive: ṭaqʰ | Generated Absolutive: ṭaʔ
+Entry: ṭikʼ | Absolutive: ṭikʼ | Generated Absolutive: ṭiʔ
+Entry: ṭolol | Absolutive: ṭol | Generated Absolutive: ṭolol
+Entry: ṭoqʰ | Absolutive: ṭoqʰ | Generated Absolutive: ṭoʔ
+Entry: ṭʰapʰ | Absolutive: ṭʰapʰ | Generated Absolutive: ṭʰaʔ
+Entry: ṭʼoqoṭʼoqo | Absolutive: ṭʼoqoṭʼoqow | Generated Absolutive: ṭʼoqoṭʼoqo
+Entry: ʔana hca | Absolutive: ʔanahca | Generated Absolutive: ʔana hca
+Entry: ʔda· | Absolutive: daw | Generated Absolutive: da·
+Entry: ʔihqʰoṭ | Absolutive: ʔihqʰoṭ | Generated Absolutive: ʔihqʰoʔ

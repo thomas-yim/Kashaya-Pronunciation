@@ -103,18 +103,19 @@ def createAbsolutive(entry):
             entry = entry[1:]
         segments = splitIntoSegments(entry)
         final = segments[-1][0]
-        """
-        Buckley said this is a rule but it causes more errors than it fixes
-        if final in sonorants:
-            segments.append('ʔ')
+        
+        if final in sChars:
+            pass
+        elif final in sonorants:
+            pass
         elif final in nonVowels:
             segments[-1] = 'ʔ'
-        """
+
         syllables = syllabify(segments)
         structure = footStructure(syllables)
     #This handles closed vowel shortening. A CVVC turns into a CVC
     for i in range(0, len(syllables)):
-        if structure[i] == "CVVC":
+        if structure[i] == "CVVC" or structure[i] == "CVVCC":
             syllableSegments = splitIntoSegments(syllables[i])
             syllableSegments[1] = syllableSegments[1][0]
             syllables[i] = "".join(syllableSegments)
@@ -143,7 +144,7 @@ def main():
     generatedAbs = generateAllAbsolutives(entries)
         
     df.insert(4, "Generated Abs", generatedAbs)
-    with open("Not Bound Stems.txt", "w") as errorFile:
+    with open("Non Bound Stem Errors.txt", "w") as errorFile:
         correct = 0
         total = 0
         notBoundErrors = 0

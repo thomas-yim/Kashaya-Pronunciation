@@ -1,0 +1,3008 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Same \
+Same \
+ba- *bo\'b7l \
+ba- *cec\uc0\u700  \
+Same \
+Same \
+Same \
+*bahcu \
+Same \
+Same \
+Same \
+Same \
+ba- *c\uc0\u688 i\'b7\u7789  1 \
+ba- *c\uc0\u688 u \
+ba- *c\uc0\u688 ul 1 \
+Same \
+Same \
+ba- *c\uc0\u700 al \
+Same \
+ba- *c\uc0\u700 a\'b7\u7789  1 \
+ba- *c\uc0\u700 e \
+Same \
+ba- *c\uc0\u700 i\'b7\u7789  \
+Same \
+bac\uc0\u700 o\'b7 \u660 ihya\'b7 \
+ba- *c\uc0\u700 o\'b7 1 \
+ba- *c\uc0\u700 o\'b7m \
+ba- *c\uc0\u700 o\'b7q \
+Same \
+*ba\uc0\u660 dayac \
+Same \
+ba- *dayic\uc0\u700  \
+Same \
+Same \
+*ba\uc0\u660 di -ibic \
+Same \
+ba- *di\'b7c\uc0\u700  2 \
+ba- *dul \
+Same \
+ba- *hce 1 \
+ba- *hce 1 \
+ba- *hcelh \
+Same \
+*bahcenh \
+ba- *hcenh 2 \
+Same \
+Same \
+Same \
+bahcil -uw \
+ba- *hc\uc0\u688 a 2 \
+Same \
+ba- *hc\uc0\u688 a 3 \
+ba- *hc\uc0\u688 e 1 \
+*hc\uc0\u688 e 1 \
+ba- *hc\uc0\u688 i \
+ba- *hc\uc0\u688 i \
+*bahc\uc0\u688 i 2 \
+ba- *hc\uc0\u688 ital \
+*bahc\uc0\u688 i 1 -aduc \
+ba- *hc\uc0\u688 oc 1 \
+ba- *hc\uc0\u688 ot \
+*ba\uc0\u660 c\u700 olh \
+ba- *hke\'9a \
+Same \
+ba- *hki 1 \
+Same \
+ba- *hko 3 \
+ba- *hkot 1 \
+Same \
+ba- *hkut \
+*bahkut \
+ba- *hk\uc0\u688 el \
+*bahk\uc0\u688 e -ccic\u700  \
+Same \
+ba- *hk\uc0\u688 u \
+Same \
+ba- *hlok\uc0\u700  \
+Same \
+ba- *hlud 1 \
+ba- *hlu\'b7c \
+ba- *hlu\'b7m \
+ba- *hmiy \
+ba- *hmo \
+ba- *hmu\'b7l 1 \
+ba- *hnat 1 \
+Same \
+Same \
+*bahnat \
+ba- *hol \
+Same \
+ba- *hpa 2 \
+Same \
+ba- *hpolh \
+ba- *hp\uc0\u688 a 2 \
+*bahp\uc0\u688 a \
+ba- *hp\uc0\u688 at\u700  \
+Same \
+ba- *hp\uc0\u688 i 1 \
+ba- *hp\uc0\u688 uk\u700 ut \
+ba- *hp\uc0\u688 u\u7789  -ay \
+ba- *hp\uc0\u688 u\u7789 \u700  \
+Same \
+ba- *hqalh \
+ba- *hq\uc0\u688 a 2 \
+Same \
+ba- *hq\uc0\u688 a 2 \
+Same \
+ba- *hq\uc0\u688 ay\u660  1 -ad 2 \
+ba- *hq\uc0\u688 olh \
+Same \
+bahq\uc0\u688 o\u660  \
+bahq\uc0\u688 o\u660  -aq 1 \
+*bahsa 1 \
+ba- *hsey 1 \
+ba- *hset\uc0\u700  \
+ba- *hsik\uc0\u700 it \
+ba- *hsom 1 \
+ba- *hsoq \
+Same \
+ba- *h\'9aa 1 \
+ba- *h\'9ae 1 \
+Same \
+ba- *h\'9aon 1 \
+Same \
+ba- *h\'9auk\uc0\u700 u\u7789  \
+ba- *hta 1 \
+ba- *htay 1 \
+ba- *hte \
+ba- *htenh 3 -ala \
+ba- *htsi \
+Same \
+Same \
+ba- *h\uc0\u7789 ekeye \
+ba- *h\uc0\u7789 ilh \
+ba- *h\uc0\u7789 olh \
+ba- *h\uc0\u7789 on\u7789 olo \
+ba- *h\uc0\u7789 oy \
+ba- *h\uc0\u7789 \u688 a 2 \
+ba- *h\uc0\u7789 \u688 a 1 \
+Same \
+hic\uc0\u700 e\'b7 \
+ba- *hwa\uc0\u7789 \u688  \
+ba- *hwe \
+ba- *hwel \
+ba- *hwe\'b7n \
+ba- *hwi \
+Same \
+ba- *hyol 1 \
+*bahyol \
+Same \
+Same \
+ba- *ku\'b7\uc0\u7789  1 \
+Same \
+ba- *k\uc0\u688 i \
+Same \
+ba- *k\uc0\u688 u\'b7l 1 \
+Same \
+Same \
+ba- *k\uc0\u700 e\'b7n \
+Same \
+ba- *k\uc0\u700 i\'b7\'9a 2 \
+ba- *k\uc0\u700 o\'b7c \
+*bak\uc0\u700 o\'b7c \
+ba- *k\uc0\u700 o\'b7l \
+*bak\uc0\u700 um -aq 1 \
+*bak\uc0\u700 um \
+*bak\uc0\u700 um \
+*bak\uc0\u700 umaq \
+ba- *le \
+Same \
+ba- *le\'b7m \
+Same \
+Same \
+Same \
+*bama 1 -yic \
+Same \
+ba- *nac 3 \
+*bane 2 -ala \
+*bane 2 -ala -hqa \
+*bane 2 \
+*bane 2 -aloq \
+*bane 2 -aq 1 \
+*bane 2 -aqac \
+Same \
+Same \
+*baq\uc0\u688 a\'b7\u7789  \
+Same \
+ba- *q\uc0\u700 a\'b7\u7789  1 \
+Same \
+*bahsa 2 \
+*bahsa 1 -ibic \
+Same \
+ba- *s\uc0\u700 ayla \
+Same \
+ba- *s\uc0\u700 a\'b7l \
+Same \
+Same \
+Same \
+Same \
+ba- *\'9aa\'b7m \
+Same \
+ba\'9ae =wi \
+ba- *\'9ao\'b7m \
+Same \
+ba- *\'9aud 1 \
+Same \
+Same \
+ba- *tilhla \
+ba- *t\uc0\u688 il 1 \
+Same \
+ba\uc0\u660 t\u700 a -aq 1 \
+ba- *t\uc0\u700 o\'9a \
+Same \
+ba- *t\uc0\u700 ul \
+Same \
+ba- *\uc0\u7789 e\'b7m \
+Same \
+ba- *\uc0\u7789 \u688 a\'b7m \
+Same \
+Same \
+Same \
+Same \
+ba- *\uc0\u7789 \u700 a\'b7 \
+ba- *\uc0\u660 balh \
+ba- *\uc0\u660 ba 1 \
+Same \
+Same \
+ba- *\uc0\u660 c\u688 u \
+ba\uc0\u660 c\u700 al -am \
+ba- *\uc0\u660 c\u700 a 1 \
+Same \
+ba- *\uc0\u660 c\u700 e \
+Same \
+ba- *\uc0\u660 c\u700 oq\u688 ot \
+Same \
+ba- *\uc0\u660 dayac \
+ba- *\uc0\u660 den \
+ba- *\uc0\u660 k\u688 o \
+ba- *\uc0\u660 k\u688 o\'9a 1 \
+*ba\uc0\u660 k\u688 o\'9a \
+Same \
+Same \
+Same \
+ba- *\uc0\u660 k\u700 i 2 \
+ba- *\uc0\u660 k\u700 o 2 \
+*ba\uc0\u660 k\u700 o \
+ba- *\uc0\u660 k\u700 olh 1 \
+ba- *\uc0\u660 k\u700 onh \
+*ba\uc0\u660 k\u700 onh \
+ba- *\uc0\u660 k\u700 oy 1 \
+*ba\uc0\u660 k\u700 o \
+ba- *\uc0\u660 k\u700 u \
+*ba\uc0\u660 k\u700 uy -ay \
+ba- *\uc0\u660 li 2 \
+Same \
+ba- *\uc0\u660 lo 2 \
+ba- *\uc0\u660 ne\'b7cic\u700  \
+ba- *\uc0\u660 p\u700 anh \
+Same \
+ba- *\uc0\u660 p\u700 o \
+ba- *\uc0\u660 q\u700 ac \
+*ba\uc0\u660 q\u700 ac -ay \
+Same \
+ba- *\uc0\u660 s\u700 a 2 \
+*ba\uc0\u660 s\u700 a\u7789  \
+*ba\uc0\u660 s\u700 a -ibic \
+Same \
+ba- *\uc0\u660 s\u700 i 2 \
+ba- *\uc0\u660 s\u700 il \
+ba- *\uc0\u660 s\u700 i 2 \
+ba- *s\uc0\u700 uy \
+ba- *\uc0\u660 t\u700 a 4 \
+ba- *\uc0\u660 t\u700 a 4 \
+ba- *\uc0\u660 t\u700 e 2 \
+Same \
+ba- *\uc0\u660 t\u700 el 1 \
+ba- *\uc0\u660 t\u700 em 2 \
+ba- *\uc0\u660 t\u700 em 2 \
+*ba\uc0\u660 t\u700 enh -ay \
+ba- *\uc0\u660 t\u700 ent\u700 ele \
+ba- *\uc0\u660 t\u700 e 1 \
+ba- *\uc0\u660 t\u700 il \
+ba- *\uc0\u660 \u7789 a\'9a \
+Same \
+*ba\uc0\u660 \u7789 \u700 e\u660 \u7789 \u700 e \
+ba- *\uc0\u660 \u7789 \u700 e 3 \
+ba- *\uc0\u660 \u7789 \u700 o \
+ba- *\uc0\u660 \u7789 \u700 u\u7789 \u688 u \
+Same \
+ba- *\uc0\u660 wi \
+ba- *\uc0\u660 ya \
+ba- *\uc0\u660 ye \
+ba- *\uc0\u660 yo 3 \
+ba- *\uc0\u660 yu \
+*bak\uc0\u700 i\'b7\'9a \
+*\uc0\u660 be 5 -ccic\u700  \
+be\'b7 \
+Same \
+*\uc0\u660 be 5 -aq 1 \
+bi- *ce \
+*bice \
+Same \
+Same \
+Same \
+*bi cohto \
+Same \
+Same \
+bi- *c\uc0\u688 a\'b7 1 \
+*bi =c\uc0\u688 u\u660 li \
+-ta \
+Same \
+bi- *c\uc0\u700 i\'b7\u7789  \
+bi- *c\uc0\u700 o\'b7 2 \
+*bic\uc0\u700 o\'b7 2 \
+bi- *c\uc0\u700 o\'b7\u7789  1 \
+Same \
+bi- *c\uc0\u700 ul \
+*bic\uc0\u700 ul \
+*bic\uc0\u700 ul -ay \
+Same \
+Same \
+Same \
+Same \
+bi\uc0\u660 da -\'b7 \
+*bida\'b7d -aduc \
+*bi\uc0\u660 di 1 -ala \
+*bi\uc0\u660 di 1 -alamec\u700  \
+*bi\uc0\u660 di 1 -aloq \
+*bi\uc0\u660 di 1 -aq 1 \
+*bidil \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+*bi duwe \
+bi- *hc\uc0\u688 a 2 \
+bi- *hc\uc0\u688 oc 1 \
+bi- *hc\uc0\u688 oc 1 \
+bi- *hc\uc0\u688 ot \
+bi- *hke \
+Same \
+bi- *hkelh \
+Same \
+Same \
+bi- *hk\uc0\u688 a 1 \
+bi- *hk\uc0\u688 o \
+bi- *hk\uc0\u688 uy \
+bi- *hlas\uc0\u700  \
+bi- *hle\'b7m \
+Same \
+bi- *hli \
+bi- *hlo 1 \
+bi- *hlo\'b7m 1 \
+bi- *hmo \
+bi- *hmo \
+bi- *hmoy \
+bi- *hna \
+bi- *hp\uc0\u688 at\u700  \
+bi- *hp\uc0\u688 a\'b7\'9a \
+bi- *hp\uc0\u688 u\u7789  -ay \
+bi- *hqa 2 \
+*bi *hqa 1 =tol \
+bi- *hq\uc0\u688 a 3 \
+Same \
+bi- *hq\uc0\u688 alh \
+bi- *hq\uc0\u688 olh \
+bi- *hsa 1 \
+bi- *hsilh \
+bi- *hsom 1 \
+bi- *hsoq \
+bi- *h\'9aan \
+Same \
+bi- *h\uc0\u7789 ekeye \
+bi- *h\uc0\u7789 \u688 a 2 \
+bi- *h\uc0\u7789 \u688 u \
+bi- *hwat\uc0\u700  \
+bi- *hwa\uc0\u7789 \u688  \
+bi- *hye\'b7 \
+bi- *ki\'b7l 1 \
+bi- *k\uc0\u688 e\u7789  \
+Same \
+bi- *k\uc0\u688 u\'b7l 1 \
+Same \
+Same \
+bi- *k\uc0\u700 al 1 \
+Same \
+bi- *k\uc0\u700 i\'b7 1 \
+Same \
+bi- *k\uc0\u700 o\'b7l \
+bi- *k\uc0\u700 o\'b7\u7789  \
+Same \
+Same \
+*bi -el \
+bi- *mu 1 \
+Same \
+Same \
+bi- *q\uc0\u688 al 1 \
+Same \
+Same \
+Same \
+*bi q\uc0\u688 ama\'b7tow \
+Same \
+bi- *q\uc0\u700 a\'b7\u7789  1 \
+bi- *su \
+bi- *s\uc0\u700 e\'b7k\u700  \
+bi- *s\uc0\u700 i 1 \
+Same \
+*bis\uc0\u700 i -mul \
+Same \
+Same \
+bi- *\'9aud 1 \
+Same \
+*bi\'9aud \
+Same \
+Same \
+bi- *tilhla \
+bi- *ti\'b7t \
+Same \
+Same \
+Same \
+*bi\uc0\u660 t\u700 enh -ay \
+bi- *t\uc0\u700 e\'b7l \
+Same \
+*biyo\'b7l \
+Same \
+bi- *\uc0\u660 c\u700 o \
+bi- *\uc0\u660 c\u700 u \
+Same \
+*bi\uc0\u660 da -mac \
+Same \
+*bi\uc0\u660 di 1 \
+*bi\uc0\u660 dic -ay \
+bi- *\uc0\u660 k\u700 anh \
+Same \
+bi- *\uc0\u660 k\u700 i 2 \
+bi- *\uc0\u660 k\u700 onh \
+Same \
+bi- *\uc0\u660 k\u700 u \
+bi- *\uc0\u660 lo 2 \
+bi- *\uc0\u660 lu 1 \
+Same \
+bi- *\uc0\u660 ne\'b7cic\u700  \
+bi- *\uc0\u660 p\u700 anh \
+bi- *\uc0\u660 q\u700 ac \
+*bi\uc0\u660 q\u700 ac -ccic\u700  \
+bi- *\uc0\u660 q\u700 o\u660 di 1 \
+Same \
+bi- *\uc0\u660 s\u700 a\u7789  2 \
+bi- *\uc0\u660 s\u700 i 1 \
+bi- *\uc0\u660 s\u700 oq \
+bi- *\uc0\u660 t\u700 enh \
+bi- *\uc0\u660 t\u700 ut\u688 u 1 \
+bi- *\uc0\u660 \u7789 i 1 \
+bi- *\uc0\u660 \u7789 u \
+Same \
+bi- *\uc0\u660 \u7789 \u700 a 1 \
+bi- *\uc0\u660 \u7789 \u700 a\u7789  1 \
+bi- *\uc0\u660 \u7789 \u700 u\u7789 \u688 u \
+Same \
+Same \
+bi- *\uc0\u660 wi \
+bi- *\uc0\u660 ya \
+bi- *\uc0\u660 ya\'b7q \
+bi- *\uc0\u660 yi 4 \
+*\uc0\u660 bo 6 *\u660 bo 6 \
+Same \
+Same \
+Same \
+*bohko \
+Same \
+boho\'b7 \uc0\u660 ohso \
+Same \
+*bohyo \
+Same \
+Same \
+Same \
+*bo\uc0\u7789 \u700  \
+Same \
+*bo\'b7c 1 \
+Same \
+*bo\'b7t\uc0\u700 am \
+Same \
+Same \
+Same \
+Same \
+Same \
+*buhk\uc0\u688 u 1 \
+buhlu \
+Same \
+Same \
+Same \
+*buwi \
+Same \
+Same \
+ca- *bo\'b7l \
+Same \
+Same \
+Same \
+ca- *co 1 \
+Same \
+Same \
+Same \
+ca- *c\uc0\u688 a\'b7 1 \
+Same \
+ca- *c\uc0\u688 i\'b7\u7789  1 \
+Same \
+Same \
+ca- *c\uc0\u700 e \
+Same \
+ca- *c\uc0\u700 i\'b7\u7789  \
+ca- *c\uc0\u700 o\'b7m \
+ca- *c\uc0\u700 o\'b7\u7789  1 \
+Same \
+Same \
+Same \
+Same \
+Same \
+*cad 2 \
+Same \
+Same \
+Same \
+*cad 2 -aq 1 \
+ca- *duw 1 \
+ca- *duw 1 \
+ca- *hcelh \
+*ca 3 \
+*cahci 1 \
+Same \
+ca- *hc\uc0\u688 oc 1 \
+ca- *hc\uc0\u688 oc 1 \
+ca- *hc\uc0\u688 ot \
+ca- *hke \
+ca- *hkilh \
+ca- *hkolh \
+ca- *hkot 1 \
+ca- *hk\uc0\u688 a 1 \
+ca- *hk\uc0\u688 u \
+ca- *hlaba \
+Same \
+ca- *hlal \
+Same \
+ca- *hlo\'b7m 1 \
+ca- *hlu\'b7c \
+ca- *hmoy \
+Same \
+ca- *hmu \
+Same \
+cahno 1 *hcac \
+Same \
+Same \
+Same \
+*cahno \
+Same \
+*cahno \
+Same \
+ca- *hpanh \
+Same \
+Same \
+ca- *hpo 2 \
+Same \
+ca- *hpolh \
+ca- *hponpolo \
+ca- *hp\uc0\u688 aq\u700  \
+Same \
+ca- *hp\uc0\u688 i 1 \
+ca- *hqa 2 \
+*ca 3 \
+Same \
+Same \
+ca- *hq\uc0\u688 a 3 \
+*cahq\uc0\u688 a \
+ca- *hq\uc0\u688 a\u7789  2 \
+*cahq\uc0\u688 ay\u660  -ad 2 \
+*cahq\uc0\u688 ay\u660  -ala \
+*cahq\uc0\u688 ay\u660  -m 2 \
+ca- *hq\uc0\u688 olh \
+ca- *hsa 3 \
+*cahsa 2 \
+Same \
+ca- *hsit \
+Same \
+ca- *hsok\uc0\u700 ot 2 \
+ca- *hsom 1 \
+ca- *hsoq \
+ca- *h\'9aan \
+Same \
+ca- *htenh 1 \
+*htenh 1 \
+ca- *hto\'9a 2 \
+ca- *ht\uc0\u688 o \
+ca- *h\uc0\u7789 a \
+ca- *h\uc0\u7789 a \
+ca- *h\uc0\u7789 an\u7789 ala \
+Same \
+ca- *h\uc0\u7789 on\u7789 olo \
+ca- *h\uc0\u7789 \u688 a 2 \
+ca- *h\uc0\u7789 \u688 e 1 \
+ca- *hwat\uc0\u700  \
+ca- *hwa\uc0\u7789 \u688  \
+ca- *hwe\'b7n \
+*cahwe\'b7n -muc\uc0\u700  \
+ca- *hye\'b7 \
+ca- *hyol 1 \
+*caka\'b7nma \
+ca- *ka\'b7n \
+ca- *ki\'b7\'9a \
+ca- *ki\'b7m \
+Same \
+Same \
+ca- *k\uc0\u700 al 1 \
+Same \
+Same \
+Same \
+Same \
+ca- *\uc0\u660 k\u700 i 2 \
+Same \
+Same \
+Same \
+Same \
+ca- *k\uc0\u700 o\'b7l \
+Same \
+Same \
+Same \
+Same \
+cale\'b7l \uc0\u660 ama\'b7 1   2 \
+Same \
+*hca 2 -aloq \
+Same \
+Same \
+Same \
+mihca -mhma \
+Same \
+ca- *nem 1 \
+ca- *ne\'b7c 2 \
+*cahno -mac\uc0\u700  \
+Same \
+Same \
+*cad 1 \
+*capa\'b7\'9a \
+ca- *pe\'b7l \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+*caq\uc0\u688 a\'b7 1 \
+ca- *q\uc0\u688 a\'b7\u7789  2 \
+Same \
+Same \
+ca- *q\uc0\u688 o\u7789  2 \
+Same \
+Same \
+ca- *q\uc0\u700 a\'b7s \
+ca- *sa 1 \
+ca- *s\uc0\u700 a\'b7l \
+-t 2 \
+ca- *s\uc0\u700 iy 2 \
+\uc0\u660 ahca s\u700 i\u660 da  1 \
+Same \
+*hca 2 \
+Same \
+Same \
+ca- *t\uc0\u700 ul \
+ca- *\uc0\u7789 al \
+ca- *\uc0\u7789 i\u7789 im \
+ca- *\uc0\u7789 \u700 em 2 \
+Same \
+ca- *\uc0\u660 c\u700 e \
+ca- *\uc0\u660 c\u700 on \
+ca- *\uc0\u660 c\u700 ot \
+*ca\uc0\u660 di 1 \
+ca- *\uc0\u660 k\u700 a 2 \
+Same \
+ca- *\uc0\u660 k\u700 ay\u660  \
+ca- *\uc0\u660 k\u700 a 2 \
+Same \
+ca- *\uc0\u660 k\u700 i\u7789  \
+ca- *\uc0\u660 k\u700 olh 1 \
+ca- *\uc0\u660 k\u700 onh \
+ca- *\uc0\u660 k\u700 oy 1 \
+ca- *\uc0\u660 k\u700 o 1 \
+ca- *\uc0\u660 k\u700 u \
+ca- *\uc0\u660 law\u660  \
+ca- *\uc0\u660 lu 1 \
+Same \
+Same \
+Same \
+ca- *\uc0\u660 p\u700 anh \
+*ca\uc0\u660 p\u700 anh \
+ca- *\uc0\u660 q\u700 o\u660 di 1 \
+Same \
+*ca\uc0\u660 q\u700 o\u660 di \
+ca- *\uc0\u660 s\u700 a\u7789  1 \
+ca- *\uc0\u660 s\u700 i 2 \
+ca- *\uc0\u660 s\u700 o 2 \
+ca- *\uc0\u660 s\u700 o 3 \
+ca- *\uc0\u660 t\u700 a 4 \
+ca- *\uc0\u660 t\u700 e 2 \
+Same \
+ca- *\uc0\u660 t\u700 ekele \
+ca- *\uc0\u660 t\u700 el 1 \
+ca- *\uc0\u660 t\u700 em 5 \
+ca- *\uc0\u660 t\u700 unh \
+Same \
+ca- *\uc0\u660 \u7789 \u700 a 1 \
+ca- *\uc0\u660 \u7789 \u700 a\u7789  3 ca- *\u660 \u7789 \u700 a\u7789  3 \
+ca- *\uc0\u660 \u7789 \u700 e 3 \
+ca- *\uc0\u660 \u7789 \u700 olh \
+ca- *\uc0\u660 \u7789 \u700 ubut 1 \
+Same \
+ca- *\uc0\u660 wi \
+ca- *\uc0\u660 ya \
+ca- *\uc0\u660 ya\'b7q \
+ca- *\uc0\u660 yi 4 \
+ca- *\uc0\u660 yis \
+ca- *\uc0\u660 yo 4 \
+Same \
+ca- *\uc0\u660 yu \
+*hca 2 -ad 1 \
+*hca 2 -aduc \
+*caka\'b7nma \
+*hca 2 -aqac \
+ca- *sq\uc0\u688 ac \
+*ca\uc0\u7789 al \
+Same \
+Same \
+Same \
+Same \
+ciba\'b7 \
+Same \
+*c\uc0\u688 i\'b7\u7789  1 \
+c\uc0\u688 i- *c\u688 u \
+c\uc0\u688 i- *c\u688 ul 1 \
+c\uc0\u688 i- *c\u688 ul 1 \
+Same \
+Same \
+Same \
+c\uc0\u688 i- *hce 1 \
+c\uc0\u688 i- *hc\u688 a 2 \
+Same \
+Same \
+c\uc0\u688 i- *hc\u688 e 1 \
+Same \
+c\uc0\u688 i- *hc\u688 oc 1 \
+c\uc0\u688 i- *hc\u688 oc 1 \
+c\uc0\u688 i- *hc\u688 ot \
+c\uc0\u688 i- *hke \
+Same \
+c\uc0\u688 i- *hki 1 \
+Same \
+c\uc0\u688 i- *hko 3 \
+c\uc0\u688 i- *hkot 1 \
+c\uc0\u688 i- *hkulh 1 c\u688 i- *hkulh 1 \
+c\uc0\u688 i- *hk\u688 u \
+c\uc0\u688 i- *hle\'b7m \
+Same \
+c\uc0\u688 i- *hmiy \
+Same \
+c\uc0\u688 i- *hmo \
+c\uc0\u688 i- *hmoy \
+c\uc0\u688 i- *hna \
+c\uc0\u688 i- *hnat 1 \
+Same \
+Same \
+c\uc0\u688 i- *hpanh \
+c\uc0\u688 i- *hp\u688 at\u700  \
+Same \
+c\uc0\u688 i- *hp\u688 o \
+c\uc0\u688 i- *hp\u688 o\u7789  1 \
+c\uc0\u688 i- *hp\u688 uk\u700 ut \
+c\uc0\u688 i- *hqo\u7789 ol 1 \
+c\uc0\u688 i- *hqoy\u660  1 \
+c\uc0\u688 i- *hq\u688 a 3 \
+c\uc0\u688 i- *hq\u688 alh \
+c\uc0\u688 i- *hsa 1 \
+Same \
+Same \
+c\uc0\u688 i- *hsim \
+c\uc0\u688 i- *hsom 2 \
+Same \
+c\uc0\u688 i- *htay 1 \
+c\uc0\u688 i- *hte \
+c\uc0\u688 i- *htenh 1 \
+c\uc0\u688 i- *hto\'9a 2 \
+Same \
+Same \
+c\uc0\u688 i- *h\u7789 \u688 e 1 \
+Same \
+c\uc0\u688 i- *h\u7789 \u688 i 2 \
+cih\uc0\u7789 \u688 i \
+c\uc0\u688 i- *hwa\u7789 \u688  \
+c\uc0\u688 i- *hwel \
+c\uc0\u688 i- *hwis\u700  \
+c\uc0\u688 i- *hye\'b7 \
+c\uc0\u688 i- *hyol 1 \
+Same \
+c\uc0\u688 i- *k\u688 u\'b7l 1 \
+Same \
+*cili\'b7c =c\uc0\u688 ot \
+*ciw \
+Same \
+*cima \
+Same \
+*cin \uc0\u660 ahay \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+*hci 5 \
+c\uc0\u688 i- *\u7789 i\u7789 im \
+*ciwala \
+*ciw -aqac \
+*ciw -aduc \
+*ciw -aloq \
+*ciw -aloqoc\uc0\u700  \
+*ciw -aq\uc0\u695  \
+*ciw -aqoc\uc0\u700  \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+*ci\'b7c\uc0\u700  -aduc \
+*ci\'b7c\uc0\u700  \
+*ci\'b7c\uc0\u700  \
+Same \
+c\uc0\u688 i- *ki\'b7\'9a \
+Same \
+-h- \
+Same \
+cu- *\uc0\u660 bo 5 \
+cu- *bo\'b7k\uc0\u700  \
+cu- *c\uc0\u700 o\'b7q \
+cu- *c\uc0\u700 o\'b7\u7789  2 \
+Same \
+Same \
+cu- *hc\uc0\u688 oc 1 \
+cu- *hc\uc0\u688 ot \
+Same \
+cu- *hkolh \
+cu- *hkot 1 \
+cu- *hk\uc0\u688 o \
+cu- *hlo 1 \
+cu- *hlok\uc0\u700  \
+cu- *hlo\'b7m 1 \
+cu- *hmoy \
+Same \
+Same \
+Same \
+cu- *hol \
+Same \
+Same \
+cu- *hpo 2 \
+Same \
+cu- *hpolh \
+Same \
+*hcoq \
+cu- *hqos\uc0\u700  \
+Same \
+cu- *hq\uc0\u688 obot \
+cu- *hq\uc0\u688 olh \
+Same \
+cu- *hsom 1 \
+Same \
+*coh\'9aolh \
+cu- *h\'9aolh \
+Same \
+Same \
+Same \
+*cohtoc \
+*cohto \
+cu- *hto\'9a 2 \
+Same \
+*coko\'b7l \
+Same \
+Same \
+Same \
+Same \
+cu- *q\uc0\u700 o\'b7\u7789  \
+*cohto -aqoc\uc0\u700  \
+cu- *\uc0\u7789 o\'b7l \
+cu- *\uc0\u7789 \u688 o \
+cu- *yot 2 \
+cu- *yo\uc0\u7789  \
+cu- *\uc0\u660 c\u700 olh \
+cu- *\uc0\u660 c\u700 on \
+cu- *\uc0\u660 c\u700 oq\u688 ot \
+cu- *\uc0\u660 c\u700 o \
+Same \
+*co\uc0\u660 do \
+cu- *\uc0\u660 k\u688 o\'9a 1 \
+cu- *\uc0\u660 k\u700 o 2 \
+cu- *\uc0\u660 k\u700 olh 1 \
+cu- *\uc0\u660 k\u700 o 1 \
+cu- *\uc0\u660 lo 2 \
+Same \
+Same \
+cu- *\uc0\u660 s\u700 onh \
+cu- *\uc0\u660 yo 1 \
+cu- *\uc0\u660 yo 3 \
+*hco 3 -ibic \
+*hco 4 -aduc \
+*hco 4 -ala \
+*co\'b7d \
+*hco 4 -aqac \
+Same \
+Same \
+Same \
+*cu\uc0\u660 ba \
+cu- *ba\'b7l \
+Same \
+Same \
+Same \
+Same \
+Same \
+cu- *c\uc0\u688 a\'b7 1 \
+Same \
+cu- *c\uc0\u688 i\'b7\u7789  1 \
+cu- *c\uc0\u688 u \
+Same \
+Same \
+cu- *c\uc0\u700 i\'b7\u7789  \
+Same \
+*cu\uc0\u660 di -aq 1 \
+Same \
+Same \
+Same \
+cu- *duw 1 \
+cu- *duw 1 \
+*cuduw 1 -aq 1 \
+cu- *hcelh \
+Same \
+cu- \
+Same \
+cu- *hc\uc0\u688 a 3 \
+Same \
+*hc\uc0\u688 u \
+Same \
+Same \
+cu- *hkelh \
+cu- *hkut \
+cu- *hk\uc0\u688 a 1 \
+Same \
+cu- *hk\uc0\u688 e 1 \
+cu- *hk\uc0\u688 u \
+cu- *hlaba \
+cu- *hlabat \
+cu- *hlabat \
+*cuhlaba \
+Same \
+cu- *hnat 1 \
+cu- *hp\uc0\u688 a\'b7\'9a \
+cu- *hp\uc0\u688 uk\u700 ut \
+cu- *hqalh \
+*cuhq\uc0\u688 ahq\u688 a \
+cu- *hq\uc0\u688 a\u7789  1 \
+cu- *hq\uc0\u688 ay\u660  1 -ad 2 \
+cu- *hsa 1 \
+Same \
+Same \
+cu- *hsim \
+cu- *hsit \
+cu- *h\'9aan \
+cu- *h\'9ai 2 \
+*cuh\'9ai =wi \
+cu- *htay 1 \
+Same \
+cu- *hte \
+cu- *hti 2 \
+cu- *htsinh \
+Same \
+cu- *ht\uc0\u688 u \
+cu- *h\uc0\u7789 a \
+cu- *h\uc0\u7789 \u688 a 2 \
+cu- *h\uc0\u7789 \u688 a 1 \
+cu- *h\uc0\u7789 \u688 e 1 \
+Same \
+cu- *h\uc0\u7789 \u688 u \
+cu- *h\uc0\u7789 \u688 u\u7789  \
+cuhula lahwal \
+cu- *hye\'b7 \
+cu- *kel 1 \
+Same \
+Same \
+Same \
+Same \
+*cuk\uc0\u688 e\'b7n\u660 wad -w 3 \
+cu- *k\uc0\u688 i \
+Same \
+Same \
+Same \
+cu- *k\uc0\u700 al 1 \
+Same \
+Same \
+cu- *k\uc0\u700 a\u7789 \u688 ic \
+Same \
+Same \
+cu- *k\uc0\u700 i\'b7\'9a 2 \
+cu- *kiki\uc0\u7789  \
+Same \
+cu- *k\uc0\u700 u\'b7m 1 \
+cu- *lac \
+Same \
+cu- *lu 2 \
+Same \
+*cuma 1 \
+Same \
+Same \
+cu- *nac 3 \
+Same \
+Same \
+Same \
+cu- *nem 1 \
+*cune\'b7c -ay \
+cu- *pa 2 \
+Same \
+Same \
+Same \
+cu- *p\uc0\u688 u\'b7 2 \
+Same \
+cu- *q\uc0\u688 a\'b7\u7789  2 \
+Same \
+cu- *q\uc0\u700 a\'b7\u7789  1 \
+cu- *sa 1 \
+Same \
+Same \
+cu- *s\uc0\u700 ihc 2 \
+Same \
+Same \
+-t 2 \
+Same \
+Same \
+Same \
+cu- *s\uc0\u700 uy \
+*cus\uc0\u700 uy -aq 1 \
+cu- *s\uc0\u700 u\'b7l 1 \
+Same \
+cu- *\'9au\'b7l \
+cu- *ta\uc0\u7789  \
+Same \
+Same \
+Same \
+*te\'b7n \
+Same \
+cu- *tilhla \
+cu- *ti\'b7t \
+cu- *tu 1 \
+Same \
+Same \
+cu- *t\uc0\u700 e\'b7l \
+cu- *\uc0\u7789 a 2 \
+cu- *\uc0\u7789 a\'b7m \
+cu- *\uc0\u7789 i 1 \
+Same \
+Same \
+cu- *\uc0\u7789 i\u7789 im \
+Same \
+cu- *\uc0\u660 di 1 \
+cu- *\uc0\u660 k\u700 ay\u660  \
+Same \
+cu- *\uc0\u660 k\u700 i 2 \
+cu- *\uc0\u660 k\u700 u \
+*cu\uc0\u660 k\u700 u \
+cu- *\uc0\u660 law\u660  \
+cu- *\uc0\u660 p\u700 anh \
+cu- *\uc0\u660 q\u700 ac \
+cu- *\uc0\u660 s\u700 i 2 \
+cu- *\uc0\u660 s\u700 il \
+cu- *\uc0\u660 s\u700 u\'9a \
+*cu\uc0\u660 s\u700 u\'9a \
+cu- *\uc0\u660 t\u700 aq 1 \
+Same \
+Same \
+cu- *\uc0\u660 t\u700 e 2 \
+cu- *\uc0\u660 t\u700 em 5 \
+cu- *\uc0\u660 t\u700 ut 1 \
+cu- *\uc0\u660 \u7789 i 1 \
+cu- *\uc0\u660 \u7789 u \
+Same \
+cu- *\uc0\u660 \u7789 \u700 a 1 \
+cu- *\uc0\u660 \u7789 \u700 a\u7789  3 \
+cu- *\uc0\u660 \u7789 \u700 e 4 \
+cu- *\uc0\u660 \u7789 \u700 es \
+cu- *\uc0\u660 \u7789 \u700 ubut 1 \
+cu- *\uc0\u660 \u7789 \u700 u\u7789  \
+cu- *\uc0\u660 ya\'b7q \
+cu- *\uc0\u660 yi 3 \
+Same \
+Same \
+*c\uc0\u688 ala 1 \
+Same \
+Same \
+Same \
+Same \
+*c\uc0\u688 awi \
+*c\uc0\u688 a\'b7 2 \
+Same \
+*c\uc0\u688 e\u660 e -aqoc\u700  \
+*c\uc0\u688 e\u660 e -ibic \
+Same \
+Same \
+Same \
+c\uc0\u688 i- *bo\'b7l \
+c\uc0\u688 i- *bo\'b7m \
+Same \
+Same \
+*c\uc0\u688 i\u660 c\u700 am \
+c\uc0\u688 i- *c\u700 a\'b7\u7789  1 \
+c\uc0\u688 i- *c\u700 e \
+Same \
+c\uc0\u688 i- *c\u700 i\'b7\u7789  \
+c\uc0\u688 i- *c\u700 o\'b7q \
+Same \
+Same \
+Same \
+c\uc0\u688 i- *k\u700 il \
+c\uc0\u688 i- *k\u700 is \
+*c\uc0\u688 ik\u700 is \
+Same \
+c\uc0\u688 i- *k\u700 i\'b7 2 -m 2 \
+Same \
+Same \
+Same \
+Same \
+c\uc0\u688 i- *k\u700 o\'b7l \
+c\uc0\u688 i- *k\u700 o\'b7m 1 \
+c\uc0\u688 i- *k\u700 o\'b7\u7789  \
+*c\uc0\u688 ilac \
+Same \
+Same \
+*c\uc0\u688 i\'b7\u7789  3 -aqoc\u700  \
+c\uc0\u688 i- *ne 1 \
+Same \
+c\uc0\u688 i- *nem 1 \
+Same \
+Same \
+c\uc0\u688 i- *q\u700 a\'b7m 2 \
+c\uc0\u688 i- *q\u700 a\'b7\u7789  1 \
+Same \
+c\uc0\u688 i- *t\u700 e\'b7l \
+Same \
+c\uc0\u688 i- *\u7789 i 2 \
+Same \
+c\uc0\u688 i- *\u7789 \u700 a\'b7\'9a \
+Same \
+Same \
+Same \
+*c\uc0\u688 iya\'b7c\u700  *c\u688 iyac\u700 aq \
+c\uc0\u688 i- *ye 2 \
+Same \
+c\uc0\u688 i- *\u660 bolh 1 \
+*c\uc0\u688 i\u660 c\u700 a \
+c\uc0\u688 i- *\u660 c\u700 a 3   2 \
+*c\uc0\u688 i\u660 c\u700 amci \
+c\uc0\u688 i- *\u660 c\u700 amh \
+c\uc0\u688 i- *\u660 c\u700 olh \
+c\uc0\u688 i- *\u660 c\u700 on \
+c\uc0\u688 i- *\u660 c\u700 o \
+Same \
+c\uc0\u688 i- *\u660 di 1 \
+*c\uc0\u688 i\u660 di -m 2 \
+c\uc0\u688 i- *\u660 k\u700 ay\u660  \
+c\uc0\u688 i- *\u660 k\u700 e \
+Same \
+c\uc0\u688 i- *\u660 k\u700 i 2 \
+c\uc0\u688 i- *\u660 k\u700 o 2 \
+*c\uc0\u688 i\u660 k\u700 o *c\u688 i\u660 k\u700 o \
+c\uc0\u688 i- *\u660 k\u700 u \
+*c\uc0\u688 i\u660 k\u700 u \
+c\uc0\u688 i- *\u660 lu 1 \
+c\uc0\u688 i- *\u660 p\u700 anh \
+Same \
+c\uc0\u688 i- *\u660 p\u700 o \
+c\uc0\u688 i- *\u660 q\u700 ac \
+c\uc0\u688 i- *\u660 q\u700 o\u660 di 1 \
+c\uc0\u688 i- *\u660 s\u700 o 3 \
+c\uc0\u688 i- *\u660 s\u700 ulh 1 \
+Same \
+Same \
+c\uc0\u688 i- *\u660 t\u700 a 4 \
+*c\uc0\u688 i\u660 t\u700 aq \
+*c\uc0\u688 i\u660 t\u700 aq \
+Same \
+c\uc0\u688 i- *\u660 t\u700 em 5 \
+c\uc0\u688 i- *\u660 t\u700 e 1 \
+c\uc0\u688 i- *\u660 \u7789 \u700 a 1 \
+c\uc0\u688 i- *\u660 \u7789 \u700 aq 2 \
+c\uc0\u688 i- *\u660 \u7789 \u700 a\u7789  2 \
+Same \
+Same \
+*c\uc0\u688 i\u660 yi \
+c\uc0\u688 i- *\u660 yo 4 \
+c\uc0\u688 i- *lam \
+Same \
+Same \
+Same \
+Same \
+Same \
+*hc\uc0\u688 oc 1 \
+*hc\uc0\u688 o\'b7 1 -nati \
+*c\uc0\u688 uli -aq 1 \
+Same \
+Same \
+Same \
+*c\uc0\u688 uli \
+Same \
+Same \
+*c\uc0\u688 ul 2 \
+Same \
+Same \
+Same \
+*c\uc0\u688 uway \
+Same \
+Same \
+Same \
+Same \
+Same \
+*c\uc0\u700 a\'b7\u7789  1 \
+Same \
+Same \
+*c\uc0\u700 e\u660 ye \
+Same \
+Same \
+*c\uc0\u700 e\'b7l \
+Same \
+Same \
+Same \
+Same \
+*c\uc0\u700 oto \
+Same \
+Same \
+Same \
+*da\uc0\u660 ba \
+da- *ba\'b7l \
+*dabet \
+*dabet \
+Same \
+da- *bi\'b7l \
+Same \
+Same \
+Same \
+da- *bo\'b7l \
+da- *bo\'b7m \
+*dabo\'b7m \
+*dace \
+Same \
+Same \
+Same \
+Same \
+Same \
+da- *co\'b7l 2 \
+da- *co\'b7lic \
+*daco\'b7lic \
+*daco\'b7lic *c\uc0\u688 uli \
+Same \
+*dac\uc0\u688 a\'b7 \
+Same \
+Same \
+Same \
+da- *c\uc0\u688 a\'b7 1 \
+Same \
+da- *c\uc0\u688 i\'b7\u7789  1 \
+da- *c\uc0\u688 u \
+da- *c\uc0\u688 ul 2 \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+da- *c\uc0\u700 al \
+Same \
+da- *c\uc0\u700 e \
+Same \
+da- *c\uc0\u700 i\'b7\u7789  \
+da- *c\uc0\u700 o\'b7 1 \
+*dac\uc0\u700 o\'b7 1 \
+da- *c\uc0\u700 o\'b7q \
+da- *c\uc0\u700 o\'b7\u7789  1 \
+*dac\uc0\u700 o\'b7 1 \
+da- \
+da- *dahc\uc0\u688 i 1 \
+da- *duw 2 \
+da- *hal \
+Same \
+*dahal =wi \
+Same \
+da- *hcalh \
+da- *hcelh \
+da- *hcelh \
+da- *hci 4 \
+Same \
+da- *co 1 \
+da- *hcu \
+da- *hc\uc0\u688 a 2 \
+*dahc\uc0\u688 a \
+da- *hc\uc0\u688 a\u7789  \
+da- *hc\uc0\u688 e 1 \
+da- *hc\uc0\u688 i \
+da- *hc\uc0\u688 oc 1 \
+da- *hc\uc0\u688 ot \
+da- *hc\uc0\u688 u \
+da- *hc\uc0\u688 u \
+da- *hka \
+*dahkam \
+*dahka\uc0\u7789 \u700  \
+*dahka\uc0\u7789 \u700  \
+da- *hke \
+Same \
+da- *hkelh \
+Same \
+da- *hko 3 \
+da- *hkolh \
+da- *hkolh \
+da- *hko 1 \
+da- *hkot 1 \
+da- *hk\uc0\u688 e 1 \
+da- *hk\uc0\u688 i\u7789 \u700  1 \
+da- *hk\uc0\u688 o \
+da- *hk\uc0\u688 u \
+da- *hle\'b7m \
+da- *hlic 1 \
+da- *hlo 1 \
+*dahlo \
+da- *hlok\uc0\u700  \
+*dahlok\uc0\u700  \
+da- *hlo\'b7m 1 \
+da- *hlud 1 \
+da- *hlu\uc0\u7789 \u700  1 \
+da- *hlu\'b7c \
+da- *hmoy \
+da- *hmu\'b7l 1 \
+*dahnat \
+da- *hnat 1 \
+Same \
+da- *hol \
+Same \
+da- *hpa 2 \
+da- *hpa 2 \
+Same \
+da- *hpanh \
+Same \
+da- *hpolh \
+da- *hponpolo \
+da- *hp\uc0\u688 aq\u700  \
+Same \
+da- *hp\uc0\u688 i 1 \
+da- *hp\uc0\u688 om \
+da- *hp\uc0\u688 uk\u700 ut \
+da- *hp\uc0\u688 u\u7789  -ay \
+da- *hp\uc0\u688 u\u7789 \u700  \
+da- *hp\uc0\u688 uy da- *hp\u688 uy \
+da- *hp\uc0\u688 u\'b7 \
+da- *hqa 2 \
+da- *hqa 4 \
+da- *hqalh \
+da- *hqos\uc0\u700  \
+da- *hqoy\uc0\u660  1 \
+*dahqoy\uc0\u660  \
+da- *hq\uc0\u688 a 3 \
+Same \
+da- *hq\uc0\u688 a 3 \
+da- \
+da- *hq\uc0\u688 olh \
+da- *hsa 1 \
+da- *hsa 1 \
+Same \
+*dahse \
+da- *hsey 1 \
+da- *hsik\uc0\u700 it \
+da- *hsim \
+da- *hsis \
+da- *hsit\uc0\u700  \
+Same \
+da- *hso \
+da- *hsok\uc0\u700 ot 2 \
+da- *hso\uc0\u7789  \
+da- *hsu 2 \
+da- *hsut \
+dah\'9aa \
+dah\'9aa \
+da- *h\'9aan \
+da- *h\'9ae 1 \
+Same \
+da- *h\'9ai 1 \
+da- *hte \
+da- *htenh 2 \
+da- *hto 1 \
+da- *ht\uc0\u688 unh \
+Same \
+da- *h\uc0\u7789 ilh \
+da- *h\uc0\u7789 \u688 a 2 \
+da- *h\uc0\u7789 \u688 e 2 \
+da- *h\uc0\u7789 \u688 inh \
+da- *hwat\uc0\u700  \
+da- *hwe\'b7n \
+da- *hwi \
+da- *hyal -ic\uc0\u700  2 \
+da- *hyol 1 \
+da- *hyut \
+da- *hyu\uc0\u7789  \
+Same \
+Same \
+da- *kel 1 \
+da- *kiki\uc0\u7789  \
+*daki\'b7l \
+Same \
+da- *ki\'b7l 1 \
+Same \
+Same \
+Same \
+Same \
+da- *k\uc0\u688 e\u7789  \
+*dak\uc0\u688 e\u7789  -aq 1 \
+Same \
+*dahk\uc0\u688 e -ad 2 \
+Same \
+da- *k\uc0\u688 u\'b7l 1 \
+Same \
+Same \
+Same \
+*dak\uc0\u700 a\'b7n -ay \
+Same \
+da- *k\uc0\u700 a\'b7n \
+*dak\uc0\u700 a\'b7n \
+Same \
+da- *k\uc0\u700 i\u7789 \u688  \
+da- *k\uc0\u700 i\u7789 \u688  -ala \
+Same \
+da- *k\uc0\u700 i\'b7 1 \
+Same \
+Same \
+*da\uc0\u660 k\u700 olh -ad 1 \
+Same \
+Same \
+da- *k\uc0\u700 o\'b7l \
+da- *k\uc0\u700 o\'b7\u7789  \
+*dak\uc0\u700 o\'b7\u7789  \
+da- *k\uc0\u700 um \
+Same \
+da- *lo \
+*dalu \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+da- *mil \
+*damit -aduc \
+Same \
+Same \
+Same \
+da- *pam \
+da- *p\uc0\u688 u\'b7m \
+Same \
+da- *p\uc0\u700 il \
+Same \
+Same \
+Same \
+da- *qol \
+Same \
+Same \
+Same \
+*\uc0\u660 daq\u688 ad \
+da- *q\uc0\u688 a\'b7m \
+da- *q\uc0\u688 a\'b7s -ad 2 \
+da- *q\uc0\u688 a\'b7s -ala \
+da- *q\uc0\u688 a\'b7\u7789  2 \
+*daq\uc0\u688 o\u7789  \
+Same \
+Same \
+da- *q\uc0\u700 a\'b7s \
+da- *se\'b7 \
+da- *so\'b7l \
+da- *s\uc0\u700 a\'b7l \
+*das\uc0\u700 a\'b7 \
+Same \
+-t 2 \
+da- *s\uc0\u700 iy 2 \
+da- *s\uc0\u700 ul \
+Same \
+da- *\'9aa\'b7m \
+Same \
+da- *\'9aud 1 \
+Same \
+*da\'9aud \
+-t 2 \
+Same \
+Same \
+*dati\'b7t =wi \
+*datsayla \
+Same \
+Same \
+da- *t\uc0\u700 at 3 \
+Same \
+*da\uc0\u7789 a\'b7m \
+da- *\uc0\u7789 a\'b7m \
+da- *\uc0\u7789 a\'b7n 2 \
+da- *\uc0\u7789 a\'b7\'9a 2 \
+Same \
+da- *\uc0\u7789 i\u7789 im \
+Same \
+Same \
+da- *\uc0\u7789 \u688 e\'b7 1 \
+Same \
+Same \
+da- *\uc0\u7789 \u700 a\'b7 \
+da- *\uc0\u660 bo 4 \
+Same \
+*da\uc0\u660 c\u688 a 1 -ibic \
+da- *\uc0\u660 c\u700 et \
+da- *\uc0\u660 c\u700 on \
+da- *\uc0\u660 c\u700 oq\u688 ot \
+da- *\uc0\u660 dayac \
+da- *\uc0\u660 k\u700 a 1 \
+da- *\uc0\u660 k\u700 anh \
+*da\uc0\u660 k\u700 anh \
+da- *\uc0\u660 k\u700 ay\u660  \
+da- *\uc0\u660 k\u700 e \
+Same \
+da- *\uc0\u660 k\u700 i 2 \
+da- *\uc0\u660 k\u700 o 2 \
+da- *\uc0\u660 k\u700 olh 1 \
+da- *\uc0\u660 k\u700 onh \
+*da\uc0\u660 k\u700 onh \
+*da\uc0\u660 k\u700 onhci \
+*da\uc0\u660 k\u700 onh \
+da- *\uc0\u660 k\u700 oy 1 \
+da- *\uc0\u660 k\u700 o 1 \
+da- *\uc0\u660 k\u700 u \
+da- *\uc0\u660 law\u660  \
+Same \
+da- *\uc0\u660 lo 2 \
+da- *\uc0\u660 p\u700 anh \
+Same \
+da- *\uc0\u660 p\u700 o \
+da- *\uc0\u660 q\u700 ac \
+Same \
+da- *\uc0\u660 s\u700 a\u7789  1 \
+da- *\uc0\u660 s\u700 i 2 \
+da- *\uc0\u660 s\u700 il \
+da- *\uc0\u660 s\u700 i 1 \
+da- *\uc0\u660 s\u700 o 1 \
+*da\uc0\u660 s\u700 onh -aduc \
+da- *\uc0\u660 s\u700 onh \
+Same \
+da- *\uc0\u660 s\u700 o 3 \
+da- *\uc0\u660 t\u700 a 7 \
+Same \
+*da\uc0\u660 t\u700 a -hqa \
+Same \
+*da\uc0\u660 t\u700 a \
+*da\uc0\u660 t\u700 a \
+Same \
+da- *\uc0\u660 t\u700 ekele \
+da- *\uc0\u660 t\u700 em 3 \
+da- *\uc0\u660 t\u700 emh \
+da- *\uc0\u660 t\u700 e 1 \
+da- *\uc0\u660 t\u700 unh \
+da- *\uc0\u660 t\u700 ut\u688 u 1 \
+da- *\uc0\u660 \u7789 u \
+Same \
+Same \
+da- *\uc0\u660 \u7789 \u700 a 1 \
+da- *\uc0\u660 \u7789 \u700 aq\u700 at \
+da- *\uc0\u660 \u7789 \u700 a\'9a 1 \
+da- *\uc0\u660 \u7789 \u700 a\u7789  3 \
+da- *\uc0\u660 \u7789 \u700 a 2 \
+da- *\uc0\u660 \u7789 \u700 e 2 \
+Same \
+Same \
+da- *\uc0\u660 \u7789 \u700 elh \
+da- *\uc0\u660 \u7789 \u700 i 3 \
+da- *\uc0\u660 \u7789 \u700 i 1 \
+da- *\uc0\u660 \u7789 \u700 olh \
+Same \
+da- *\uc0\u660 wi \
+da- *\uc0\u660 ya \
+Same \
+da- *\uc0\u660 yo 2 \
+da- *\uc0\u660 yu \
+Same \
+*\uc0\u660 da 1 -ibic \
+*\uc0\u660 da 1 -aq 1 \
+*\uc0\u660 da 1 -ala \
+*da\'b7 -yaw \
+Same \
+Same \
+Same \
+Same \
+Same \
+*\uc0\u660 di 3 -ad 2 \
+*de\'b7d -aduc \
+Same \
+Same \
+Same \
+Same \
+Same \
+di- *bo\'b7\'9a \
+*dibuc -aq 1 \
+*dibuc \
+*dibuc *mac 2 \
+Same \
+Same \
+Same \
+*dibuc -ay \
+*di -ccic\uc0\u700  \
+Same \
+Same \
+Same \
+di- *co 1 \
+Same \
+Same \
+Same \
+Same \
+di- *c\uc0\u688 a\'b7 1 \
+*dic\uc0\u688 a\'b7 \
+Same \
+di- *c\uc0\u688 i\'b7\u7789  1 \
+di- *c\uc0\u688 u \
+Same \
+Same \
+di- *c\uc0\u688 u\'b7l \
+Same \
+Same \
+di- *c\uc0\u700 al \
+Same \
+di- *c\uc0\u700 i\'b7\u7789  \
+*dic\uc0\u700 i\'b7\u7789  \
+*di\'b7c\uc0\u700  1 \
+*di\'b7c\uc0\u700  1 \
+Same \
+Same \
+Same \
+Same \
+di- *c\uc0\u700 o\'b7 1 \
+di- *c\uc0\u700 o\'b7c\u700  \
+di- *c\uc0\u700 u\'b7l 2 \
+*di -ad 2 \
+*dihce \
+di- *hcelh \
+*di \
+*dihci \
+Same \
+di- *hc\uc0\u688 a 3 \
+di- *hc\uc0\u688 a\u7789  \
+di- *hc\uc0\u688 oc 1 \
+di- *hc\uc0\u688 oc 1 \
+di- *hke \
+Same \
+di- *hkelh \
+*dihkok \
+di- *hkut \
+di- *hk\uc0\u688 e 1 \
+di- *k\uc0\u688 i \
+*dihk\uc0\u688 i \
+di- *hk\uc0\u688 o \
+di- *hk\uc0\u688 u \
+di- *hlaba \
+Same \
+di- *hlal \
+*dihlas\uc0\u700  \
+di- *hlas\uc0\u700  \
+di- *hle\'b7m \
+di- *hlok\uc0\u700  \
+di- *hlo\'b7m 1 \
+Same \
+di- *hpo 2 \
+di- *hp\uc0\u688 a 2 \
+di- *hp\uc0\u688 a\'b7\'9a \
+Same \
+di- *hp\uc0\u688 o\u7789  1 \
+di- *hp\uc0\u688 uk\u700 ut \
+di- *hp\uc0\u688 u\u7789  -ay \
+di- *hp\uc0\u688 u\u7789 \u700  \
+di- *hp\uc0\u688 uy \
+di- *hp\uc0\u688 u\'b7 \
+Same \
+di- *hqo\uc0\u7789 ol 1 \
+di- *hq\uc0\u688 a 2 \
+di- *hq\uc0\u688 alh \
+di- *hq\uc0\u688 a\u7789  2 \
+di- *hq\uc0\u688 a\u7789  2 \
+*dihq\uc0\u688 ay\u660  -ad 2 \
+Same \
+*dihsa \
+di- *hset\uc0\u700  \
+di- *hsey 1 \
+di- *hsi \
+di- *hsik\uc0\u700 it \
+di- *hsim \
+di- *hsit \
+di- *hsom 1 \
+di- *hso\uc0\u7789  \
+di- *h\'9auk\uc0\u700 u\u7789  \
+*dihti -ad 2 \
+di- *hte \
+di- *hte \
+di- *htenh 1 \
+di- *htey \
+*dihti -mac \
+di- *ht\uc0\u688 unh \
+di- *h\uc0\u7789 \u688 e 1 \
+*dih\uc0\u7789 \u688 ey\u660  -mad \
+di- *hwat\uc0\u700  \
+di- *hye\'b7 \
+di- *hyol 1 \
+*dihyol \
+di- *ka\'b7n \
+di- *ka\'b7\'9a \
+*dika\'b7\'9a \
+Same \
+Same \
+Same \
+Same \
+Same \
+di- *k\uc0\u700 al 1 \
+*dik\uc0\u700 a\'b7n \
+di- *k\uc0\u700 e\'b7n \
+Same \
+di- *k\uc0\u700 il \
+di- *k\uc0\u700 is \
+*dik\uc0\u700 i\'b7\'9a \
+Same \
+Same \
+Same \
+Same \
+di- *k\uc0\u700 o\'b7l \
+di- *\uc0\u660 k\u700 oy 3 -ibic \
+Same \
+*di -ala \
+Same \
+Same \
+*di -m 2 \
+*di -mac \
+Same \
+di- *q\uc0\u700 o\'9a \
+Same \
+di- *s\uc0\u700 a\'b7 \
+di- *s\uc0\u700 a\'b7l \
+di- *s\uc0\u700 e\'b7k\u700  \
+di- *s\uc0\u700 i 1 \
+Same \
+di- *\'9aa\'b7m \
+Same \
+di- *ta\uc0\u7789  \
+Same \
+Same \
+di- *tilhla \
+Same \
+di- *\uc0\u7789 a\'b7m \
+Same \
+Same \
+di- *\uc0\u7789 i 3 \
+Same \
+Same \
+di- *\uc0\u660 bolh 1 \
+di- *\uc0\u660 boq\u700  \
+Same \
+di- *\uc0\u660 c\u700 anh \
+di- *\uc0\u660 c\u700 a 1 \
+di- *\uc0\u660 c\u700 enh \
+di- *\uc0\u660 c\u700 et \
+Same \
+di- *\uc0\u660 c\u700 i \
+*di\uc0\u660 c\u700 olh \
+di- *\uc0\u660 c\u700 oq\u688 ot \
+di- *\uc0\u660 c\u700 o \
+di- *\uc0\u660 c\u700 u \
+di- *\uc0\u660 dayac \
+di- *\uc0\u660 di 1 \
+di- *\uc0\u660 k\u700 anh \
+Same \
+di- *\uc0\u660 k\u700 i 2 \
+di- *\uc0\u660 k\u700 o 2 \
+di- *\uc0\u660 k\u700 ol \
+di- *\uc0\u660 k\u700 olh 1 \
+di- *\uc0\u660 k\u700 oy 1 \
+di- *\uc0\u660 k\u700 u \
+di- *\uc0\u660 law\u660  \
+di- *\uc0\u660 p\u700 anh \
+Same \
+di- *\uc0\u660 p\u700 o \
+di- *\uc0\u660 s\u700 a\u7789  1 \
+di- *\uc0\u660 s\u700 i 2 \
+di- *\uc0\u660 s\u700 o 3 \
+di- *\uc0\u660 t\u700 emh \
+di- *\uc0\u660 t\u700 ent\u700 ele \
+di- *\uc0\u660 t\u700 e 1 \
+di- *\uc0\u660 \u7789 i 1 \
+Same \
+di- *\uc0\u660 \u7789 \u700 a\'9a 1 \
+*di\uc0\u660 \u7789 \u700 ubut \
+di- *\uc0\u660 yo 4 \
+*di\'b7c\uc0\u700  1 \
+*di\'b7c\uc0\u700 id \
+di- *sq\uc0\u688 ac \
+Same \
+Same \
+Same \
+Same \
+du- *bo\'b7l \
+du- *bo\'b7m \
+Same \
+Same \
+Same \
+du- *co\'b7l 1 \
+du- *co\'b7\uc0\u7789 ic \
+du- *c\uc0\u700 o\'b7 1 \
+du- *c\uc0\u700 o\'b7m \
+du- *c\uc0\u700 o\'b7q \
+du- *c\uc0\u700 o\'b7\u7789  1 \
+Same \
+du- *hc\uc0\u688 oc 2 \
+du- *hc\uc0\u688 oc 2 \
+du- *hc\uc0\u688 oc 2 \
+du- *hc\uc0\u688 ot \
+Same \
+Same \
+Same \
+*dohkohko \
+du- *hkolh \
+du- *hkot 1 \
+du- *hk\uc0\u688 o \
+du- *hlo 1 \
+*dohlo \
+Same \
+du- *hlo\'b7m 1 \
+du- *hmoy \
+du- *hpo 2 \
+Same \
+du- *hpolh \
+du- *hponpolo \
+du- *hqo 4 \
+du- *hqoy 2 -hqa \
+*dohqoy\uc0\u660  \
+*dohqoy\uc0\u660  \
+du- *hqoy 1 \
+du- *hq\uc0\u688 olh \
+du- *hsom 1 \
+Same \
+*doh\'9aolh \
+du- *h\'9aolh \
+du- *h\'9aon 2 \
+du- *hto\'9a 2 \
+du- *ht\uc0\u688 o \
+*doh\uc0\u7789 o \
+du- *h\uc0\u7789 oy \
+Same \
+Same \
+*doko\'b7l \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+du- *k\uc0\u700 o\'b7l \
+du- *k\uc0\u700 o\'b7\u7789  \
+Same \
+du- *\uc0\u660 k\u700 oy 3 -ala \
+Same \
+du- *lo \
+Same \
+*dom \
+Same \
+*doq\uc0\u688 o\u7789  \
+Same \
+Same \
+Same \
+du- *\uc0\u7789 o\'b7l \
+*do -aduc \
+du- *wo\uc0\u7789  \
+Same \
+du- *\uc0\u660 c\u700 o \
+*do\uc0\u660 k\u688 o\'9a \
+*do\uc0\u660 k\u688 o\'9aci \
+du- *\uc0\u660 k\u700 o 2 \
+du- *\uc0\u660 k\u700 olh 1 \
+du- *\uc0\u660 k\u700 onh \
+Same \
+du- *\uc0\u660 k\u700 oy 1 \
+du- *\uc0\u660 k\u700 o 1 \
+Same \
+*do\uc0\u660 ol -ay \
+Same \
+Same \
+du- *\uc0\u660 p\u700 o \
+du- *\uc0\u660 q\u700 ot \
+du- *\uc0\u660 q\u700 o\u660 di 1 \
+*do\uc0\u660 q\u700 o\u660 dic \
+Same \
+*do\uc0\u660 q\u700 o\u660 dic \
+du- *\uc0\u660 s\u700 oq \
+du- *\uc0\u660 \u7789 \u700 olh \
+Same \
+du- *\uc0\u660 yo 1 \
+du- *\uc0\u660 yo 3 \
+*\uc0\u660 do -ibic \
+*\uc0\u660 do -aduc \
+*\uc0\u660 do -ala \
+Same \
+*\uc0\u660 do -aq 1 \
+du- *ba\'b7l \
+Same \
+Same \
+Same \
+Same \
+du- *bil 1 \
+*dubil -aduc \
+*dubil -ala \
+*dubil \
+Same \
+*du\uc0\u660 bu \
+du- *ce \
+Same \
+Same \
+Same \
+Same \
+Same \
+du- *c\uc0\u688 a\'b7 1 \
+*duc\uc0\u688 a\'b7 \
+du- *c\uc0\u688 i \
+Same \
+du- *c\uc0\u688 i\'b7\u7789  1 \
+Same \
+du- *c\uc0\u700 al \
+du- *c\uc0\u700 e \
+du- *c\uc0\u700 ic\u700 il \
+Same \
+du- *c\uc0\u700 i\'b7\u7789  \
+Same \
+Same \
+du- *c\uc0\u700 u\'b7 \
+Same \
+*du\uc0\u660 dayac \
+*du\uc0\u660 di 2 -ala \
+*du\uc0\u660 di 2 -aqoc\u700  \
+du- *hcelh \
+Same \
+du- *hc\uc0\u688 a 3 \
+du- *hc\uc0\u688 e 1 \
+*duhc\uc0\u688 e \
+*hc\uc0\u688 i \
+du- *hc\uc0\u688 u \
+du- *hc\uc0\u688 u \
+Same \
+Same \
+du- *hkelh \
+du- *hkilh \
+Same \
+*duhk\uc0\u688 e -maqoc\u700  \
+*duhk\uc0\u688 e -ccic\u700  \
+du- *hk\uc0\u688 uy \
+du- *hlabat \
+du- *hlal \
+Same \
+du- *hlic 1 \
+du- *hlud 1 \
+du- *hlu\uc0\u7789 \u700  1 \
+*duhlu\uc0\u7789 \u700  \
+Same \
+du- *hlu\'b7c \
+du- *hmiy \
+Same \
+du- *hmu \
+du- *hmut\uc0\u700  \
+Same \
+Same \
+du- *hpanh \
+Same \
+du- *hp\uc0\u688 a\'b7\'9a \
+Same \
+du- *hp\uc0\u688 i 1 \
+du- *hp\uc0\u688 it\u700  \
+Same \
+du- *hp\uc0\u688 uk\u700 ut \
+du- *hp\uc0\u688 u\u7789  -ay \
+du- *hqa 2 \
+du- *hqalh \
+du- *hq\uc0\u688 a 3 \
+du- *hq\uc0\u688 a 3 \
+du- *hq\uc0\u688 a 4 \
+du- *hq\uc0\u688 a 4 \
+du- *hq\uc0\u688 a\u7789  2 \
+du- *hq\uc0\u688 a\u7789  2 \
+du- *hq\uc0\u688 a 4 -wad 2 \
+*duhq\uc0\u688 ay\u660  -ad 2 \
+du- *hq\uc0\u688 ay\u660  1 \
+*duhq\uc0\u688 ay\u660  -m 2 \
+du- *hsa 1 \
+du- *hsa 1 \
+du- *hset\uc0\u700  \
+du- *hsey 1 \
+*duhsey \
+Same \
+du- *hsi \
+du- *hsilh \
+du- *hsim \
+du- *hsit \
+du- *hsu 2 \
+du- *hsut \
+du- *h\'9aa 2 \
+du- *h\'9aa 1 \
+du- *h\'9aan \
+du- *h\'9ae 1 \
+Same \
+du- *hta 2 \
+du- *hta 1 \
+du- *htay 1 \
+Same \
+Same \
+du- *htenh 2 \
+*htenh 1 \
+du- *ht\uc0\u688 i \
+du- *h\uc0\u7789 ilh \
+du- *h\uc0\u7789 \u688 a 1 \
+Same \
+*duh\uc0\u7789 \u688 al -ahmuc\u700  \
+Same \
+du- *h\uc0\u7789 \u688 e 1 \
+du- *h\uc0\u7789 \u688 u \
+du- *hwat\uc0\u700  \
+du- *hwel \
+du- *hwi \
+Same \
+du- *kel 1 \
+du- *ki\'b7l 1 \
+Same \
+Same \
+Same \
+*dukuy \
+du- *ku\'b7\uc0\u7789  2 \
+Same \
+du- *k\uc0\u688 e\u7789  \
+Same \
+*duhk\uc0\u688 e -ibic \
+du- *k\uc0\u688 i \
+du- *k\uc0\u688 u\'b7l 1 \
+du- *k\uc0\u688 u\'b7l 1 \
+Same \
+Same \
+Same \
+du- *k\uc0\u700 al 1 \
+*duk\uc0\u700 il \
+du- *k\uc0\u700 i\'b7 1 \
+du- *k\uc0\u700 i\'b7\'9a 2 \
+du- *k\uc0\u700 um \
+Same \
+Same \
+Same \
+*dul q\uc0\u688 a\u660 a \
+Same \
+Same \
+Same \
+*du\uc0\u7789 \u700 a\'b7 \
+Same \
+du- *lu 2 \
+Same \
+Same \
+Same \
+du- *mhmic \
+du- *na\'b7 2 \
+du- *na\'b7 2 \
+Same \
+du- *p\uc0\u688 e\'b7m \
+Same \
+du- *p\uc0\u700 i\'b7l \
+*duqa\'b7c \
+du- *q\uc0\u688 ac 1 \
+Same \
+Same \
+Same \
+Same \
+du- *q\uc0\u688 at \
+du- \
+du- *q\uc0\u688 a\'b7m \
+Same \
+du- *s\uc0\u700 ayla \
+du- *s\uc0\u700 a\'b7l \
+Same \
+du- *s\uc0\u700 i 1 \
+Same \
+Same \
+-t 2 \
+Same \
+Same \
+du- *s\uc0\u700 i\'b7c\u700  1 \
+*dus\uc0\u700 uy -aqac \
+du- *s\uc0\u700 ul \
+du- *\'9aa\'b7m \
+du- *\'9ai\'b7m 2 \
+du- *\'9aud 1 \
+Same \
+du- *\'9aul \
+du- *ta\uc0\u7789  \
+Same \
+Same \
+du- *tel \
+du- *te\'b7l \
+du- *tu 2 \
+du- *tul \
+Same \
+du- *t\uc0\u700 at 1 \
+*dut\uc0\u700 at 2 =yac \
+Same \
+Same \
+*du\uc0\u660 t\u700 enay \
+Same \
+Same \
+Same \
+du- *t\uc0\u700 e\'b7t 1 \
+*dut\uc0\u700 e\'b7t \
+Same \
+du- *t\uc0\u700 ul \
+du- *\uc0\u7789 i 3 \
+Same \
+du- *\uc0\u7789 \u700 i \
+duwe \
+*duwem \
+*duwec  2 s\uc0\u700 ihta \
+*du\uc0\u660 balhci \
+du- *\uc0\u660 balh \
+Same \
+du- *\uc0\u660 be 3 \
+du- *\uc0\u660 c\u700 a 1 \
+du- *\uc0\u660 c\u700 et \
+du- *\uc0\u660 c\u700 u \
+Same \
+du- *\uc0\u660 c\u700 u \
+du- *\uc0\u660 dayac \
+du- *\uc0\u660 di 2 \
+du- *\uc0\u660 di 2 \
+Same \
+du- *\uc0\u660 k\u700 i 1 \
+du- *\uc0\u660 k\u700 u \
+*du\uc0\u660 k\u700 u -w 2 -ala \
+du- *\uc0\u660 k\u700 uy 2 \
+du- *\uc0\u660 law\u660  \
+du- *\uc0\u660 li 2 \
+du- *\uc0\u660 li 2 \
+du- *\uc0\u660 lu 1 \
+Same \
+du- *\uc0\u660 ne\'b7cic\u700  \
+du- *\uc0\u660 p\u700 anh \
+du- *\uc0\u660 q\u700 ac \
+du- *\uc0\u660 s\u700 a\u7789  1 \
+du- *\uc0\u660 s\u700 il \
+du- *\uc0\u660 s\u700 i 1 \
+du- *\uc0\u660 s\u700 i 1 \
+du- *\uc0\u660 t\u700 a 4 \
+du- *\uc0\u660 t\u700 aq 1 \
+du- *\uc0\u660 t\u700 ekele \
+du- *\uc0\u660 t\u700 emh \
+du- *\uc0\u660 t\u700 enh -ay \
+du- *\uc0\u660 t\u700 ent\u700 ele \
+du- *\uc0\u660 t\u700 unh \
+du- *\uc0\u660 \u7789 i 2 \
+du- *\uc0\u660 \u7789 u \
+du- *\uc0\u660 \u7789 \u700 a\'9a 1 \
+*du\uc0\u660 \u7789 \u700 a\'9a -ay \
+du- *\uc0\u660 \u7789 \u700 a\u7789  3 \
+*du\uc0\u660 \u7789 \u700 away \
+du- *\uc0\u660 \u7789 \u700 e 2 \
+du- *\uc0\u660 \u7789 \u700 i 2 \
+du- *\uc0\u660 \u7789 \u700 ubut 1 \
+du- *\uc0\u660 \u7789 \u700 u\u7789 \u688 u \
+Same \
+du- *\uc0\u660 wi \
+Same \
+*du\uc0\u660 yaq \
+Same \
+*du\uc0\u660 ya\'b7q 1 \
+*du\uc0\u660 ya\'b7q 1 -ala \
+*du\'b7bayh \
+\uc0\u660 ahay \u660 ic\u688 o\'b7 \
+Same \
+Same \
+ha- *ce\'b7 \
+ha- *co 1 \
+Same \
+Same \
+ha- *co\'b7l 2 \
+Same \
+Same \
+ha- *c\uc0\u688 a\'b7 1 \
+ha- *c\uc0\u688 ul 1 \
+Same \
+Same \
+Same \
+ha- *c\uc0\u700 al \
+Same \
+ha- *c\uc0\u700 a\'b7\u7789  1 \
+ha- *c\uc0\u700 e \
+Same \
+ha- *c\uc0\u700 i\'b7\u7789  \
+ha- *c\uc0\u700 o\'b7q \
+ha- *c\uc0\u700 u\'b7l 2 \
+ha- *dahc\uc0\u688 i 1 \
+Same \
+*ha\uc0\u660 di 1 -ad 2 \
+Same \
+Same \
+ha- *hce 1 \
+Same \
+ha- *hc\uc0\u688 oc 1 \
+ha- *hc\uc0\u688 oc 1 \
+ha- *hc\uc0\u688 ot \
+ha- *hki 2 \
+ha- *hkolh \
+ha- *hk\uc0\u688 o \
+ha- *hk\uc0\u688 u \
+ha- *hlal \
+ha- *hla 1 \
+Same \
+ha- *hpolh \
+ha- *hponpolo \
+Same \
+ha- *hp\uc0\u688 o \
+ha- *hp\uc0\u688 uk\u700 ut \
+ha- *hqa 2 \
+ha- *hqalh \
+ha- *hq\uc0\u688 alh \
+ha- *hq\uc0\u688 a\u7789  1 \
+ha- *hsa 1 \
+Same \
+ha- *hsik\uc0\u700 it \
+ha- *hsim \
+ha- *h\'9ai 1 \
+ha- *h\'9ai 1 \
+Same \
+ha- *h\'9aok\uc0\u700 ot \
+ha- *h\'9aolh \
+ha- *h\'9auk\uc0\u700 u\u7789  \
+ha- *hte \
+ha- *htenh 1 \
+Same \
+Same \
+Same \
+ha- *htontolo \
+ha- *ht\uc0\u688 unh \
+ha- *h\uc0\u7789 i 2 \
+ha- *h\uc0\u7789 \u688 e 1 \
+ha- *h\uc0\u7789 \u688 e 2 \
+ha- *h\uc0\u7789 \u688 u \
+ha- *hwat\uc0\u700  \
+ha- *hwe \
+ha- *hwe\'b7n \
+Same \
+ha- *ki\'b7l 1 \
+Same \
+ha- *ko\'b7l \
+Same \
+ha- *k\uc0\u688 u\'b7l 1 \
+Same \
+Same \
+Same \
+ha- *k\uc0\u700 al 1 \
+Same \
+Same \
+Same \
+ha- *k\uc0\u700 il \
+ha- *k\uc0\u700 is \
+Same \
+ha- *k\uc0\u700 i\'b7 1 \
+Same \
+Same \
+ha- *lac \
+Same \
+Same \
+Same \
+Same \
+Same \
+ha- *lu\'b7m 1 \
+ha- *nac 2 -ala \
+ha- *ne 2 \
+Same \
+ha- *q\uc0\u688 a\'b7\u7789  2 \
+ha- *q\uc0\u688 o\u7789  1 \
+Same \
+Same \
+ha- *su \
+Same \
+\uc0\u660 aha s\u700 i\u660 da \
+Same \
+ha- *\'9aa\'b7l \
+Same \
+Same \
+Same \
+Same \
+ha- *\'9ao\'b7m \
+Same \
+\uc0\u660 aha -t 1 \
+ha- *ta\uc0\u7789  \
+*hata\uc0\u7789  -aq 1 \
+Same \
+ha- *te\'b7m 1 \
+Same \
+ha- *tilhla \
+ha- *ti\'b7t \
+*hati\'b7t \
+Same \
+ha- *tu 3 \
+Same \
+Same \
+ha- *t\uc0\u700 at 3 \
+Same \
+ha- *t\uc0\u700 e\'b7l \
+ha- *\uc0\u7789 a\'b7m \
+ha- *\uc0\u7789 a\'b7t \
+ha- *\uc0\u7789 i 3 \
+ha\uc0\u7789 \u700 a\'b7 1 \u660 imo \
+ha- *yo \
+\uc0\u660 aha *\u660 bo 1 \
+ha- *\uc0\u660 c\u688 u \
+Same \
+Same \
+ha- *\uc0\u660 c\u700 a 3 \
+ha- *\uc0\u660 c\u700 amh \
+ha- *\uc0\u660 c\u700 a 1 \
+ha- *\uc0\u660 c\u700 on \
+Same \
+ha- *\uc0\u660 c\u700 u \
+Same \
+Same \
+ha- *\uc0\u660 di 1 \
+*ha\uc0\u660 di 1 \
+*ha\uc0\u660 di 1 \
+*ha\uc0\u660 di 3 \
+*ha\uc0\u660 di 1 \
+ha- *\uc0\u660 k\u700 a 1 \
+ha- *\uc0\u660 k\u700 anh \
+ha- *\uc0\u660 k\u700 ay\u660  \
+ha- *\uc0\u660 k\u700 o 2 \
+ha- *\uc0\u660 k\u700 o 1 \
+ha- *\uc0\u660 k\u700 u \
+ha- *\uc0\u660 lo 2 \
+ha- *\uc0\u660 lu 1 \
+ha- *\uc0\u660 p\u700 anh \
+Same \
+ha- *\uc0\u660 p\u700 o \
+ha- *\uc0\u660 q\u700 a \
+Same \
+ha- *\uc0\u660 q\u700 alh \
+ha- *\uc0\u660 s\u700 a 2 \
+ha- *\uc0\u660 s\u700 a\u7789  1 \
+ha- *\uc0\u660 s\u700 ay \
+ha- *s\uc0\u700 iy 2 \
+ha- *\uc0\u660 s\u700 onh \
+ha- *\uc0\u660 s\u700 oq \
+ha- *\uc0\u660 s\u700 o 3 \
+ha- *\uc0\u660 s\u700 ulh 1 \
+ha- *\uc0\u660 t\u688 i \
+ha- *\uc0\u660 t\u700 a 6 \
+Same \
+ha- *\uc0\u660 t\u700 e 2 \
+ha- *\uc0\u660 t\u700 emh \
+ha- *\uc0\u660 t\u700 em 5 \
+ha- *\uc0\u660 \u7789 i 1 \
+ha- *\uc0\u660 \u7789 u \
+Same \
+\uc0\u660 aha \
+ha- *\uc0\u660 \u7789 \u700 a 2 \
+ha- *\uc0\u660 \u7789 \u700 e 2 \
+*ha\uc0\u660 \u7789 \u700 i\u7789  1 \
+ha- *\uc0\u660 \u7789 \u700 o \
+ha\uc0\u660 \u7789 \u700 o\'b7le -men\u660  \
+ha- *\uc0\u660 \u7789 \u700 u\u7789  \
+ha- *\uc0\u660 \u7789 \u700 u\u7789 \u688 u \
+Same \
+\uc0\u660 aha \
+*hat -ibic \
+\uc0\u660 ahca hohwa \
+Same \
+Same \
+Same \
+*hce 1 \
+*hce 2 \
+Same \
+Same \
+*hci 5 \
+Same \
+Same \
+*hco 4 \
+Same \
+*hcom -maq\uc0\u695  \
+*hco 4 -ay \
+Same \
+\'d8- *hc\uc0\u688 a 2 \
+\'d8- *hc\uc0\u688 a 2 \
+\'d8- *hc\uc0\u688 a 3 \
+Same \
+*hc\uc0\u688 a 5 \
+*hc\uc0\u688 a 5 \
+Same \
+Same \
+Same \
+Same \
+*hc\uc0\u688 oc 1 \
+Same \
+Same \
+he \
+he \
+Same \
+Same \
+Same \
+Same \
+Same \
+hi\uc0\u660 bu =wi \
+Same \
+Same \
+Same \
+Same \
+hi- *cu\'b7l \
+Same \
+Same \
+hi- *c\uc0\u688 a\'b7 1 \
+*hic\uc0\u688 a\'b7 \
+*hic\uc0\u688 a\'b7 \
+Same \
+hi- *c\uc0\u688 i\'b7\u7789  1 \
+hi- *c\uc0\u688 ul 1 \
+Same \
+hi- *c\uc0\u700 al \
+Same \
+hi- *c\uc0\u700 a\'b7\u7789  1 \
+hi- *c\uc0\u700 e \
+hi- *c\uc0\u700 ic\u700 il \
+Same \
+hi- *c\uc0\u700 i\'b7\u7789  \
+*hic\uc0\u700 o\'b7 \
+hi- *c\uc0\u700 o\'b7q \
+hi- *c\uc0\u700 o\'b7\u7789  1 \
+*hidahc\uc0\u688 i \
+hi- *dahc\uc0\u688 i 1 \
+Same \
+*hi\uc0\u660 di -ad 2 \
+*hidul \
+hi- *hce 1 \
+hi- *hcelh \
+hi- *hcu \
+hi- *hc\uc0\u688 a 2 \
+Same \
+hi- *hc\uc0\u688 oc 1 \
+hi- *hc\uc0\u688 u \
+hi- *hko 4 -c 1 \
+hi- *hkok \
+*hihkok \
+*hihkoc \
+hi- *hkot 1 \
+hi- *hk\uc0\u688 e 1 \
+hi- *hk\uc0\u688 u \
+hi- *hlal \
+Same \
+=qan \
+*hihlo \
+hi- *hlu \
+Same \
+hi- *hmu \
+hi- *hna \
+hi- *hna \
+hi- *hpa 2 \
+Same \
+hi- *hpanh \
+Same \
+hi- *hpo 2 \
+hi- *hpo 1 \
+Same \
+hi- *hpolh \
+hi- *hp\uc0\u688 a\'b7\'9a \
+Same \
+hi- *hp\uc0\u688 i 1 \
+hi- *hqa 2 \
+*hihqoy\uc0\u660  \
+*hihqoy\uc0\u660  \
+hi- *hq\uc0\u688 a 3 \
+hi- *hq\uc0\u688 obot \
+hi- *hsa 1 \
+Same \
+hi- *hsis \
+*hihsom \
+hi- *hso\uc0\u7789  \
+*hihsut \
+*hihsuhsu \
+Same \
+hi- *h\'9aolh \
+*hihtay \
+hi- *htay 1 \
+hi- *htey \
+hi- *htsinh \
+Same \
+hi- *ht\uc0\u688 i \
+hi- *h\uc0\u7789 an\u7789 ala \
+hi- *h\uc0\u7789 \u688 a 2 \
+hi- *h\uc0\u7789 \u688 ey\u660  1 \
+hi- *hwat\uc0\u700  \
+hi- *hwe \
+hi- *hwel \
+Same \
+hi- *hwi \
+*hihye\'b7c\uc0\u688 ma \
+hi- *hyol 1 \
+hi- *hyu 2 \
+hi- *hyu 2 \
+hi- *hyut \
+hi- *hyu\uc0\u7789  \
+hi- *kel 1 \
+Same \
+hi- *ku\'b7\uc0\u7789  2 \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+*hihk\uc0\u688 e -ibic \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+hi- *k\uc0\u700 o\'b7c \
+hi- *k\uc0\u700 um \
+hi- *k\uc0\u700 us \
+hi- *k\uc0\u700 ut 2 \
+hi- *k\uc0\u700 ut 2 \
+hi- *lac \
+Same \
+hi- *le \
+*hilu \
+Same \
+Same \
+Same \
+hi- *qol \
+hi- *q\uc0\u688 a\'b7s -ad 2 \
+hi- *q\uc0\u688 a\'b7\u7789  2 \
+*hiq\uc0\u688 o\u7789  \
+Same \
+Same \
+hi- *q\uc0\u700 a\'b7s \
+*hiq\uc0\u700 a\'b7\u7789  \
+hi- *sa 1 \
+*his\uc0\u700 a\'b7 \
+*his\uc0\u700 a\'b7 \
+Same \
+-t- \
+Same \
+Same \
+his\uc0\u700 u\'b7 \u660 ih\'9ai \
+Same \
+Same \
+hi- *ta\'9a 1 \
+Same \
+Same \
+Same \
+hi- *ti\'b7t \
+hi- *tu 2 \
+hi- *t\uc0\u688 il 1 \
+Same \
+hi- *t\uc0\u700 at 3 \
+Same \
+*hi\uc0\u660 t\u700 e -ibic \
+hi- *t\uc0\u700 e\'b7t 1 \
+hi- *\uc0\u7789 a\'b7n 2 \
+hi- *\uc0\u7789 a\'b7t \
+*\uc0\u7789 o\'b7l hi- \
+hi- *\uc0\u7789 \u688 a\'b7l \
+Same \
+Same \
+Same \
+Same \
+hi- *\uc0\u660 bolh 1 \
+Same \
+hi- *\uc0\u660 c\u700 aba \
+Same \
+Same \
+hi- *\uc0\u660 c\u700 on \
+hi- *\uc0\u660 c\u700 o \
+Same \
+hi- *\uc0\u660 c\u700 u \
+hi\uc0\u660 da \
+hi\uc0\u660 da \
+Same \
+hi- *\uc0\u660 di 1 \
+hi- *\uc0\u660 k\u700 a 1 \
+hi- *\uc0\u660 k\u700 anh \
+hi- *\uc0\u660 k\u700 ay\u660  \
+hi- *\uc0\u660 k\u700 o 2 \
+hi- *\uc0\u660 k\u700 olh 1 \
+*hi\uc0\u660 k\u700 onh \
+hi- *\uc0\u660 k\u700 u \
+*hi\uc0\u660 k\u700 u \
+Same \
+Same \
+hi- *\uc0\u660 lu\'9a \
+hi- *\uc0\u660 ne\'b7cic\u700  \
+hi- *\uc0\u660 p\u700 anh \
+hi- *\uc0\u660 q\u700 ac \
+*hi\uc0\u660 q\u700 ac \
+Same \
+hi- *\uc0\u660 q\u700 o\u660 di 1 \
+*hi\uc0\u660 q\u700 o\u660 di \
+Same \
+*hi\uc0\u660 q\u700 o\u660 dic \
+hi- *\uc0\u660 s\u700 i 2 \
+hi- *\uc0\u660 s\u700 i 1 \
+hi- *\uc0\u660 s\u700 o 3 \
+hi- *\uc0\u660 t\u700 ekele \
+hi- *\uc0\u660 t\u700 ent\u700 ele \
+hi- *\uc0\u660 t\u700 u \
+hi- *\uc0\u660 \u7789 a\'9a \
+hi- *\uc0\u660 \u7789 \u700 a\'9a 1 \
+hi- *\uc0\u660 \u7789 \u700 e 2 \
+Same \
+Same \
+hi- *\uc0\u660 \u7789 \u700 elh \
+hi- *\uc0\u660 \u7789 \u700 e 3 \
+Same \
+Same \
+Same \
+hi- *\uc0\u660 wi \
+hi- *\uc0\u660 ya \
+hi- *\uc0\u660 ya\'b7q \
+hi- *\uc0\u660 yo 4 \
+*hiki\'b7\'9a \
+hi- *\'9aluc \
+\'d8- *hk\uc0\u688 e 1 \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+*hlic 2 =wi \
+Same \
+\'d8- *hlo\'b7m 1 \
+\'d8- *hlu\uc0\u7789 \u700  1 \
+Same \
+\'d8- *hnat 1 \
+Same \
+*hnat 1 \
+*hnat 1 \
+Same \
+\uc0\u660 oho \
+*hot\uc0\u700 ot -ibic \
+Same \
+Same \
+Same \
+ho\uc0\u7789 \u688  \
+*how dom \
+Same \
+Same \
+Same \
+ho\uc0\u660 o \
+*hp\uc0\u688 i 2 -maq\u695  \
+*hp\uc0\u688 i 2 -maduc \
+Same \
+Same \
+\'d8- *hp\uc0\u688 o\u7789  1 \
+*hp\uc0\u688 o\u7789  2 \
+Same \
+Same \
+Same \
+\uc0\u660 ahqa cuhse \
+Same \
+Same \
+*hqac 2 \
+*hqac 2 -muc\uc0\u700  \
+Same \
+Same \
+Same \
+*hqal 2 -ad 1 \
+Same \
+Same \
+*hqamad \
+*hqam \
+*hqam \
+*hqa 3 \
+Same \
+Same \
+*hqayic\uc0\u700  1 \
+*hqa 6 -ad 2 \
+Same \
+Same \
+*hqowil \
+\uc0\u660 ahq\u688 a *cuhce \
+\uc0\u660 ahq\u688 a *cuhce \
+\uc0\u660 ahq\u688 a s\u700 aqa\'b7 \
+Same \
+Same \
+Same \
+*hsey 2 \
+*hsey 2 -aq 1 \
+Same \
+Same \
+Same \
+Same \
+Same \
+*h\'9ai 3 \
+Same \
+Same \
+*h\'9ai\uc0\u7789 \u688  -ad 2 \
+*hti 3 -alamec\uc0\u700  \
+*hti 3 -aloq \
+*hti 3 -aloqoc\uc0\u700  \
+*hti 3 -aq 1 \
+*hti 3 \
+\'d8- *htay 1 \
+*htenh 3 -ala \
+Same \
+*htenh 3 \
+*hti 3 \
+*hti 3 -ccic\uc0\u700  \
+*hti 3 \
+Same \
+*h\uc0\u7789 \u688 il \
+Same \
+Same \
+Same \
+Same \
+Same \
+*hu\uc0\u660 ut -ala \
+*hu\uc0\u660 ut -ala -muc\u700  \
+*hu\uc0\u660 ut -aloq \
+*hu\uc0\u660 ut -aqac \
+*hu\uc0\u660 ut \
+*hu\uc0\u660 ut \
+Same \
+hu\uc0\u660 uy =tol \
+Same \
+hu\uc0\u660 uy \u660 imo \
+Same \
+Same \
+*hya \
+*hya \
+*hya \
+Same \
+Same \
+Same \
+*kac\uc0\u688 i -w 2 -m 1 \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+kawa\'b7yu \uc0\u660 ahca \
+kawa\'b7yu \uc0\u660 ohso \
+Same \
+Same \
+kayi\'b7na qawi \
+Same \
+Same \
+*qa \
+Same \
+Same \
+*kel 2 \
+\'d8- *kel 1 \
+Same \
+Same \
+ke\uc0\u660 ye \
+*kihyi \
+Same \
+Same \
+*kilu\'b7cay \
+*ki\uc0\u7789 i \
+*kolo \
+*kolo \
+Same \
+Same \
+Same \
+*kumhma \
+*kumhmac \
+Same \
+Same \
+hku yala \
+\'d8- *k\uc0\u688 a\'9a 2 \'d8- *k\u688 a\'9a 2 \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+*k\uc0\u688 i\u660 bi \
+*k\uc0\u688 i\u660 bi \
+Same \
+Same \
+Same \
+Same \
+Same \
+k\uc0\u700 ah\'9aa \
+Same \
+Same \
+*k\uc0\u700 asit\u700  \
+*k\uc0\u700 asit\u700 ad \
+Same \
+k\uc0\u700 asit\u700 a\u660 c\u700 a\u660 yaw \
+Same \
+Same \
+Same \
+Same \
+*k\uc0\u700 ad \
+Same \
+*k\uc0\u700 e\'b7\'9a \
+*k\uc0\u700 e\'b7\'9a \
+k\uc0\u700 i\u660 di -\'b7 \
+Same \
+*k\uc0\u700 iht\u688 ic \
+k\uc0\u700 ili \
+Same \
+k\uc0\u700 i\'9a 2 \
+*k\uc0\u700 i\'9ai \
+Same \
+Same \
+*k\uc0\u700 ohto \
+*k\uc0\u700 olo \
+Same \
+Same \
+Same \
+k\uc0\u700 op\u700  \
+Same \
+Same \
+Same \
+*k\uc0\u700 u -n\u660  \
+Same \
+k\uc0\u700 u\u7789 \u688 u \
+Same \
+Same \
+Same \
+lip\uc0\u688 u\'b7 \u660 ihp\u688 uy \u660 ihya\'b7 \
+Same \
+*liti \
+Same \
+Same \
+*liti \
+Same \
+Same \
+-aloqoc\uc0\u700  \
+Same \
+maba\'b7s\uc0\u700  -aq 2 \
+Same \
+Same \
+Same \
+*ba\'b7 \
+Same \
+maba\'b7 -aq 2 \
+*ba \
+ma- 2 *bet 1 \
+*mabet 1 \
+Same \
+Same \
+Same \
+Same \
+*wa -mac \
+*wa -mac \
+macan\uc0\u660  \
+Same \
+Same \
+Same \
+Same \
+Same \
+*cad 1 \
+Same \
+ma- 2 *cat 1 \
+*macat \
+mace\'b7ki \
+Same \
+Same \
+Same \
+Same \
+Same \
+ma- 2 *ce\'b7 \
+*ciki \
+Same \
+Same \
+ma- 2 *co 1 \
+Same \
+macu\'b7s\uc0\u700  -aq 2 \
+Same \
+*cu \
+Same \
+Same \
+ma- 2 *c\uc0\u688 ul 1 \
+Same \
+Same \
+Same \
+ma- 2 *c\uc0\u700 al \
+Same \
+ma- 2 *c\uc0\u700 a\'b7\u7789  1 \
+Same \
+Same \
+Same \
+Same \
+Same \
+Same \
+ma- 2 *c\uc0\u700 o\'b7 1 \
+ma- 2 *c\uc0\u700 o\'b7 1 \
+*mac\uc0\u700 o\'b7 1 \
+ma- 2 *c\uc0\u700 o\'b7m \
+ma- 2 *c\uc0\u700 o\'b7q \
+ma- 2 *c\uc0\u700 o\'b7\u7789  1 \
+ma- 2 *c\uc0\u700 u\'b7l 2 \
+Same \
+Same \
+*ma\uc0\u660 di 1 -ad 2 \
+*hceye \
+Same \
+Same \
+Same \
+Same \
+ma- 1 *hcu\uc0\u7789 \u700 ki \
+Same \
+Same \
+Same \
+Same \
+ma- 2 *hc\uc0\u688 a 2 \
+ma- 2 *hc\uc0\u688 a 3 \
+*mahc\uc0\u688 a 1 \
+Same \
+ma- 2 *hc\uc0\u688 oc 1 \
+*hc\uc0\u688 ot \
+ma- 2 *hke \
+ma- 2 *hkem \
+ma- 2 *hko 3 \
+ma- 2 *hkolh \
+Same \
+ma- 2 *hkot 1 \
+ma- 2 *hk\uc0\u688 i\u7789 \u700  1 \
+ma- 2 *hk\uc0\u688 i\u7789 \u700  1 \
+ma- 2 *hk\uc0\u688 o \
+ma- 2 *hlo 1 \
+Same \
+ma- 2 *hnat 1 \
+Same \
+ma- 2 *hpa 2 \
+Same \
+ma- 2 *hpanh \
+ma- 2 *hpo 2 \
+ma- 2 *hponpolo \
+*hp\uc0\u688 anki \
+ma- 2 *hp\uc0\u688 u\u7789  -ay \
+ma- 2 *hp\uc0\u688 u\u7789 \u700  \
+ma- 2 *hp\uc0\u688 uy \
+ma- 2 *hp\uc0\u688 u\'b7 \
+ma- 2 *hqa 2 \
+ma- 2 *hqoy\uc0\u660  1 \
+ma- 2 *hq\uc0\u688 a 3 \
+ma- 2 *hq\uc0\u688 a 3 \
+Same \
+*mahq\uc0\u688 ay\u660  -ala \
+ma- 2 *hq\uc0\u688 ay\u660  1 \
+*mahq\uc0\u688 ay\u660  -m 2 \
+ma- 2 *hsa 1 \
+Same \
+Same \
+ma- 2 *hsak\uc0\u700 at \
+*mahsa 1 \
+Same \
+ma- 2 *hsim \
+ma- 2 *hsoq \
+ma- 2 *h\'9aa 1 \
+ma- 2 *h\'9aa 1 \
+ma- 2 *h\'9aan \
+ma- 2 *h\'9aolh \
+ma- 2 *h\'9auk\uc0\u700 u\u7789  \
+Same \
+*mahtay q\uc0\u688 a\u660 be \
+ma- 2 *htenh 1 \
+ma- 2 *ht\uc0\u688 a \
+ma- 2 *ht\uc0\u688 i \
+ma- 2 *h\uc0\u7789 olh \
+ma- 2 *h\uc0\u7789 \u688 a 2 \
+*h\uc0\u7789 \u688 e 3 \
+ma- 2 *hwe \
+*mahwe\'b7n \
+}

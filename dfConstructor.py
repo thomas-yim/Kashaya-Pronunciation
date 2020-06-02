@@ -2,12 +2,18 @@
 #Database construction based a text file
 
 import pandas as pd
+import json
 
 def stripFinalSpaces(entry):
     entry = entry.rstrip('\n')
     while entry[-1] == " ":
         entry = entry[:-1]
     return entry
+
+def findComponents(entry):
+    with open("pluralComplexEntries.json", 'r') as componentFile:
+        components = json.load(componentFile)
+        return components[entry].split(" ")
 
 def constructDF(filename):
     #ARRAYS TO BE ADDED TO PANDAS DATAFRAME
@@ -45,7 +51,7 @@ def constructDF(filename):
         for line in wordList.readlines():
             #Every time it comes across an entry:
             if (line[:len("Entry")] == "Entry"):
-                entries.append(line[len("Entry: "):])
+                entries.append(stripFinalSpaces(line[len("Entry: "):]))
                 if (len(entries) != 1):
                     pronunciation.append(currentPronunciation)
                     tones.append(currentTone)
@@ -59,16 +65,16 @@ def constructDF(filename):
                     currentGloss = None
             elif (line[:len("Tone")] == "Tone"):
                 if line[len("Tone: "):len("Tone: ")+1] != "-":
-                    currentTone = line[len("Tone: "):]
+                    currentTone = stripFinalSpaces(line[len("Tone: "):])
             elif (line[:len("Absolutive")] == "Absolutive"):
                 if line[len("Absolutive: "):len("Absolutive: ")+1] != "-":
                     currentAbsolutive = stripFinalSpaces(line[len("Absolutive: "):])
             elif (line[:len("Grammatical")] == "Grammatical"):
                 if line[len("Grammatical Info: "):len("Grammatical Info: ")+1] != "-":
-                    currentInfo = line[len("Grammatical Info: "):]
+                    currentInfo = stripFinalSpaces(line[len("Grammatical Info: "):])
             elif (line[:len("Gloss")] == "Gloss"):
                 if line[len("Gloss: "):len("Gloss: ")+1] != "-":
-                    currentGloss = line[len("Gloss: "):]
+                    currentGloss = stripFinalSpaces(line[len("Gloss: "):])
             elif (line[:len("Pronunciation")] == "Pronunciation"):
                 if line[len("Pronunciation: "):len("Pronunciation: ")+1] != "-":
                     currentPronunciation = stripFinalSpaces(line[len("Pronunciation: "):])

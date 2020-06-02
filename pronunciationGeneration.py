@@ -5,8 +5,9 @@ import random
 import pandas as pd
 from syllabification import splitIntoSegments, syllabify, footStructure, stripFinalSpaces
 from absolutiveGeneration import createAbsolutive, generateAllAbsolutives
-from dfConstructor import constructDF
+from dfConstructor import constructDF, findComponents
 from specialLists import Config
+from tqdm import tqdm
 
 lists = Config()
 
@@ -22,14 +23,16 @@ def addSyllableMarker(syllable):
 
 def createPronunciation(entry):
     absolutive = createAbsolutive(entry)
-    syllables = syllabify(splitIntoSegments(absolutive))
+    segments = splitIntoSegments(absolutive)
+    syllables = syllabify(segments)
     structure = footStructure(syllables)
     if len(syllables) == 1:
         syllables[0] = addSyllableMarker(syllables[0])
         pronunciation = "".join(syllables)
     elif len(syllables) == 2:
-        if structure[0] == "CVC":
-            if syllables[0][2] == 'ʔ' or syllables[0][2] == 'h':
+        segmentsOfFirstSyllable = splitIntoSegments(syllables[0])
+        if structure[0][0:3] == "CVC":
+            if segmentsOfFirstSyllable[2] == 'ʔ' or segmentsOfFirstSyllable[2] == 'h':
                 syllables[1] = addSyllableMarker(syllables[1])
             else:
                 syllables[0] = addSyllableMarker(syllables[0])
@@ -39,73 +42,89 @@ def createPronunciation(entry):
     else:
         prefix = ""
         firstStructure = []
+        components = findComponents(entry)
         #This case is handling syllable extrametricality
-        if syllables[0] in lists.prefixes:
+
+        if components[0][-1] == "-" and ("Ø" not in components[0]):
             prefix = syllables[0]
             firstStructure.append(structure[0])
             syllables = syllables[1:]
             structure = structure[1:]
-        elif len(syllables[0]) > 2 and (syllables[0][2] == 'ʔ' or syllables[0][2] == 'h'):
-            prefix = syllables[0]
-            firstStructure.append(structure[0])
-            syllables = syllables[1:]
-            structure = structure[1:]
+        elif len(splitIntoSegments(syllables[0])) > 2:
+            if (splitIntoSegments(syllables[0])[2] == 'ʔ' or splitIntoSegments(syllables[0])[2] == 'h'):
+                prefix = syllables[0]
+                firstStructure.append(structure[0])
+                syllables = syllables[1:]
+                structure = structure[1:]
+        elif components[0][0] == "*":
+            compSegments = splitIntoSegments(components[0])
+            compSyllables = syllabify(compSegments)
+            if len(compSyllables) >= 2:
+                prefix = syllables[0]
+                firstStructure.append(structure[0])
+                syllables = syllables[1:]
+                structure = structure[1:]
+            
+                
+        #Change this to a while loop? Also need to make sure syllables[2] is not out of bounds
+
         if structure[0] == 'CV':
             syllables[1] = addSyllableMarker(syllables[1])
         elif structure[0] == "CVV":
-            syllables[1] = addSyllableMarker(syllables[1])
+            if len(structure) > 2:
+                if structure[1] == "CV":
+                    syllables[2] = addSyllableMarker(syllables[2])
+                else:
+                    syllables[1] = addSyllableMarker(syllables[1])
+            else:
+                syllables[1] = addSyllableMarker(syllables[1])
         else:
             syllables[0] = addSyllableMarker(syllables[0])
         pronunciation = prefix + "".join(syllables)
         structure = firstStructure + structure
     return pronunciation
 
-def main():
-    df = constructDF("Kashaya word list.txt")
-    entries = df['Entries']
-    pronunciations = df['Pronunciations']
-    generatedPronunciations = []
-    randIndex = random.randint(0,len(df['Entries']))
-    generatedAbs = generateAllAbsolutives(entries)
-    #entry = df.iloc[randIndex]['Entries']
-    for entry in entries:
-        pronunciation = createPronunciation(entry)
-        generatedPronunciations.append(stripFinalSpaces(pronunciation))
-    
-    df.insert(6, "Generated Pron", generatedPronunciations)
-    df.insert(4, "Generated Abs", generatedAbs)
-    with open("Pronunciation Errors.txt", "w") as errorFile:
-        correct = 0
-        total = 0
-        for i in range(0, len(df['Entries'])):
-            if df.iloc[i]['Pronunciations'] != None:
-                pronunciation = df.iloc[i]['Pronunciations']
-                generated = df.iloc[i]['Generated Pron']
-                total += 1
-                if pronunciation == generated:
+
+df = constructDF("Kashaya word list.txt")
+entries = df['Entries']
+pronunciations = df['Pronunciations']
+generatedPronunciations = []
+randIndex = 287#random.randint(0,len(df['Entries']))
+generatedAbs = generateAllAbsolutives(entries)
+"""
+entry = df.iloc[randIndex]['Entries']
+print("Entry: " + entry)
+print("Mine: " + createPronunciation(entry))
+print("Listed: " + df['Pronunciations'][randIndex])
+"""
+for i in range(0, len(entries)):
+    entry = entries[i]
+    pronunciation = createPronunciation(entry)
+    generatedPronunciations.append(pronunciation)
+
+df.insert(2, "Generated Pron", generatedPronunciations)
+df.insert(4, "Generated Abs", generatedAbs)
+
+with open("Pronunciation Errors.txt", "w") as errorFile:
+    correct = 0
+    total = 0
+    for i in range(0, len(df['Entries'])):
+        if df.iloc[i]['Pronunciations'] != None:
+            pronunciation = df.iloc[i]['Pronunciations']
+            generated = df.iloc[i]['Generated Pron']
+            total += 1
+            if pronunciation == generated:
+                correct += 1
+            elif df.iloc[i]['Entries'][0] == "*":
+                if df.iloc[i]['Absolutives'] == df.iloc[i]['Generated Abs']:
+                    errorFile.write(
+                            "Entry: " + df.iloc[i]['Entries'].rstrip("\n") +
+                            " | Pronunciation: " + df.iloc[i]['Pronunciations'] +
+                            " | Generated Pronunciation: " + df.iloc[i]['Generated Pron'] + "\n"
+                        )
+                else:
                     correct += 1
-                elif df.iloc[i]['Entries'][0] == "*":
-                    if df.iloc[i]['Absolutives'] == df.iloc[i]['Generated Abs'] and pronunciation[-1] != "´":
-                        errorFile.write(
-                                "Entry: " + df.iloc[i]['Entries'].rstrip("\n") +
-                                " | Pronunciation: " + df.iloc[i]['Pronunciations'] +
-                                " | Generated Pronunciation: " + df.iloc[i]['Generated Pron'] + "\n"
-                            )
-        errorFile.close()
-    print("Number Correct: " + str(correct) + ", Total: " + str(total) +
-              ", Percent Correct: " + str(correct/total))
-    
-if __name__ == "__main__":
-    main()
-"""
-    if structure[1] == "CVC":
-        structure[2] = addSyllableMarker(syllables[2])
-    elif structure[0] == "CVC" and structure[1] == "CVV":
-        structure[1] = addSyllableMarker(syllables[1])
-    elif structure[1] == "CV":
-        structure[2] = addSyllableMarker(syllables[2])
-    elif structure[0] == "CV" and structure[1] == "CVV":
-        structure[2] = addSyllableMarker(syllables[2])
-    elif structure[1] == "CVV":
-        structure[1] = addSyllableMarker(syllables[1])
-"""
+    errorFile.close()
+print("Number Correct: " + str(correct) + ", Total: " + str(total) +
+          ", Percent Correct: " + str(correct/total))
+
