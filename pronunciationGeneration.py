@@ -3,7 +3,7 @@
 
 import random
 import pandas as pd
-from syllabification import splitIntoSegments, syllabify, footStructure, stripFinalSpaces
+from syllabification import splitIntoSegments, syllabify, footStructure, stripFinalSpaces, extrametricalityApplies
 from absolutiveGeneration import createAbsolutive, generateAllAbsolutives
 from dfConstructor import constructDF, findComponents
 from specialLists import Config
@@ -20,8 +20,11 @@ def addSyllableMarker(syllable):
             syllable[i] = stresses[syllable[i]]
     return "".join(syllable)
             
+    
+    
 
 def createPronunciation(entry):
+    tone = 0
     absolutive = createAbsolutive(entry)
     segments = splitIntoSegments(absolutive)
     syllables = syllabify(segments)
@@ -44,27 +47,12 @@ def createPronunciation(entry):
         firstStructure = []
         components = findComponents(entry)
         #This case is handling syllable extrametricality
-
-        if components[0][-1] == "-" and ("Ø" not in components[0]):
+        if extrametricalityApplies(entry):
             prefix = syllables[0]
             firstStructure.append(structure[0])
             syllables = syllables[1:]
             structure = structure[1:]
-        elif len(splitIntoSegments(syllables[0])) > 2:
-            if (splitIntoSegments(syllables[0])[2] == 'ʔ' or splitIntoSegments(syllables[0])[2] == 'h'):
-                prefix = syllables[0]
-                firstStructure.append(structure[0])
-                syllables = syllables[1:]
-                structure = structure[1:]
-        elif components[0][0] == "*":
-            compSegments = splitIntoSegments(components[0])
-            compSyllables = syllabify(compSegments)
-            if len(compSyllables) >= 2:
-                prefix = syllables[0]
-                firstStructure.append(structure[0])
-                syllables = syllables[1:]
-                structure = structure[1:]
-            
+        
                 
         #Change this to a while loop? Also need to make sure syllables[2] is not out of bounds
 
@@ -82,13 +70,14 @@ def createPronunciation(entry):
             syllables[0] = addSyllableMarker(syllables[0])
         pronunciation = prefix + "".join(syllables)
         structure = firstStructure + structure
-    return pronunciation
+    return pronunciation, 0
 
 
 df = constructDF("Kashaya word list.txt")
 entries = df['Entries']
 pronunciations = df['Pronunciations']
 generatedPronunciations = []
+generatedTones = []
 randIndex = 287#random.randint(0,len(df['Entries']))
 generatedAbs = generateAllAbsolutives(entries)
 """
@@ -99,8 +88,9 @@ print("Listed: " + df['Pronunciations'][randIndex])
 """
 for i in range(0, len(entries)):
     entry = entries[i]
-    pronunciation = createPronunciation(entry)
+    pronunciation, tone = createPronunciation(entry)
     generatedPronunciations.append(pronunciation)
+    generatedTones.append(tone)
 
 df.insert(2, "Generated Pron", generatedPronunciations)
 df.insert(4, "Generated Abs", generatedAbs)
@@ -108,7 +98,7 @@ df.insert(4, "Generated Abs", generatedAbs)
 with open("Pronunciation Errors.txt", "w") as errorFile:
     correct = 0
     total = 0
-    for i in range(0, len(df['Entries'])):
+    for i in tqdm(range(0, len(df['Entries']))):
         if df.iloc[i]['Pronunciations'] != None:
             pronunciation = df.iloc[i]['Pronunciations']
             generated = df.iloc[i]['Generated Pron']

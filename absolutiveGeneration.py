@@ -2,8 +2,8 @@
 #Kashaya Absolutive form generation
 
 import pandas as pd
-from dfConstructor import constructDF
-from syllabification import splitIntoSegments, syllabify, footStructure, stripFinalSpaces
+from dfConstructor import constructDF, findComponents
+from syllabification import splitIntoSegments, syllabify, footStructure, stripFinalSpaces, extrametricalityApplies
 from specialLists import Config
 
 lists = Config()
@@ -16,11 +16,30 @@ consonants = lists.consonants
 nonVowels = sonorants + sChars + consonants
 
 
+
+def footFlipping(startEntry, syllables, structure):
+    #This is the process of "Foot Flipping"
+    if len(structure) > 2:
+        if extrametricalityApplies(startEntry):
+            if structure[1] == "CVV" and structure[2] == "CV":
+                syllables[1] = syllables[1].rstrip("·")
+                syllables[2] += "·"
+                structure[1] = "CV"
+                structure[2] = "CVV"
+        elif structure[0] == "CVV" and structure[1] == "CV":
+            syllables[0] = syllables[0].rstrip("·")
+            syllables[1] += "·"
+            structure[0] = "CV"
+            structure[1] = "CVV"
+    return syllables, structure
+        
+
 def createAbsolutive(entry):
     """
     This code looks for the last vowel and if it doesn't end with /d/,
     it shortens the long vowel
     """
+    startEntry = entry
     if entry[0] == "*":
         segments = splitIntoSegments(entry)
         #If the first segment is a h or ʔ, then it is deleted
@@ -85,14 +104,8 @@ def createAbsolutive(entry):
         
         syllables = syllabify(segments)
         structure = footStructure(syllables)
-        
         #This is the process of "Foot Flipping"
-        if len(structure) > 2:
-            if structure[0] == "CVV" and structure[1] == "CV":
-                syllables[0] = syllables[0].rstrip("·")
-                syllables[1] += "·"
-                structure[0] = "CV"
-                structure[1] = "CVV"
+        syllables, structure = footFlipping(startEntry, syllables, structure)
     else:
         """
         It reaches this point if it is not a bound stem.
@@ -113,6 +126,7 @@ def createAbsolutive(entry):
 
         syllables = syllabify(segments)
         structure = footStructure(syllables)
+
     #This handles closed vowel shortening. A CVVC turns into a CVC
     for i in range(0, len(syllables)):
         if structure[i] == "CVVC" or structure[i] == "CVVCC":
@@ -121,7 +135,6 @@ def createAbsolutive(entry):
             syllables[i] = "".join(syllableSegments)
 
     absolutive = "".join(syllables)
-
     return absolutive
   
 def generateAllAbsolutives(entries):
@@ -129,8 +142,6 @@ def generateAllAbsolutives(entries):
     
     for entry in entries:
         absolutive = createAbsolutive(entry)
-        if entry == "biyo·lmaw\n":
-            print(absolutive)
         generatedAbs.append(stripFinalSpaces(absolutive))
     return generatedAbs
 
@@ -144,21 +155,21 @@ def main():
     generatedAbs = generateAllAbsolutives(entries)
         
     df.insert(4, "Generated Abs", generatedAbs)
-    with open("Non Bound Stem Errors.txt", "w") as errorFile:
+    with open("Bound Stem Errors.txt", "w") as errorFile:
         correct = 0
         total = 0
         notBoundErrors = 0
         notBoundTotal = 0
         for i in range(0, len(df['Entries'])):
             if df.iloc[i]['Absolutives'] != None:
-                if df.iloc[i]['Entries'][0] != "*":
+                if df.iloc[i]['Entries'][0] == "*":
                     notBoundTotal += 1
                 absolutive = df.iloc[i]['Absolutives']
                 generated = df.iloc[i]['Generated Abs']
                 total += 1
                 if absolutive == generated:
                     correct += 1
-                elif df.iloc[i]['Entries'][0] != "*":
+                elif df.iloc[i]['Entries'][0] == "*":
                     notBoundErrors += 1
                     errorFile.write(
                             "Entry: " + df.iloc[i]['Entries'].rstrip("\n") +

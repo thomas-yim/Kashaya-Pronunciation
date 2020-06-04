@@ -4,12 +4,20 @@
 import pandas as pd
 import json
 
+"""
+This gets rid of the spaces following the last character in the world and the /n
+"""
 def stripFinalSpaces(entry):
     entry = entry.rstrip('\n')
     while entry[-1] == " ":
         entry = entry[:-1]
     return entry
 
+"""
+The values in pluralComplexEntries.json were pulled from the webonary.org/kashaya
+website. It pulled the grey highlighted components and are stored in a dictionary
+It is entry:components
+"""
 def findComponents(entry):
     with open("pluralComplexEntries.json", 'r') as componentFile:
         components = json.load(componentFile)

@@ -2,7 +2,7 @@
 #Kashaya Syllabification, Segmentation, and Foot Structure Generation.
 
 import random
-from dfConstructor import constructDF
+from dfConstructor import constructDF, findComponents
 from specialLists import Config
 
 lists = Config()
@@ -74,6 +74,26 @@ def footStructure(syllables):
         structure.append(syllableStruct)
     return structure
 
+def extrametricalityApplies(entry):
+    components = findComponents(entry)
+    segments = splitIntoSegments(entry)
+    syllables = syllabify(segments) 
+    if components[0][-1] == "-" and ("Ø" not in components[0]):
+        return True
+    elif len(splitIntoSegments(syllables[0])) > 2:
+        if (splitIntoSegments(syllables[0])[2] == 'ʔ' or splitIntoSegments(syllables[0])[2] == 'h'):
+            return True
+        else:
+            return False
+    elif components[0][0] == "*":
+        compSegments = splitIntoSegments(components[0])
+        compSyllables = syllabify(compSegments)
+        if len(compSyllables) >= 2:
+            return True
+        else:
+            return False
+    else:
+        return False
 
 def main():
     df = constructDF("Kashaya word list.txt")
@@ -81,7 +101,7 @@ def main():
     entry = df.iloc[randIndex]['Entries']
     #entry = "*pʰaʔsʼulh"
     #entry = "*bo·catad"
-    entry = "biyo·lmaw"
+    entry = "*dihkela·tad"
     print(entry)
 
     segments = splitIntoSegments(entry)
