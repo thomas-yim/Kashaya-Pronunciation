@@ -5,6 +5,7 @@ import pandas as pd
 from dfConstructor import constructDF, findComponents
 from syllabification import splitIntoSegments, syllabify, footStructure, stripFinalSpaces, extrametricalityApplies
 from specialLists import Config
+from tqdm import tqdm
 
 lists = Config()
     
@@ -16,12 +17,20 @@ consonants = lists.consonants
 nonVowels = sonorants + sChars + consonants
 
 
-
+"""
+This completes the process of foot flipping.
+Foot Flipping only occurs when there is a CVV CV syllable pattern
+For this to occur, the CVV has to be at the left edge of the visible domain
+So, if there is extrametricality, the second syllable can be CVV and the third CV
+If this happens, (CVV, CV) -> (CV,CVV)
+"""
 def footFlipping(startEntry, syllables, structure):
-    #This is the process of "Foot Flipping"
+    #If there are more than 2 syllables
     if len(structure) > 2:
-        if extrametricalityApplies(startEntry):
+        #If the first syllable is extrametrical, there must be more than 3 syllables so the CV is not final
+        if extrametricalityApplies(startEntry) and len(structure) > 3:
             if structure[1] == "CVV" and structure[2] == "CV":
+                #These four lines move the heavy syllable marker to the other syllable
                 syllables[1] = syllables[1].rstrip("·")
                 syllables[2] += "·"
                 structure[1] = "CV"
@@ -31,24 +40,30 @@ def footFlipping(startEntry, syllables, structure):
             syllables[1] += "·"
             structure[0] = "CV"
             structure[1] = "CVV"
+    #Return the modified syllables and structure
     return syllables, structure
         
 
 def createAbsolutive(entry):
-    """
-    This code looks for the last vowel and if it doesn't end with /d/,
-    it shortens the long vowel
-    """
+    #We need this because entry will be modified as it transitions to the absolutive
     startEntry = entry
+    
+    """
+    The * is present when it is a bound stem. This receives all of the absolutive rules
+    """
     if entry[0] == "*":
         segments = splitIntoSegments(entry)
-        #If the first segment is a h or ʔ, then it is deleted
+        #If the first segment is a h or ʔ and is not the onset, then it is deleted
         if segments[0] == "h" or segments[0] == "ʔ":
+            #If the second character is not a vowel, it is not part of the onset.
             if segments[1][0] not in vowels:
                 segments = segments[1:]
         syllables = syllabify(segments)
         finalSyllable = syllables[-1]
-        #If the final letter is not d and the final vowel is long, shorten it.
+        """
+        This code looks for the last vowel and if it doesn't end with /d/,
+        it shortens the final long vowel
+        """
         if finalSyllable[-1] != 'd':
             #This iterates backwards through the last syllable in the word
             for i in range(len(finalSyllable)-1, -1, -1):
@@ -64,29 +79,31 @@ def createAbsolutive(entry):
         
                             
         
-        #Entry has now been modified. Needs to be after initial foot flipping
+        #Entry has now been modified.
         entry = "".join(syllables)
         segments = splitIntoSegments(entry)
         
             
-        #This gets the final letter without its special increment
+        #This gets the final letter without its special increment if it had it
         final = segments[-1][0]
         #If the final segment is a d, add a 'u'
         if final == 'd':
             segments.append('u')
+            #Note that the foot structure (and possibly stress) will change with the added u.
+            #This is because the syllables are shifted over.
             syllables = syllabify(segments)
             structure = footStructure(syllables)
             #Must be at least three to see if the third to last is CV and
             #The second to last is CV
             if len(structure) > 3:
+                if startEntry == "*bahqʰayad":
+                    print(structure)
+                #If the second and third to last syllables are light, lengthen it 
+                #Note for self... Check for extrametricality
                 if structure[-2] == "CV" and structure[-3] == "CV":
                     syllables[-2] += "·"
                     segments = splitIntoSegments("".join(syllables))
-                elif structure[-2] == "CV" and structure[-3] == "CVV":
-                    syllables[-3] = syllables[-3].rstrip("·")
-                    syllables[-2] += "·"
-                    structure[-3] = "CV"
-                    structure[-2] = "CVV"
+
         #If the final segment is a sonorant, add a glottal stop
         elif final in sonorants:
             segments.append('ʔ')
@@ -103,14 +120,17 @@ def createAbsolutive(entry):
         
         
         syllables = syllabify(segments)
+        if startEntry == "*bahqʰayad":
+            print(syllables)
         structure = footStructure(syllables)
+        
         #This is the process of "Foot Flipping"
         syllables, structure = footFlipping(startEntry, syllables, structure)
     else:
         """
         It reaches this point if it is not a bound stem.
-        If a non-bound stem has a word initial h or ʔ that is not the onset
-        to the syllable, delete it.
+        There is an absolutive-like form that only has debuccalization, initial increment deletion,
+        and closed syllable shortening.
         """
         if (entry[0] == "h" or entry[0] == "ʔ") and entry[1] not in vowels:
             entry = entry[1:]
@@ -162,14 +182,14 @@ def main():
         notBoundTotal = 0
         for i in range(0, len(df['Entries'])):
             if df.iloc[i]['Absolutives'] != None:
-                if df.iloc[i]['Entries'][0] == "*":
+                if df.iloc[i]['Entries'][0] == "d":
                     notBoundTotal += 1
                 absolutive = df.iloc[i]['Absolutives']
                 generated = df.iloc[i]['Generated Abs']
                 total += 1
                 if absolutive == generated:
                     correct += 1
-                elif df.iloc[i]['Entries'][0] == "*":
+                elif df.iloc[i]['Entries'][-1] == "d":
                     notBoundErrors += 1
                     errorFile.write(
                             "Entry: " + df.iloc[i]['Entries'].rstrip("\n") +

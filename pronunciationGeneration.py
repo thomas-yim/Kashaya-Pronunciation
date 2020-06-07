@@ -26,21 +26,53 @@ def addSyllableMarker(syllable):
 def createPronunciation(entry):
     tone = 0
     absolutive = createAbsolutive(entry)
+    #These will be the segments, syllables, and structures of the absolutive form.
     segments = splitIntoSegments(absolutive)
     syllables = syllabify(segments)
     structure = footStructure(syllables)
+    #We need this for calculating the effect of foot flipping and closed vowel shortening on stress
+    #If the word ends in a /d/, a /u/ is added and stress is shifted
+    entrySegments = splitIntoSegments(entry)
+    entrySyllables = syllabify(entrySegments)
+    entryStructure = footStructure(entrySyllables)
+    """
+    Note to self: account for extrametricality and outside stress marker for syllables > 2
+    """
     if len(syllables) == 1:
-        syllables[0] = addSyllableMarker(syllables[0])
+        #If the syllable has more than two letters
+        if len(structure[0]) > 2:
+            #If that letter has a long vowel in it, it is extrametrical so the stress symbol goes outside
+            if entryStructure[0][0:3] == "CVV":
+                syllables[0] += "´"
+            #Otherwise the syllable marker goes on the one syllable
+            else:
+                syllables[0] = addSyllableMarker(syllables[0])
+        else:
+            syllables[0] = addSyllableMarker(syllables[0])
         pronunciation = "".join(syllables)
     elif len(syllables) == 2:
         segmentsOfFirstSyllable = splitIntoSegments(syllables[0])
         if structure[0][0:3] == "CVC":
             if segmentsOfFirstSyllable[2] == 'ʔ' or segmentsOfFirstSyllable[2] == 'h':
-                syllables[1] = addSyllableMarker(syllables[1])
+                #If there was a second syllable to check from the entry (remember it can be different from absolutive structure)
+                if len(entryStructure) > 1:
+                    #If there was a long vowel, it is extrametrical and the stress symbol goes outside.
+                    if entryStructure[1][0:3] == "CVV":
+                        syllables[1] += "´"
+                    else:
+                        syllables[1] = addSyllableMarker(syllables[1])
+                else:
+                    syllables[1] = addSyllableMarker(syllables[1])
             else:
                 syllables[0] = addSyllableMarker(syllables[0])
         else:
-            syllables[1] = addSyllableMarker(syllables[1])
+            if len(entryStructure) > 1:
+                if entryStructure[1][0:3] == "CVV":
+                    syllables[1] += "´"
+                else:
+                    syllables[1] = addSyllableMarker(syllables[1])
+            else:
+                syllables[1] = addSyllableMarker(syllables[1])
         pronunciation = "".join(syllables)
     else:
         prefix = ""
@@ -86,7 +118,7 @@ print("Entry: " + entry)
 print("Mine: " + createPronunciation(entry))
 print("Listed: " + df['Pronunciations'][randIndex])
 """
-for i in range(0, len(entries)):
+for i in tqdm(range(0, len(entries))):
     entry = entries[i]
     pronunciation, tone = createPronunciation(entry)
     generatedPronunciations.append(pronunciation)
@@ -98,7 +130,7 @@ df.insert(4, "Generated Abs", generatedAbs)
 with open("Pronunciation Errors.txt", "w") as errorFile:
     correct = 0
     total = 0
-    for i in tqdm(range(0, len(df['Entries']))):
+    for i in range(0, len(df['Entries'])):
         if df.iloc[i]['Pronunciations'] != None:
             pronunciation = df.iloc[i]['Pronunciations']
             generated = df.iloc[i]['Generated Pron']

@@ -2,6 +2,7 @@
 
 """
 This file will scrape the page to see if there is a prefix to determine extrimetricality
+Note this version had a problem. If it was a plural, it did not go into the singular version
 """
 
 # Import libraries

@@ -1,15 +1,13 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May 27 18:30:01 2020
+#Thomas Yim 6/3/20
+#Convert the txt file to a json where the components can be referenced by the key of the entry
 
-@author: thomas
-"""
 from dfConstructor import constructDF
 import json
 from syllabification import stripFinalSpaces
 
+#the reason this is a variable is because I initially ran one without searching through plurals.
 filename = 'pluralComplexEntries'
+
 
 with open(filename + '.txt', 'r') as file:
     dictionary = {}
@@ -21,6 +19,7 @@ with open(filename + '.txt', 'r') as file:
     count = 1
     for i in range(0, len(lines)):
         newSize = len(dictionary)
+        #This will be added in the format entry:components
         dictionary[stripFinalSpaces(entries[i].rstrip('\n'))] = stripFinalSpaces(lines[i].rstrip('\n'))
         if newSize == size:
             count += 1
@@ -28,5 +27,7 @@ with open(filename + '.txt', 'r') as file:
         size=newSize
         
 print(len(dictionary))
+
+#This will add the dictionary to a json file.
 with open(filename + '.json', 'w') as jsonFile:
     json.dump(dictionary, jsonFile)
