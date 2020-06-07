@@ -18,6 +18,7 @@ def addSyllableMarker(syllable):
     for i in range(0, len(syllable)):
         if syllable[i] in vowels:
             syllable[i] = stresses[syllable[i]]
+    print(syllable)
     return "".join(syllable)
             
     
@@ -75,34 +76,45 @@ def createPronunciation(entry):
                 syllables[1] = addSyllableMarker(syllables[1])
         pronunciation = "".join(syllables)
     else:
-        prefix = ""
-        firstStructure = []
+        extSyllables = []
+        extStructure = []
         components = findComponents(entry)
         #This case is handling syllable extrametricality
         if extrametricalityApplies(entry):
-            prefix = syllables[0]
-            firstStructure.append(structure[0])
+            extSyllables.append(syllables[0])
+            extStructure.append(structure[0])
             syllables = syllables[1:]
             structure = structure[1:]
         
-                
-        #Change this to a while loop? Also need to make sure syllables[2] is not out of bounds
-
-        if structure[0] == 'CV':
-            syllables[1] = addSyllableMarker(syllables[1])
-        elif structure[0] == "CVV":
-            if len(structure) > 2:
-                if structure[1] == "CV":
-                    syllables[2] = addSyllableMarker(syllables[2])
-                else:
-                    syllables[1] = addSyllableMarker(syllables[1])
-            else:
-                syllables[1] = addSyllableMarker(syllables[1])
+        if structure[0] == "CVV":
+            extSyllables.append(syllables[0])
+            extStructure.append(structure[0])
+            syllables = syllables[1:]
+            structure = structure[1:]
+        elif structure[0] == "CV" and structure[1] == "CVV":
+            if entryStructure[0] == "CVV" and entryStructure[1] == "CV":
+                extSyllables.append(syllables[0])
+                extSyllables.append(syllables[1])
+                extStructure.append(structure[0])
+                extStructure.append(structure[1])
+                syllables = syllables[2:]
+                structure = structure[2:]
+        
+        if len(structure) == 0:
+            pronunciation == "".join(extSyllables) + "´"
+            structure = extStructure
         else:
-            syllables[0] = addSyllableMarker(syllables[0])
-        pronunciation = prefix + "".join(syllables)
-        structure = firstStructure + structure
-    return pronunciation, 0
+            if structure[0] == 'CV':
+                if len(structure) > 1:
+                    syllables[1] = addSyllableMarker(syllables[1])
+                else:
+                    syllables[0] += "´"
+            else:
+                syllables[0] = addSyllableMarker(syllables[0])
+            
+            pronunciation = "".join(extSyllables + syllables)
+            structure = extStructure + structure
+    return pronunciation, tone
 
 
 df = constructDF("Kashaya word list.txt")
@@ -118,7 +130,7 @@ print("Entry: " + entry)
 print("Mine: " + createPronunciation(entry))
 print("Listed: " + df['Pronunciations'][randIndex])
 """
-for i in tqdm(range(0, len(entries))):
+for i in range(0, len(entries)):
     entry = entries[i]
     pronunciation, tone = createPronunciation(entry)
     generatedPronunciations.append(pronunciation)
