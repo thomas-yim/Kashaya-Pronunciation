@@ -12,6 +12,7 @@ sonorants = lists.sonorants
 sChars = lists.sChars
 consonants = lists.consonants
 nonVowels = sonorants + sChars + consonants
+accentedVowels = lists.accentedVowels
 
 """
 This gets rid of the spaces following the last character in the world and the /n
@@ -54,7 +55,7 @@ def syllabify(segments):
     syllables = []
     lastUsedSegmentIndex = len(segments)
     for k in range(len(segments)-1, -1, -1):
-        if segments[k][0] in vowels:
+        if segments[k][0] in vowels or segments[k][0] in accentedVowels:
             vowel = segments[k]
             onset = ""
             coda = ""
@@ -74,7 +75,7 @@ def syllabify(segments):
 This builds the foot structure for the words
 Usually CV CVV CVC
 """
-def footStructure(syllables):
+def findStructure(syllables):
     structure = []
     for syllable in syllables:
         syllableStruct = ""
@@ -93,6 +94,45 @@ def footStructure(syllables):
         structure.append(syllableStruct)
     return structure
 
+"""
+This will return an array with all of the visible feet of the word/phrase
+So, if a syllable is extrametrical, it won't be inclulded.
+"""
+def footStructure(startEntry, syllables):
+    structure = findStructure(syllables)
+    #We need this for calculating the effect of foot flipping and closed vowel shortening on stress
+    #If the word ends in a /d/, a /u/ is added and stress is shifted
+    entrySegments = splitIntoSegments(startEntry)
+    entrySyllables = syllabify(entrySegments)
+    entryStructure = findStructure(entrySyllables)
+    if extrametricalityApplies(startEntry):
+        syllables = syllables[1:]
+        structure = structure[1:]
+    if len(structure) > 0:
+        if structure[0] == "CVV":
+            syllables = syllables[1:]
+            structure = structure[1:]
+        elif len(structure) > 2:
+            if structure[0] == "CV" and structure[1] == "CVV":
+                if entryStructure[0] == "CVV" and entryStructure[1] == "CV":
+                    syllables = syllables[2:]
+                    structure = structure[2:]
+    i = 0
+    footStruct = []
+    while i < len(structure):
+        if structure[i] == "CV":
+            if i < len(structure)-1:
+                if structure[i+1] == "CV":
+                    footStruct.append([syllables[i], syllables[i+1]])
+                    i += 1
+                else:
+                    footStruct.append([syllables[i]])
+            else:
+                footStruct.append([syllables[i]])
+        else:
+            footStruct.append([syllables[i]])
+        i += 1
+    return footStruct
 
 """
 This checks if extrametricality will apply. I pulled all the components for the words from the database
@@ -107,13 +147,17 @@ def extrametricalityApplies(entry):
     syllables = syllabify(segments) 
     if components[0][-1] == "-" and ("Ø" not in components[0]):
         return True
-    elif len(splitIntoSegments(syllables[0])) > 2:
-        if (splitIntoSegments(syllables[0])[2] == 'ʔ' or splitIntoSegments(syllables[0])[2] == 'h'):
+    
+    elif components[0][0] == "*" or components[0][0] in nonVowels:
+        compSegments = splitIntoSegments(components[0])
+        compSyllables = syllabify(compSegments)
+        if len(compSyllables) >= 2:
             return True
         else:
             return False
-    elif components[0][0] == "*":
-        compSegments = splitIntoSegments(components[0])
+    #Need to confirm with buckley about this test
+    elif components[0] == "Same":
+        compSegments = splitIntoSegments(entry)
         compSyllables = syllabify(compSegments)
         if len(compSyllables) >= 2:
             return True
@@ -128,25 +172,26 @@ def main():
     entry = df.iloc[randIndex]['Entries']
     #entry = "*pʰaʔsʼulh"
     #entry = "*bo·catad"
-    entry = "*dihkela·tad"
+    #entry = "*bahcʰabacʰatadu"
     print(entry)
 
     segments = splitIntoSegments(entry)
-    print(segments)
+    #print(segments)
     
     syllables = syllabify(segments)
-    print(syllables)
+    #print(syllables)
         
-                    
-    structure = footStructure(syllables)
+    structure = findStructure(syllables)
     print(structure)
+                    
+    footStruct = footStructure("*bahcʰabacʰatad", syllables)
+    print(footStruct)
     if len(structure) > 1:
         if structure[0] == "CVV" and structure[1] == "CV":
             syllables[0] = syllables[0].rstrip("·")
             syllables[1] += "·"
             structure[0] = "CV"
             structure[1] = "CVV"
-    print(syllables)
-    print(structure)
+            
 if __name__ == '__main__':
     main()

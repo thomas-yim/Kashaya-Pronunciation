@@ -6,7 +6,7 @@ import json
 from syllabification import stripFinalSpaces
 
 #the reason this is a variable is because I initially ran one without searching through plurals.
-filename = 'pluralComplexEntries'
+filename = 'textFiles/' + 'pluralComplexEntries'
 
 
 with open(filename + '.txt', 'r') as file:
@@ -29,5 +29,5 @@ with open(filename + '.txt', 'r') as file:
 print(len(dictionary))
 
 #This will add the dictionary to a json file.
-with open(filename + '.json', 'w') as jsonFile:
+with open('textFiles/' + filename + '.json', 'w') as jsonFile:
     json.dump(dictionary, jsonFile)

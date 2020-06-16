@@ -55,7 +55,7 @@ for i in tqdm(range(3918, 5598)):
         count += 1
     allComponents.append(components)
 print(count)
-with open("complexEntries.txt", 'a') as file:
+with open("textFiles/complexEntries.txt", 'a') as file:
     for components in allComponents:
         for component in components:
             file.write(component + " ")

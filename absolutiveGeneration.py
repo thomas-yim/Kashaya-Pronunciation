@@ -3,7 +3,7 @@
 
 import pandas as pd
 from dfConstructor import constructDF, findComponents
-from syllabification import splitIntoSegments, syllabify, footStructure, stripFinalSpaces, extrametricalityApplies
+from syllabification import splitIntoSegments, syllabify, findStructure, stripFinalSpaces, extrametricalityApplies, footStructure
 from specialLists import Config
 from tqdm import tqdm
 
@@ -26,20 +26,22 @@ If this happens, (CVV, CV) -> (CV,CVV)
 """
 def footFlipping(startEntry, syllables, structure):
     #If there are more than 2 syllables
+    #If there are only two syllables the CV will be final and it will not work
     if len(structure) > 2:
-        #If the first syllable is extrametrical, there must be more than 3 syllables so the CV is not final
-        if extrametricalityApplies(startEntry) and len(structure) > 3:
+        if structure[0] == "CVV" and structure[1] == "CV":
+            syllables[0] = syllables[0].rstrip("·")
+            syllables[1] += "·"
+            structure[0] = "CV"
+            structure[1] = "CVV"
+        #If the first syllable is extrametrical, there must be more than 4 syllables so the CV is not final
+        elif extrametricalityApplies(startEntry) and len(structure) > 3:
             if structure[1] == "CVV" and structure[2] == "CV":
                 #These four lines move the heavy syllable marker to the other syllable
                 syllables[1] = syllables[1].rstrip("·")
                 syllables[2] += "·"
                 structure[1] = "CV"
                 structure[2] = "CVV"
-        elif structure[0] == "CVV" and structure[1] == "CV":
-            syllables[0] = syllables[0].rstrip("·")
-            syllables[1] += "·"
-            structure[0] = "CV"
-            structure[1] = "CVV"
+        
     #Return the modified syllables and structure
     return syllables, structure
         
@@ -77,7 +79,9 @@ def createAbsolutive(entry):
                             finalSyllable = finalSyllable[:i+1] + finalSyllable[i+2:]
                             syllables[-1] = finalSyllable
         
-                            
+        
+        structure = findStructure(syllables)
+        
         
         #Entry has now been modified.
         entry = "".join(syllables)
@@ -89,20 +93,6 @@ def createAbsolutive(entry):
         #If the final segment is a d, add a 'u'
         if final == 'd':
             segments.append('u')
-            #Note that the foot structure (and possibly stress) will change with the added u.
-            #This is because the syllables are shifted over.
-            syllables = syllabify(segments)
-            structure = footStructure(syllables)
-            #Must be at least three to see if the third to last is CV and
-            #The second to last is CV
-            if len(structure) > 3:
-                if startEntry == "*bahqʰayad":
-                    print(structure)
-                #If the second and third to last syllables are light, lengthen it 
-                #Note for self... Check for extrametricality
-                if structure[-2] == "CV" and structure[-3] == "CV":
-                    syllables[-2] += "·"
-                    segments = splitIntoSegments("".join(syllables))
 
         #If the final segment is a sonorant, add a glottal stop
         elif final in sonorants:
@@ -120,12 +110,26 @@ def createAbsolutive(entry):
         
         
         syllables = syllabify(segments)
-        if startEntry == "*bahqʰayad":
-            print(syllables)
-        structure = footStructure(syllables)
+        structure = findStructure(syllables)
+        
         
         #This is the process of "Foot Flipping"
         syllables, structure = footFlipping(startEntry, syllables, structure)
+        
+        
+        footStruct = footStructure(startEntry, syllables)
+
+        if startEntry[-1] == 'd':
+            #Note that the foot structure (and possibly stress) will change with the added u.
+            #Must be at least three syllables to see if the third to last is CV and
+            #The second to last is CV
+            if len(structure) >= 3:
+                #If the second and third to last syllables are light, lengthen it 
+                #Note for self... Check for extrametricality
+                if len(footStruct) > 1:
+                    if len(footStruct[-2]) == 2:
+                        if footStruct[-2][-1] == syllables[-2] and structure[-2] == "CV":
+                            syllables[-2] += "·"
     else:
         """
         It reaches this point if it is not a bound stem.
@@ -145,7 +149,7 @@ def createAbsolutive(entry):
             segments[-1] = 'ʔ'
 
         syllables = syllabify(segments)
-        structure = footStructure(syllables)
+        structure = findStructure(syllables)
 
     #This handles closed vowel shortening. A CVVC turns into a CVC
     for i in range(0, len(syllables)):
@@ -175,26 +179,27 @@ def main():
     generatedAbs = generateAllAbsolutives(entries)
         
     df.insert(4, "Generated Abs", generatedAbs)
-    with open("Bound Stem Errors.txt", "w") as errorFile:
+    with open("textFiles/" + "Bound Stem Errors.txt", "w") as errorFile:
         correct = 0
         total = 0
         notBoundErrors = 0
         notBoundTotal = 0
         for i in range(0, len(df['Entries'])):
             if df.iloc[i]['Absolutives'] != None:
-                if df.iloc[i]['Entries'][0] == "d":
+                if df.iloc[i]['Entries'][-1] == "d":
                     notBoundTotal += 1
                 absolutive = df.iloc[i]['Absolutives']
                 generated = df.iloc[i]['Generated Abs']
                 total += 1
                 if absolutive == generated:
                     correct += 1
-                elif df.iloc[i]['Entries'][-1] == "d":
-                    notBoundErrors += 1
+                else:
+                    if df.iloc[i]['Entries'][-1] == "d":
+                        notBoundErrors += 1
                     errorFile.write(
                             "Entry: " + df.iloc[i]['Entries'].rstrip("\n") +
-                            " | Absolutive: " + df.iloc[i]['Absolutives'] +
-                            " | Generated Absolutive: " + df.iloc[i]['Generated Abs'] + "\n"
+                            " | Absolutive: " + absolutive +
+                            " | Generated Absolutive: " + generated + "\n"
                         )
         errorFile.close()
     print(notBoundErrors)

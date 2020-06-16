@@ -19,7 +19,7 @@ website. It pulled the grey highlighted components and are stored in a dictionar
 It is entry:components
 """
 def findComponents(entry):
-    with open("pluralComplexEntries.json", 'r') as componentFile:
+    with open("textFiles/pluralComplexEntries.json", 'r') as componentFile:
         components = json.load(componentFile)
         return components[entry].split(" ")
 
@@ -55,7 +55,7 @@ def constructDF(filename):
     There are sometimes also dashes where there is no value so it check for that
     """
     
-    with open(filename, 'r') as wordList:
+    with open("textFiles/" + filename, 'r') as wordList:
         for line in wordList.readlines():
             #Every time it comes across an entry:
             if (line[:len("Entry")] == "Entry"):
@@ -87,7 +87,7 @@ def constructDF(filename):
                 if line[len("Pronunciation: "):len("Pronunciation: ")+1] != "-":
                     currentPronunciation = stripFinalSpaces(line[len("Pronunciation: "):])
         pronunciation.append(currentPronunciation)
-        tones.append(currentTone)
+        tones.append(int(currentTone))
         absolutive.append(currentAbsolutive)
         grammaticalInfo.append(currentInfo)
         gloss.append(currentGloss)

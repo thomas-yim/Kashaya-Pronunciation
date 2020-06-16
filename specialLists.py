@@ -7,11 +7,12 @@ sonorants = ['m', 'n', 'l', 'y', 'w']
 sChars = ['s', 'sʼ', 'š']
 consonants = ['b','c','d','f','g','j','k','p','q','r',
               's','t','ṭ','v','w','x','z', 'ʔ', 'h']
-name="sortedLists"
+
 prefixes = ['ba', 'bi', 'ca', 'cu', 'cʰi', 'da', 'du', 'di', 'ha', 'hi', 'li',
             'ma', 'mi', 'mu', 'pi', 'pʰa', 'pʰi', 'pʰu', 'qa', 'si', 'ša', 'šu']
 suffixes = ['ad', 'mul', 'mad', 'aq', 'ala', 'ibic', 'hqa', 'ad', 'id','cid',
             'med']
+accentedVowels = ['á', 'é', 'í', 'ó', 'ú']
 
 class Config:
     def __init__(self):
@@ -22,3 +23,4 @@ class Config:
         self.increments = increments
         self.suffixes = suffixes
         self.prefixes = prefixes
+        self.accentedVowels = accentedVowels
