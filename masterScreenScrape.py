@@ -78,8 +78,12 @@ if runType.lower() == "append":
                         links = span.find_all('a')
                         link = links[0]
                         wordResponse = requests.get(link.get('href'))
-                        soup = BeautifulSoup(wordResponse.text, "html.parser")
-                        components = searchComponents(soup)
+                        deepSoup = BeautifulSoup(wordResponse.text, "html.parser")
+                        components = searchComponents(deepSoup)
+                        if len(components) == 0:
+                            if len(links) > 0:
+                                variant = links[0].text
+                                components.append(variant)
             if len(components) == 0:
                 components.append(link.text)
             parts = ""
@@ -89,6 +93,15 @@ if runType.lower() == "append":
         allComponents.append(components)
 
 elif runType.lower() == "replace":
+    print("The input file should be in the format of the Kashaya word list.txt file")
+    filename = input("What is the name of the file with the new entries? ")
+    df = constructDF(filename)
+    entries = list(df['Entries'])
+    with open('textFiles/pluralComplexEntries.txt', 'r') as file:
+        lines = file.readlines()
+        allComponents = []
+        for line in lines:
+            allComponents.append(stripFinalSpaces(line))
     for i in tqdm(range(0, len(allComponents))):
         if allComponents[i] == "Same":
             entry = entries[i]
@@ -106,12 +119,13 @@ elif runType.lower() == "replace":
                 for nestedSpan in nestedSpans:
                     if nestedSpan.text[-2:] == "of":
                         links = span.find_all('a')
-                        variant = links[0].text
                         wordResponse = requests.get(link.get('href'))
                         soup = BeautifulSoup(wordResponse.text, "html.parser")
                         components = searchComponents(soup)
                         if len(components) == 0:
-                            components.append(variant)
+                            if len(links) > 0:
+                                variant = links[0].text
+                                components.append(variant)
             if len(components) == 0:
                 components.append("Same")
             parts = ""

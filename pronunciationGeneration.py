@@ -35,6 +35,7 @@ def createPronunciation(entry):
     entrySegments = splitIntoSegments(entry)
     entrySyllables = syllabify(entrySegments)
     entryStructure = findStructure(entrySyllables)
+    
     """
     Note to self: account for extrametricality and outside stress marker for syllables > 2
     """
@@ -52,7 +53,7 @@ def createPronunciation(entry):
                 else:
                     syllables[0] = addSyllableMarker(syllables[0])
             else:
-                syllables[0] = addSyllableMarker(syllables[0])
+                syllables[0] += "´"
         pronunciation = "".join(syllables)
     elif len(syllables) == 2:
         extSyllables = []
@@ -100,37 +101,11 @@ def createPronunciation(entry):
             syl1Segs = splitIntoSegments(syllables[0])
             if structure[0] == "CV" or (structure[0][0:3] == "CVC" and entryStructure[0][0:4] == "CVVC"):
                 syllables[1] = addSyllableMarker(syllables[1])
-            elif structure[0] == "CVC" and (syl1Segs[2] == 'h'):
+            elif structure[0] == "CVC" and (syllables[0][-1] == "h"):
                 syllables[1] = addSyllableMarker(syllables[1])
             else:
                 syllables[0] = addSyllableMarker(syllables[0])
             pronunciation = "".join(extSyllables + syllables)
-            
-        """
-        segmentsOfFirstSyllable = splitIntoSegments(syllables[0])
-        if structure[0][0:3] == "CVC":
-            if segmentsOfFirstSyllable[2] == 'ʔ' or segmentsOfFirstSyllable[2] == 'h':
-                #If there was a second syllable to check from the entry (remember it can be different from absolutive structure)
-                if len(entryStructure) > 1:
-                    #If there was a long vowel, it is extrametrical and the stress symbol goes outside.
-                    if entryStructure[1][0:3] == "CVV":
-                        syllables[1] += "´"
-                    else:
-                        syllables[1] = addSyllableMarker(syllables[1])
-                else:
-                    syllables[1] = addSyllableMarker(syllables[1])
-            else:
-                syllables[0] = addSyllableMarker(syllables[0])
-        else:
-            if len(entryStructure) > 1:
-                if entryStructure[1][0:3] == "CVV":
-                    syllables[1] += "´"
-                else:
-                    syllables[1] = addSyllableMarker(syllables[1])
-            else:
-                syllables[1] = addSyllableMarker(syllables[1])
-        pronunciation = "".join(syllables)
-        """
     else:
         extSyllables = []
         extStructure = []
@@ -142,7 +117,7 @@ def createPronunciation(entry):
             syllables = syllables[1:]
             structure = structure[1:]
             entryStructure = entryStructure[1:]
-        
+            
         if structure[0] == "CVV":
             tone = 4
             extSyllables.append(syllables[0])
@@ -160,6 +135,17 @@ def createPronunciation(entry):
                 syllables = syllables[2:]
                 structure = structure[2:]
                 entryStructure = entryStructure[2:]
+            #TODO: Reorder this
+            elif len(entryStructure) == 2:
+                if entryStructure[0] == "CVV" and entryStructure[1] == "CVC" and entrySyllables[1][-1] == 'd':
+                    tone = 4
+                    extSyllables.append(syllables[0])
+                    extSyllables.append(syllables[1])
+                    extStructure.append(structure[0])
+                    extStructure.append(structure[1])
+                    syllables = syllables[2:]
+                    structure = structure[2:]
+                    entryStructure = entryStructure[2:]
         
         if len(extStructure) == 0:
             tone = 0
@@ -167,13 +153,7 @@ def createPronunciation(entry):
             pronunciation == "".join(extSyllables) + "´"
             structure = extStructure
         else:
-            syl1Segs = splitIntoSegments(syllables[0])
             if structure[0] == 'CV' or (structure[0][0:3] == "CVC" and entryStructure[0][0:4] == "CVVC"):
-                if len(structure) > 1:
-                    syllables[1] = addSyllableMarker(syllables[1])
-                else:
-                    syllables[0] += "´"
-            elif structure[0] == 'CVC' and syl1Segs[2] == "h" and len(extSyllables) == 0:
                 if len(structure) > 1:
                     syllables[1] = addSyllableMarker(syllables[1])
                 else:
@@ -191,11 +171,13 @@ entries = df['Entries']
 pronunciations = df['Pronunciations']
 generatedPronunciations = []
 generatedTones = []
-randIndex = 5595#random.randint(0,len(df['Entries']))
-
-entry = df.iloc[randIndex]['Entries']
-pronunciation, tone = createPronunciation(entry)
 """
+entry = "*bahci"
+for i in range(0, len(entries)):
+    if entries[i] == entry:
+        randIndex = i
+pronunciation, tone = createPronunciation(entry)
+
 if pronunciation != pronunciations[randIndex]:
     stressLoc = None
     if pronunciations[randIndex] != None:

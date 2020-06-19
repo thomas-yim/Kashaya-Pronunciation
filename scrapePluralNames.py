@@ -25,7 +25,6 @@ with open('textFiles/pluralComplexEntries.txt', 'r') as file:
         allComponents.append(stripFinalSpaces(line))
 print(len(allComponents))
 
-
 pluralComponents = []
 count = 0
 for i in tqdm(range(0, len(allComponents))):
@@ -40,13 +39,22 @@ for i in tqdm(range(0, len(allComponents))):
         
         # Parse HTML and save to BeautifulSoup object
         soup = BeautifulSoup(response.text, "html.parser")
+        
+        for link in soup.find_all('a'):
+            if link.text == entry:
+                url = link.get('href')
+        wordResponse = requests.get(url)
+        soup = BeautifulSoup(wordResponse.text, "html.parser")
+        
+        
         for span in soup.find_all('span', {'class':'visiblevariantentryrefs'}):
             nestedSpans = span.find_all('span', {'class':'reversename'})
             for nestedSpan in nestedSpans:
                 if nestedSpan.text[-2:] == "of":
                     links = span.find_all('a')
-                    variant = links[0].text
-                    components.append(variant)
+                    if len(links) > 0:
+                        variant = links[0].text
+                        components.append(variant)
         if len(components) == 0:
             components.append("Same")
         parts = ""
@@ -58,6 +66,3 @@ with open("textFiles/pluralOfCases.txt", 'w') as file:
     for components in allComponents:
         file.write(components)
         file.write("\n")
-
-            
-        

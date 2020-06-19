@@ -144,7 +144,7 @@ Otherwise extrametricality does not apply here.
 def extrametricalityApplies(entry):
     components = findComponents(entry)
     segments = splitIntoSegments(entry)
-    syllables = syllabify(segments) 
+    syllables = syllabify(segments)
     if components[0][-1] == "-" and ("Ø" not in components[0]):
         return True
     
@@ -172,7 +172,7 @@ def main():
     entry = df.iloc[randIndex]['Entries']
     #entry = "*pʰaʔsʼulh"
     #entry = "*bo·catad"
-    #entry = "*bahcʰabacʰatadu"
+    entry = "*cahqacʼ"
     print(entry)
 
     segments = splitIntoSegments(entry)
@@ -184,7 +184,7 @@ def main():
     structure = findStructure(syllables)
     print(structure)
                     
-    footStruct = footStructure("*bahcʰabacʰatad", syllables)
+    footStruct = footStructure("*cahqacʼ", syllables)
     print(footStruct)
     if len(structure) > 1:
         if structure[0] == "CVV" and structure[1] == "CV":
