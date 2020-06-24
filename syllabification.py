@@ -172,7 +172,7 @@ def main():
     entry = df.iloc[randIndex]['Entries']
     #entry = "*pʰaʔsʼulh"
     #entry = "*bo·catad"
-    entry = "*cahqacʼ"
+
     print(entry)
 
     segments = splitIntoSegments(entry)

@@ -29,5 +29,5 @@ with open(filename + '.txt', 'r') as file:
 print(len(dictionary))
 
 #This will add the dictionary to a json file.
-with open('textFiles/' + filename + '.json', 'w') as jsonFile:
+with open(filename + '.json', 'w') as jsonFile:
     json.dump(dictionary, jsonFile)

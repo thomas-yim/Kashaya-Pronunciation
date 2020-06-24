@@ -1,284 +1,284 @@
-Entry: *bacutam | Pronunciation: bacútamʔ | Generated Pronunciation: bacutámʔ
-Entry: *badayi·cʼet | Pronunciation: badayi·cʼéʔ | Generated Pronunciation: badayí·cʼeʔ
-Entry: *bahcʰebacʰetad | Pronunciation: bahcʰebácʰeta·du | Generated Pronunciation: báhcʰebacʰeta·du
-Entry: *batʼacʼaq | Pronunciation: bátʼacʼaʔ | Generated Pronunciation: batʼacʼáʔ
-Entry: *baʔṭʼuṭʰu | Pronunciation: baʔṭʼúṭʰuw | Generated Pronunciation: baʔṭʼuṭʰúw
-Entry: beṭi | Pronunciation: beṭi´ | Generated Pronunciation: beṭí
-Entry: *bicʼul | Pronunciation: bicʼulʔ | Generated Pronunciation: bicʼúlʔ
-Entry: *bikʼo·ṭatad | Pronunciation: bikʼoṭá·tadu | Generated Pronunciation: bikʼoṭa·tadú
-Entry: *bišohli | Pronunciation: bišohlíw | Generated Pronunciation: bišóhliw
-Entry: *biʔne·cicʼ | Pronunciation: biʔné·ciʔ | Generated Pronunciation: biʔne·cíʔ
-Entry: *biʔṭʼuṭʰu | Pronunciation: biʔṭʼúṭʰuw | Generated Pronunciation: biʔṭʼuṭʰúw
-Entry: *bo·catad | Pronunciation: bocá·tadu | Generated Pronunciation: boca·tadú
-Entry: *cadumacʼ | Pronunciation: cadumáʔ | Generated Pronunciation: cadúmaʔ
-Entry: *cahqacʼ | Pronunciation: cáhqaʔ | Generated Pronunciation: cahqáʔ
-Entry: *camhciwa·tacʼ | Pronunciation: cámhciwa·taʔ | Generated Pronunciation: camhciwá·taʔ
-Entry: *cat | Pronunciation: cáʔ | Generated Pronunciation: caʔ´
-Entry: ca·ṭalʔṭa | Pronunciation: cá·ṭalʔṭa | Generated Pronunciation: ca·ṭálʔṭa
-Entry: cibaʔna | Pronunciation: cibaʔna´ | Generated Pronunciation: cibáʔna
-Entry: *cicʰi·ṭ | Pronunciation: cicʰiʔ´ | Generated Pronunciation: cicʰíʔ
-Entry: *ciwaqac | Pronunciation: ciwaqáʔ | Generated Pronunciation: ciwáqaʔ
-Entry: *ciwa·duc | Pronunciation: ciwa·dúʔ | Generated Pronunciation: ciwá·duʔ
-Entry: *ciwoloq | Pronunciation: ciwolóʔ | Generated Pronunciation: ciwóloʔ
-Entry: *ciwolo·qocʼ | Pronunciation: ciwoló·qoʔ | Generated Pronunciation: ciwólo·qoʔ
-Entry: *ciwoqocʼ | Pronunciation: ciwoqóʔ | Generated Pronunciation: ciwóqoʔ
-Entry: *co·nʔwad | Pronunciation: conʔwadú | Generated Pronunciation: conʔwádu
-Entry: cuhma | Pronunciation: cuhmá | Generated Pronunciation: cuhma´
-Entry: *cusʼuy | Pronunciation: cusʼuyʔ | Generated Pronunciation: cusʼúyʔ
-Entry: *cʰahtimacʼ | Pronunciation: cʰáhtimaʔ | Generated Pronunciation: cʰahtimáʔ
-Entry: cʰawi·li | Pronunciation: cʰawí·li | Generated Pronunciation: cʰawi·li´
-Entry: *cʰiko·koc | Pronunciation: cʰikó·koʔ | Generated Pronunciation: cʰiko·kóʔ
-Entry: *cʰikʼot | Pronunciation: cʰokʼóʔ | Generated Pronunciation: cʰikʼóʔ
-Entry: *cʰila·qocʼ | Pronunciation: cʰila·qóʔ | Generated Pronunciation: cʰilá·qoʔ
-Entry: *cʰotʰci | Pronunciation: cʰohci | Generated Pronunciation: cʰótʰciw
-Entry: cʰo·ʔnati | Pronunciation: cʰoʔnatí | Generated Pronunciation: cʰoʔnáti
-Entry: *cʰulma | Pronunciation: cʰulmáw | Generated Pronunciation: cʰúlmaw
-Entry: *cʼolocʼolo | Pronunciation: cʼolocʼolow | Generated Pronunciation: cʼolocʼólow
-Entry: *cʼoyʔcʼed | Pronunciation: cʼóyʔcʼedu | Generated Pronunciation: cʼoyʔcʼedú
-Entry: cʼum | Pronunciation: cʼúm | Generated Pronunciation: cʼum´
-Entry: *dahpʰihpʰi | Pronunciation: dahpíhpiw | Generated Pronunciation: dahpʰíhpʰiw
-Entry: *dahqʰadahqʰa | Pronunciation: dahqʰdáhqʰaw | Generated Pronunciation: dahqʰadáhqʰaw
-Entry: dam | Pronunciation: dám | Generated Pronunciation: dam´
-Entry: *damita·duc | Pronunciation: damíta·duʔ | Generated Pronunciation: damitá·duʔ
-Entry: *daqʰa·sad | Pronunciation: daqʰasa·du´ | Generated Pronunciation: daqʰasá·du
-Entry: *dašohli | Pronunciation: dašohlíw | Generated Pronunciation: dašóhliw
-Entry: datiʔli | Pronunciation: datiʔli´ | Generated Pronunciation: datíʔli
-Entry: *daʔtʼutʰu | Pronunciation: daʔtʼútʰuw | Generated Pronunciation: daʔtʼutʰúw
-Entry: *dicʼma | Pronunciation: dicʼmáw | Generated Pronunciation: dícʼmaw
-Entry: *dicʼmucʼ | Pronunciation: dicʼmúʔ | Generated Pronunciation: dícʼmuʔ
-Entry: *dihqoṭol | Pronunciation: dihqóṭolʔ | Generated Pronunciation: dihqoṭólʔ
-Entry: *dihtad | Pronunciation: díhtadu | Generated Pronunciation: dihtadú
-Entry: *dihtimac | Pronunciation: díhtimaʔ | Generated Pronunciation: dihtimáʔ
-Entry: *diʔcʼoqʰot | Pronunciation: diʔcʼóqʰoʔ | Generated Pronunciation: diʔcʼoqʰóʔ
-Entry: *dohkodohkom | Pronunciation: dohkodóhkom | Generated Pronunciation: dohkodóhkomʔ
-Entry: *dohqo·ci | Pronunciation: dohqó·ciw | Generated Pronunciation: dohqo·cíw
-Entry: doktoro | Pronunciation: dóktoro | Generated Pronunciation: doktoró
-Entry: *dokʼo·ṭatad | Pronunciation: dokʼoṭá·tadu | Generated Pronunciation: dokʼoṭa·tadú
-Entry: *došohli | Pronunciation: došohlíw | Generated Pronunciation: došóhliw
-Entry: *duhsidusitad | Pronunciation: duhsidusitá·du | Generated Pronunciation: duhsidúsita·du
-Entry: *duhṭʰe | Pronunciation: duhṭʰe´ | Generated Pronunciation: duhṭʰéw
-Entry: dusʼa·sʼay | Pronunciation: dusʼá·sʼay | Generated Pronunciation: dusʼa·sʼáy
-Entry: *duʔne·cicʼ | Pronunciation: duʔné·ciʔ | Generated Pronunciation: duʔne·cíʔ
-Entry: *duʔṭʼuṭʰuc | Pronunciation: duʔṭʼúṭʰuʔ | Generated Pronunciation: duʔṭʼuṭʰúʔ
-Entry: *du·bayhcicʼ | Pronunciation: dú·bayhciʔ | Generated Pronunciation: du·báyhciʔ
-Entry: ha cʰo· | Pronunciation: hacʰó· | Generated Pronunciation: ha cʰo·´
-Entry: *hacʼahtim | Pronunciation: hacʼáhtim | Generated Pronunciation: hacʼáhtimʔ
-Entry: hasoyo | Pronunciation: hasóyo | Generated Pronunciation: hasoyó
-Entry: *hasʼu·l | Pronunciation: hasʼuʔ´ | Generated Pronunciation: hasʼulʔ´
-Entry: haša·yol | Pronunciation: hašá·yol | Generated Pronunciation: haša·yól
-Entry: haša·yul | Pronunciation: hašá·yul | Generated Pronunciation: haša·yúl
-Entry: *hašohli | Pronunciation: hašohlíw | Generated Pronunciation: hašóhliw
-Entry: *hat | Pronunciation: háʔ | Generated Pronunciation: haʔ´
-Entry: haʔṭʼo·lemenʔ | Pronunciation: haʔṭʼó·lemenʔ | Generated Pronunciation: haʔṭʼo·leménʔ
-Entry: *haʔṭʼuṭʰu | Pronunciation: haʔṭʼúṭʰuw | Generated Pronunciation: haʔṭʼuṭʰúw
-Entry: *hcihqa | Pronunciation: cíhqaw | Generated Pronunciation: cihqáw
-Entry: hcoma | Pronunciation: comá | Generated Pronunciation: coma´
-Entry: *hcʰahcʰac | Pronunciation: cʰáhcʰaʔ | Generated Pronunciation: cʰahcʰáʔ
-Entry: *hcʰahqa | Pronunciation: cʰáhqaw | Generated Pronunciation: cʰahqáw
-Entry: *hcʰam | Pronunciation: hcʰámʔ | Generated Pronunciation: cʰámʔ
-Entry: *hcʰohmucʼ | Pronunciation: cʰóhmuʔ | Generated Pronunciation: cʰohmúʔ
-Entry: hibu· wi | Pronunciation: hibu· wi | Generated Pronunciation: hibu· wi´
-Entry: hihlaw ʔqan | Pronunciation: hihláw ʔqan | Generated Pronunciation: híhlaw ʔqan
-Entry: *hiqʰa·sad | Pronunciation: hiqʰasa·du´ | Generated Pronunciation: hiqʰasá·du
-Entry: hisʼuhši | Pronunciation: hisʼuhši´ | Generated Pronunciation: hisʼúhši
-Entry: *hiṭo·l | Pronunciation: hiṭolʔ´ | Generated Pronunciation: hiṭólʔ
-Entry: *hiʔkʼu·ma | Pronunciation: hiʔkʼú·maw | Generated Pronunciation: hiʔkʼu·máw
-Entry: hkʰeya | Pronunciation: kʰeyá | Generated Pronunciation: kʰeya´
-Entry: *hkʰošci | Pronunciation: kʰóšciw | Generated Pronunciation: kʰošcíw
-Entry: *hom | Pronunciation: hómʔ | Generated Pronunciation: homʔ´
-Entry: *hoṭʰi·c | Pronunciation: hoṭʰiʔ´ | Generated Pronunciation: hoṭʰíʔ
-Entry: *hoyhcʰoca·tad | Pronunciation: hóyhcʰoca·tadu | Generated Pronunciation: hoyhcʰocá·tadu
-Entry: *hoyhmucʼ | Pronunciation: hóyhmuʔ | Generated Pronunciation: hoyhmúʔ
-Entry: *hqa | Pronunciation: qaw | Generated Pronunciation: qáw
-Entry: hqʰoṭ | Pronunciation: qʰóʔ | Generated Pronunciation: qʰoʔ´
-Entry: *hsahqacʼ | Pronunciation: sáhqaʔ | Generated Pronunciation: sahqáʔ
-Entry: hsibo | Pronunciation: sibó | Generated Pronunciation: sibo´
-Entry: *hšicʰmacʼ | Pronunciation: šícʰmaʔ | Generated Pronunciation: šicʰmáʔ
-Entry: *htenhcicʼ | Pronunciation: ténhcíʔ | Generated Pronunciation: ténhciʔ
-Entry: kacaya | Pronunciation: kacáya | Generated Pronunciation: kacayá
-Entry: kani· | Pronunciation: kaní· | Generated Pronunciation: kani·´
-Entry: kato·te | Pronunciation: kató·te | Generated Pronunciation: kato·te´
-Entry: ka·ka | Pronunciation: ká·ka | Generated Pronunciation: ka·ka´
-Entry: *kelcicʼ | Pronunciation: kelcíʔ | Generated Pronunciation: kélciʔ
-Entry: *kumhmac | Pronunciation: kúmhmaʔ | Generated Pronunciation: kumhmáʔ
-Entry: *kumhmacʰqa | Pronunciation: kúmhmacʰqaw | Generated Pronunciation: kumhmácʰqaw
-Entry: kʰela | Pronunciation: kʰelá | Generated Pronunciation: kʰela´
-Entry: kʰeya | Pronunciation: kʰeyá | Generated Pronunciation: kʰeya´
-Entry: kʰunhwadu | Pronunciation: kʰúnhwadu | Generated Pronunciation: kʰunhwadú
-Entry: kʼahša·ya | Pronunciation: kʼahšá·ya | Generated Pronunciation: kʼahša·ya´
-Entry: kʼaš | Pronunciation: kʼáš | Generated Pronunciation: kʼaš´
-Entry: kʼaṭʰide | Pronunciation: kʼáṭʰide | Generated Pronunciation: kʼaṭʰidé
-Entry: kʼiš | Pronunciation: kʼíš | Generated Pronunciation: kʼiš´
-Entry: *kʼoʔwikʼoʔwi | Pronunciation: kʼoʔwíkʼoʔwiw | Generated Pronunciation: kʼoʔwikʼóʔwiw
-Entry: kʼude | Pronunciation: kʼúde | Generated Pronunciation: kʼude´
-Entry: li·ma | Pronunciation: lí·ma | Generated Pronunciation: li·ma´
-Entry: maba· | Pronunciation: maba·´ | Generated Pronunciation: mabá·
-Entry: maba·sʼ | Pronunciation: mabasʼ´ | Generated Pronunciation: mabásʼ
-Entry: maci | Pronunciation: maci | Generated Pronunciation: maci´
-Entry: macu·sʼ | Pronunciation: macusʼ´ | Generated Pronunciation: macúsʼ
-Entry: macʰiṭiʔṭi | Pronunciation: macʰíṭiʔṭi | Generated Pronunciation: macʰiṭíʔṭi
-Entry: mahṭʰe | Pronunciation: mahṭʰe´ | Generated Pronunciation: mahṭʰé
-Entry: maki | Pronunciation: maki´ | Generated Pronunciation: makí
-Entry: makʰle | Pronunciation: mákʰle | Generated Pronunciation: makʰle´
-Entry: makʼadeʔkʰe | Pronunciation: makʼadéʔkʰa | Generated Pronunciation: makʼadéʔkʰe
-Entry: *mala·qac | Pronunciation: mala·qáʔ | Generated Pronunciation: malá·qaʔ
-Entry: maqa·sʼ | Pronunciation: maqasʼ´ | Generated Pronunciation: maqásʼ
-Entry: *mašohli | Pronunciation: mašohlíw | Generated Pronunciation: mašóhliw
-Entry: mašu·sʼ | Pronunciation: mašusʼ´ | Generated Pronunciation: mašúsʼ
-Entry: mata·me | Pronunciation: máta·me | Generated Pronunciation: mata·me´
-Entry: mata·menʔ | Pronunciation: matá·menʔ | Generated Pronunciation: mata·ménʔ
-Entry: mati·yu | Pronunciation: matí·yu | Generated Pronunciation: mati·yu´
-Entry: *matʰma | Pronunciation: mátʰmaw | Generated Pronunciation: matʰmáw
-Entry: *ma·d | Pronunciation: ma·du | Generated Pronunciation: ma·du´
-Entry: ma·ma | Pronunciation: má·ma | Generated Pronunciation: ma·ma´
-Entry: mica·sʼ | Pronunciation: micasʼ´ | Generated Pronunciation: micásʼ
-Entry: mice·ki | Pronunciation: mice·kí | Generated Pronunciation: mice·ki´
-Entry: *mid | Pronunciation: midu´ | Generated Pronunciation: midú
-Entry: miduwe | Pronunciation: midúwe | Generated Pronunciation: miduwé
-Entry: mihṭʰe | Pronunciation: mihṭʰe´ | Generated Pronunciation: mihṭʰé
-Entry: miki | Pronunciation: miki´ | Generated Pronunciation: mikí
-Entry: mima·sʼ | Pronunciation: mimasʼ´ | Generated Pronunciation: mimásʼ
-Entry: mimu·sʼ | Pronunciation: mimusʼ´ | Generated Pronunciation: mimúsʼ
-Entry: *misʼu·l | Pronunciation: misʼuʔ´ | Generated Pronunciation: misʼulʔ´
-Entry: miša· | Pronunciation: miša·´ | Generated Pronunciation: mišá·
-Entry: *mitaduc | Pronunciation: mitadúʔ | Generated Pronunciation: mitáduʔ
-Entry: *mitala | Pronunciation: mitaláw | Generated Pronunciation: mitálaw
-Entry: *mitaloq | Pronunciation: mitalóʔ | Generated Pronunciation: mitáloʔ
-Entry: mito | Pronunciation: mito´ | Generated Pronunciation: mitó
-Entry: miʔkʰe | Pronunciation: miʔkʰe´ | Generated Pronunciation: míʔkʰe
-Entry: *miʔne·cicʼ | Pronunciation: miʔné·ciʔ | Generated Pronunciation: miʔne·cíʔ
-Entry: *miʔṭʼuṭʰu | Pronunciation: miʔṭʼúṭʰuw | Generated Pronunciation: miʔṭʼuṭʰúw
-Entry: *mokʼo·ṭatad | Pronunciation: mokʼoṭá·tadu | Generated Pronunciation: mokʼoṭa·tadú
-Entry: *mošohli | Pronunciation: mošohlíw | Generated Pronunciation: mošóhliw
-Entry: *muhṭʰe | Pronunciation: muhṭʰe´ | Generated Pronunciation: muhṭʰéw
-Entry: *mupʰu· | Pronunciation: mupʰuw | Generated Pronunciation: mupʰuw´
-Entry: mutʰu·nu | Pronunciation: mutʰu·nú | Generated Pronunciation: mutʰu·nu´
-Entry: *muʔcʼaʔcʼa | Pronunciation: muʔcʼáʔcʼaʔ | Generated Pronunciation: muʔcʼáʔcʼaw
-Entry: na·mi | Pronunciation: ná·mi | Generated Pronunciation: na·mi´
-Entry: na·waš | Pronunciation: ná·waš | Generated Pronunciation: na·wáš
-Entry: *nemqa | Pronunciation: nemqáw | Generated Pronunciation: némqaw
-Entry: ni· | Pronunciation: ní· | Generated Pronunciation: ni·´
-Entry: pa·ha | Pronunciation: pá·ha | Generated Pronunciation: pa·ha´
-Entry: penya | Pronunciation: pénya | Generated Pronunciation: penya´
-Entry: pe·pe | Pronunciation: pé·pe | Generated Pronunciation: pe·pe´
-Entry: *pocʰolma | Pronunciation: pocʰolmáw | Generated Pronunciation: pocʰólmaw
-Entry: *pošma | Pronunciation: póšmaw | Generated Pronunciation: pošmáw
-Entry: potri·yu | Pronunciation: potrí·yu | Generated Pronunciation: potri·yu´
-Entry: *puhṭʰe | Pronunciation: puhṭʰe´ | Generated Pronunciation: puhṭʰéw
-Entry: *pukʰilqa | Pronunciation: pukʰilqáw | Generated Pronunciation: pukʰílqaw
-Entry: *puṭa·npuṭa·n | Pronunciation: puṭánpuṭanʔ | Generated Pronunciation: puṭanpúṭanʔ
-Entry: *pʰacʼa·ṭ | Pronunciation: pʰacʼaʔ´ | Generated Pronunciation: pʰacʼáʔ
-Entry: *pʰacʼepʰacʼe | Pronunciation: pʰacʼépʰacʼew | Generated Pronunciation: pʰacʼepʰácʼew
-Entry: *pʰakʼu·m | Pronunciation: pʰakʼumʔ | Generated Pronunciation: pʰakʼumʔ´
-Entry: pʰaliʔli | Pronunciation: pʰaliʔli´ | Generated Pronunciation: pʰalíʔli
-Entry: pʰašutʼuyʔtʼu | Pronunciation: pʰašútʼuyʔtʼu | Generated Pronunciation: pʰašutʼúyʔtʼu
-Entry: *pʰaʔqʼalpʰaʔqʼalh | Pronunciation: pʰaʔqʼálpʰaʔqalʔ | Generated Pronunciation: pʰaʔqʼálpʰaʔqʼalʔ
-Entry: *pʰaʔṭʼepʰaṭʼehti | Pronunciation: pʰaʔṭʼepʰáṭʼehtiw | Generated Pronunciation: pʰáʔṭʼepʰaṭʼehtiw
-Entry: *pʰaʔwiʔwi | Pronunciation: pʰaʔwíwiw | Generated Pronunciation: pʰaʔwíʔwiw
-Entry: pʰa·ke | Pronunciation: pʰá·ke | Generated Pronunciation: pʰa·ke´
-Entry: pʰa·kide | Pronunciation: pʰá·kide | Generated Pronunciation: pʰa·kidé
-Entry: *pʰeʔsʼe | Pronunciation: pʰeʔsʼéw | Generated Pronunciation: pʰéʔsʼew
-Entry: pʰeʔṭʼe | Pronunciation: pʰeʔṭʼe´ | Generated Pronunciation: pʰéʔṭʼe
-Entry: *pʰicʼahtim | Pronunciation: pʰicʼáhtim | Generated Pronunciation: pʰicʼáhtimʔ
-Entry: *pʰihtaqac | Pronunciation: pʰihtaqáʔ | Generated Pronunciation: pʰíhtaqaʔ
-Entry: *pʰihti | Pronunciation: pʰíhtiw | Generated Pronunciation: pʰihtíw
-Entry: *pʰihtibic | Pronunciation: pʰihtibíʔ | Generated Pronunciation: pʰíhtibiʔ
-Entry: pʰikʼaṭi | Pronunciation: pʰikʼáṭi | Generated Pronunciation: pʰikʼaṭí
-Entry: *pʰikʼu·ma | Pronunciation: pʰikʼú·maw | Generated Pronunciation: pʰikʼu·máw
-Entry: *pʰiloloq | Pronunciation: pʰilolóʔ | Generated Pronunciation: pʰilóloʔ
-Entry: *pʰilulu | Pronunciation: pʰilupʰíluw | Generated Pronunciation: pʰilulúw
-Entry: *pʰimaqocʼ | Pronunciation: pʰimaqóʔ | Generated Pronunciation: pʰimáqoʔ
-Entry: *pʰiʔcʼepʰicʼetad | Pronunciation: pʰiʔcʼépʰicʼeta·du | Generated Pronunciation: pʰiʔcʼepʰícʼeta·du
-Entry: *pʰut | Pronunciation: pʰúʔ | Generated Pronunciation: pʰuʔ´
-Entry: *pʰu· | Pronunciation: pʰúw | Generated Pronunciation: pʰuw´
-Entry: *qahlaqac | Pronunciation: qahlaqáʔ | Generated Pronunciation: qáhlaqaʔ
-Entry: *qahnataʔ | Pronunciation: qahnatáʔ | Generated Pronunciation: qáhnataʔ
-Entry: *qahqoṭol | Pronunciation: qahqóṭolʔ | Generated Pronunciation: qahqoṭólʔ
-Entry: *qahqʰaqahqʰa | Pronunciation: qahqʰaqahqʰaw | Generated Pronunciation: qahqʰaqáhqʰaw
-Entry: qasʼi·c | Pronunciation: qasʼiʔ' | Generated Pronunciation: qasʼiʔ´
-Entry: qaʔdi | Pronunciation: qáʔdi | Generated Pronunciation: qaʔdi´
-Entry: *qaʔne·cicʼ | Pronunciation: qaʔné·ciʔ | Generated Pronunciation: qaʔne·cíʔ
-Entry: qa·sʼe | Pronunciation: qá·sʼe | Generated Pronunciation: qa·sʼe´
-Entry: qa·sʼede | Pronunciation: qá·sʼede | Generated Pronunciation: qa·sʼedé
-Entry: qa·šenʔ | Pronunciation: qá·šenʔ | Generated Pronunciation: qa·šénʔ
-Entry: qola·mʔhay | Pronunciation: qolamʔ háy | Generated Pronunciation: qolamʔháy
-Entry: qʰade | Pronunciation: qʰáde | Generated Pronunciation: qʰade´
-Entry: qʰahmo | Pronunciation: qʰáhmo | Generated Pronunciation: qʰahmo´
-Entry: qʰalle | Pronunciation: qʰálle | Generated Pronunciation: qʰalle´
-Entry: qʰasʼaqʰa· | Pronunciation: qʰasʼáqʰa· | Generated Pronunciation: qʰasʼaqʰá·
-Entry: qʰayhcʰi | Pronunciation: qʰáyhcʰi | Generated Pronunciation: qʰayhcʰi´
-Entry: qʰa·mosʼ | Pronunciation: qʰá·mosʼ | Generated Pronunciation: qʰa·mósʼ
-Entry: *qʼacʰmul | Pronunciation: qʼacʰmúlʔ | Generated Pronunciation: qʼácʰmulʔ
-Entry: *qʼahci | Pronunciation: qʼáhciw | Generated Pronunciation: qʼahcíw
-Entry: *qʼahcici | Pronunciation: qʼahcicíw | Generated Pronunciation: qʼáhciciw
-Entry: *qʼa·wacʼic | Pronunciation: qʼawá·cʼiʔ | Generated Pronunciation: qʼawa·cʼíʔ
-Entry: *qʼa·waloqocʼ | Pronunciation: qʼawá·loqoʔ | Generated Pronunciation: qʼawa·loqóʔ
-Entry: *sahqacʼ | Pronunciation: sáhqaʔ | Generated Pronunciation: sahqáʔ
-Entry: sa·wana | Pronunciation: sá·wana | Generated Pronunciation: sa·waná
-Entry: *sikʰehtad | Pronunciation: sikʰétadu | Generated Pronunciation: sikʰéhtadu
-Entry: sipaṭ | Pronunciation: sípaʔ | Generated Pronunciation: sipáʔ
-Entry: *siqʰa· | Pronunciation: siqʰaw´ | Generated Pronunciation: siqʰáw
-Entry: so·ta | Pronunciation: só·ta | Generated Pronunciation: so·ta´
-Entry: sʼawa·t | Pronunciation: sʼawáʔ | Generated Pronunciation: sʼawaʔ´
-Entry: sʼimunʔla·tol | Pronunciation: sʼimunʔlá·tol | Generated Pronunciation: sʼimúnʔla·tol
-Entry: *sʼuhlaq | Pronunciation: sʼúhlaʔ | Generated Pronunciation: sʼuhláʔ
-Entry: *šacʼahtim | Pronunciation: šacʼáhtim | Generated Pronunciation: šacʼáhtimʔ
-Entry: *šahma | Pronunciation: šáhmaw | Generated Pronunciation: šahmáw
-Entry: *šahtala | Pronunciation: šahtaláw | Generated Pronunciation: šáhtalaw
-Entry: *šatušatu | Pronunciation: šatúšatuw | Generated Pronunciation: šatušátuw
-Entry: *šehtala | Pronunciation: šehtaláw | Generated Pronunciation: šéhtalaw
-Entry: šekʰlayʔ | Pronunciation: šékʰlayʔ | Generated Pronunciation: šekʰláyʔ
-Entry: *še·ṭʰey | Pronunciation: šé·ṭʰeyʔ | Generated Pronunciation: še·ṭʰéyʔ
-Entry: še·ṭʰeyʔya | Pronunciation: šé·ṭʰeyʔya | Generated Pronunciation: še·ṭʰéyʔya
-Entry: šiwʔši | Pronunciation: šíwʔši | Generated Pronunciation: šiwʔši´
-Entry: ši·batʰyaw | Pronunciation: ší·batʰyaw | Generated Pronunciation: ši·bátʰyaw
-Entry: *ši·batʰya· cahno | Pronunciation: ší·batʰya· cahnow | Generated Pronunciation: ši·bátʰya· cahnow
-Entry: *šoca·tacʼ | Pronunciation: šoca·táʔ | Generated Pronunciation: šocá·taʔ
-Entry: *šoca·tad | Pronunciation: šoca·tádu | Generated Pronunciation: šocá·tadu
-Entry: šohqʰa | Pronunciation: šóhqʰa | Generated Pronunciation: šohqʰa´
-Entry: šoko·lʔli | Pronunciation: šokolʔli´ | Generated Pronunciation: šokolʔlí
-Entry: *šoʔcʼotʰci | Pronunciation: šoʔcʼotʰciw | Generated Pronunciation: šoʔcʼótʰciw
-Entry: *šoʔpʼošopʼotad | Pronunciation: šoʔpʼošópʼota·du | Generated Pronunciation: šóʔpʼošopʼota·du
-Entry: šo·me | Pronunciation: šó·me | Generated Pronunciation: šo·me´
-Entry: *šuhlu·c | Pronunciation: šuhluʔ | Generated Pronunciation: šuhluʔ´
-Entry: šukʰenʔli | Pronunciation: šúkʰenʔli | Generated Pronunciation: šukʰénʔli
-Entry: *šuqʰaqʰaṭ | Pronunciation: šuqʰáqʰaʔ | Generated Pronunciation: šuqʰaqʰáʔ
-Entry: *šuʔu·m | Pronunciation: šuʔumʔ | Generated Pronunciation: šuʔumʔ´
-Entry: *tahtaq | Pronunciation: táhtaʔ | Generated Pronunciation: tahtáʔ
-Entry: tale·ka | Pronunciation: talé·ka | Generated Pronunciation: tale·ka´
-Entry: ta·li | Pronunciation: tá·li | Generated Pronunciation: ta·li´
-Entry: ta·palo | Pronunciation: tá·palo | Generated Pronunciation: ta·paló
-Entry: ta·ta | Pronunciation: tá·ta | Generated Pronunciation: ta·ta´
-Entry: tente·ru | Pronunciation: tenté·ru | Generated Pronunciation: tente·ru´
-Entry: *tihtim | Pronunciation: tíhtimʔ | Generated Pronunciation: tihtímʔ
-Entry: tiri·pa | Pronunciation: tirí·pa | Generated Pronunciation: tiri·pa´
-Entry: tito | Pronunciation: tito´ | Generated Pronunciation: titó
-Entry: tuka·yu | Pronunciation: tuká·yu | Generated Pronunciation: tuka·yu´
-Entry: tu·tu | Pronunciation: tú·tu | Generated Pronunciation: tu·tu´
-Entry: tʰunkuhtu | Pronunciation: tʰúnkuhtu | Generated Pronunciation: tʰunkúhtu
-Entry: *tʼa·la | Pronunciation: tʼa·law | Generated Pronunciation: tʼa·láw
-Entry: tʼileke | Pronunciation: tʼíleke | Generated Pronunciation: tʼileké
-Entry: *tʼunuc | Pronunciation: No extrameticality | Generated Pronunciation: tʼunúʔ
-Entry: ṭam | Pronunciation: ṭám | Generated Pronunciation: ṭam´
-Entry: ṭʰaco·ya | Pronunciation: ṭʰacó·ya | Generated Pronunciation: ṭʰaco·ya´
-Entry: ṭʰaʔke | Pronunciation: ṭʰáʔke | Generated Pronunciation: ṭʰaʔke´
-Entry: ṭʰaʔkide | Pronunciation: ṭʰáʔkide | Generated Pronunciation: ṭʰaʔkidé
-Entry: ṭʰaʔkinʔ | Pronunciation: ṭʰaʔkínʔ | Generated Pronunciation: ṭʰáʔkinʔ
-Entry: ṭʰi· | Pronunciation: ṭʰí· | Generated Pronunciation: ṭʰi·´
-Entry: ṭʰoʔo·koyʔ | Pronunciation: ṭʰoʔó·koyʔ | Generated Pronunciation: ṭʰoʔo·kóyʔ
-Entry: *ṭʼahṭʰaṭ | Pronunciation: ṭʼáhṭʰaʔ | Generated Pronunciation: ṭʼahṭʰáʔ
-Entry: wante·ha | Pronunciation: wanté·ha | Generated Pronunciation: wante·ha´
-Entry: wu·ru | Pronunciation: wú·ru | Generated Pronunciation: wu·ru´
-Entry: yaʔkʰe | Pronunciation: yaʔkʰe´ | Generated Pronunciation: yáʔkʰe
-Entry: yu·kaš | Pronunciation: yú·kaš | Generated Pronunciation: yu·káš
-Entry: ʔa·pe | Pronunciation: ʔá·pe | Generated Pronunciation: ʔa·pe´
-Entry: ʔa·pede | Pronunciation: ʔá·pede | Generated Pronunciation: ʔa·pedé
-Entry: *ʔdu·cicʼ | Pronunciation: dú·ciʔ | Generated Pronunciation: du·cíʔ
-Entry: *ʔelši | Pronunciation: ʔélšiw | Generated Pronunciation: ʔelšíw
-Entry: ʔisko·wa | Pronunciation: ʔiskó·wa | Generated Pronunciation: ʔisko·wa´
-Entry: *ʔkʰošcicʼ | Pronunciation: kʰóšciʔ | Generated Pronunciation: kʰošcíʔ
-Entry: ʔorki·ya | Pronunciation: ʔorkí·ya | Generated Pronunciation: ʔorki·ya´
-Entry: *ʔqʼo | Pronunciation: qʼów | Generated Pronunciation: qʼow´
-Entry: *ʔqʼohqa | Pronunciation: qʼóhqaw | Generated Pronunciation: qʼohqáw
-Entry: *ʔsʼaʔsʼa | Pronunciation: sʼáʔsʼaw | Generated Pronunciation: sʼaʔsʼáw
-Entry: ʔu·was | Pronunciation: ʔú·was | Generated Pronunciation: ʔu·wás
+Index: 5Entry: *bacutam | Pronunciation: bacútamʔ | Generated Pronunciation: bacutámʔ
+Index: 32Entry: *badayi·cʼet | Pronunciation: badayi·cʼéʔ | Generated Pronunciation: badayí·cʼeʔ
+Index: 53Entry: *bahcʰebacʰetad | Pronunciation: bahcʰebácʰeta·du | Generated Pronunciation: báhcʰebacʰeta·du
+Index: 210Entry: *batʼacʼaq | Pronunciation: bátʼacʼaʔ | Generated Pronunciation: batʼacʼáʔ
+Index: 287Entry: *baʔṭʼuṭʰu | Pronunciation: baʔṭʼúṭʰuw | Generated Pronunciation: baʔṭʼuṭʰúw
+Index: 296Entry: beṭi | Pronunciation: beṭi´ | Generated Pronunciation: beṭí
+Index: 316Entry: *bicʼul | Pronunciation: bicʼulʔ | Generated Pronunciation: bicʼúlʔ
+Index: 392Entry: *bikʼo·ṭatad | Pronunciation: bikʼoṭá·tadu | Generated Pronunciation: bikʼoṭa·tadú
+Index: 411Entry: *bišohli | Pronunciation: bišohlíw | Generated Pronunciation: bišóhliw
+Index: 443Entry: *biʔne·cicʼ | Pronunciation: biʔné·ciʔ | Generated Pronunciation: biʔne·cíʔ
+Index: 459Entry: *biʔṭʼuṭʰu | Pronunciation: biʔṭʼúṭʰuw | Generated Pronunciation: biʔṭʼuṭʰúw
+Index: 479Entry: *bo·catad | Pronunciation: bocá·tadu | Generated Pronunciation: boca·tadú
+Index: 519Entry: *cadumacʼ | Pronunciation: cadumáʔ | Generated Pronunciation: cadúmaʔ
+Index: 568Entry: *cahqacʼ | Pronunciation: cáhqaʔ | Generated Pronunciation: cahqáʔ
+Index: 631Entry: *camhciwa·tacʼ | Pronunciation: cámhciwa·taʔ | Generated Pronunciation: camhciwá·taʔ
+Index: 661Entry: *cat | Pronunciation: cáʔ | Generated Pronunciation: caʔ´
+Index: 726Entry: ca·ṭalʔṭa | Pronunciation: cá·ṭalʔṭa | Generated Pronunciation: ca·ṭálʔṭa
+Index: 731Entry: cibaʔna | Pronunciation: cibaʔna´ | Generated Pronunciation: cibáʔna
+Index: 733Entry: *cicʰi·ṭ | Pronunciation: cicʰiʔ´ | Generated Pronunciation: cicʰíʔ
+Index: 816Entry: *ciwaqac | Pronunciation: ciwaqáʔ | Generated Pronunciation: ciwáqaʔ
+Index: 817Entry: *ciwa·duc | Pronunciation: ciwa·dúʔ | Generated Pronunciation: ciwá·duʔ
+Index: 818Entry: *ciwoloq | Pronunciation: ciwolóʔ | Generated Pronunciation: ciwóloʔ
+Index: 819Entry: *ciwolo·qocʼ | Pronunciation: ciwoló·qoʔ | Generated Pronunciation: ciwólo·qoʔ
+Index: 821Entry: *ciwoqocʼ | Pronunciation: ciwoqóʔ | Generated Pronunciation: ciwóqoʔ
+Index: 912Entry: *co·nʔwad | Pronunciation: conʔwadú | Generated Pronunciation: conʔwádu
+Index: 958Entry: cuhma | Pronunciation: cuhmá | Generated Pronunciation: cuhma´
+Index: 1042Entry: *cusʼuy | Pronunciation: cusʼuyʔ | Generated Pronunciation: cusʼúyʔ
+Index: 1096Entry: *cʰahtimacʼ | Pronunciation: cʰáhtimaʔ | Generated Pronunciation: cʰahtimáʔ
+Index: 1103Entry: cʰawi·li | Pronunciation: cʰawí·li | Generated Pronunciation: cʰawi·li´
+Index: 1121Entry: *cʰiko·koc | Pronunciation: cʰikó·koʔ | Generated Pronunciation: cʰiko·kóʔ
+Index: 1131Entry: *cʰikʼot | Pronunciation: cʰokʼóʔ | Generated Pronunciation: cʰikʼóʔ
+Index: 1139Entry: *cʰila·qocʼ | Pronunciation: cʰila·qóʔ | Generated Pronunciation: cʰilá·qoʔ
+Index: 1207Entry: *cʰotʰci | Pronunciation: cʰohci | Generated Pronunciation: cʰótʰciw
+Index: 1208Entry: cʰo·ʔnati | Pronunciation: cʰoʔnatí | Generated Pronunciation: cʰoʔnáti
+Index: 1216Entry: *cʰulma | Pronunciation: cʰulmáw | Generated Pronunciation: cʰúlmaw
+Index: 1236Entry: *cʼolocʼolo | Pronunciation: cʼolocʼolow | Generated Pronunciation: cʼolocʼólow
+Index: 1238Entry: *cʼoyʔcʼed | Pronunciation: cʼóyʔcʼedu | Generated Pronunciation: cʼoyʔcʼedú
+Index: 1239Entry: cʼum | Pronunciation: cʼúm | Generated Pronunciation: cʼum´
+Index: 1355Entry: *dahpʰihpʰi | Pronunciation: dahpíhpiw | Generated Pronunciation: dahpʰíhpʰiw
+Index: 1368Entry: *dahqʰadahqʰa | Pronunciation: dahqʰdáhqʰaw | Generated Pronunciation: dahqʰadáhqʰaw
+Index: 1455Entry: dam | Pronunciation: dám | Generated Pronunciation: dam´
+Index: 1460Entry: *damita·duc | Pronunciation: damíta·duʔ | Generated Pronunciation: damitá·duʔ
+Index: 1477Entry: *daqʰa·sad | Pronunciation: daqʰasa·du´ | Generated Pronunciation: daqʰasá·du
+Index: 1494Entry: *dašohli | Pronunciation: dašohlíw | Generated Pronunciation: dašóhliw
+Index: 1501Entry: datiʔli | Pronunciation: datiʔli´ | Generated Pronunciation: datíʔli
+Index: 1571Entry: *daʔtʼutʰu | Pronunciation: daʔtʼútʰuw | Generated Pronunciation: daʔtʼutʰúw
+Index: 1641Entry: *dicʼma | Pronunciation: dicʼmáw | Generated Pronunciation: dícʼmaw
+Index: 1642Entry: *dicʼmucʼ | Pronunciation: dicʼmúʔ | Generated Pronunciation: dícʼmuʔ
+Index: 1690Entry: *dihqoṭol | Pronunciation: dihqóṭolʔ | Generated Pronunciation: dihqoṭólʔ
+Index: 1707Entry: *dihtad | Pronunciation: díhtadu | Generated Pronunciation: dihtadú
+Index: 1712Entry: *dihtimac | Pronunciation: díhtimaʔ | Generated Pronunciation: dihtimáʔ
+Index: 1778Entry: *diʔcʼoqʰot | Pronunciation: diʔcʼóqʰoʔ | Generated Pronunciation: diʔcʼoqʰóʔ
+Index: 1830Entry: *dohkodohkom | Pronunciation: dohkodóhkom | Generated Pronunciation: dohkodóhkomʔ
+Index: 1849Entry: *dohqo·ci | Pronunciation: dohqó·ciw | Generated Pronunciation: dohqo·cíw
+Index: 1863Entry: doktoro | Pronunciation: dóktoro | Generated Pronunciation: doktoró
+Index: 1871Entry: *dokʼo·ṭatad | Pronunciation: dokʼoṭá·tadu | Generated Pronunciation: dokʼoṭa·tadú
+Index: 1881Entry: *došohli | Pronunciation: došohlíw | Generated Pronunciation: došóhliw
+Index: 2007Entry: *duhsidusitad | Pronunciation: duhsidusitá·du | Generated Pronunciation: duhsidúsita·du
+Index: 2032Entry: *duhṭʰe | Pronunciation: duhṭʰe´ | Generated Pronunciation: duhṭʰéw
+Index: 2092Entry: dusʼa·sʼay | Pronunciation: dusʼá·sʼay | Generated Pronunciation: dusʼa·sʼáy
+Index: 2155Entry: *duʔne·cicʼ | Pronunciation: duʔné·ciʔ | Generated Pronunciation: duʔne·cíʔ
+Index: 2178Entry: *duʔṭʼuṭʰuc | Pronunciation: duʔṭʼúṭʰuʔ | Generated Pronunciation: duʔṭʼuṭʰúʔ
+Index: 2186Entry: *du·bayhcicʼ | Pronunciation: dú·bayhciʔ | Generated Pronunciation: du·báyhciʔ
+Index: 2187Entry: ha cʰo· | Pronunciation: hacʰó· | Generated Pronunciation: ha cʰo·´
+Index: 2201Entry: *hacʼahtim | Pronunciation: hacʼáhtim | Generated Pronunciation: hacʼáhtimʔ
+Index: 2292Entry: hasoyo | Pronunciation: hasóyo | Generated Pronunciation: hasoyó
+Index: 2296Entry: *hasʼu·l | Pronunciation: hasʼuʔ´ | Generated Pronunciation: hasʼulʔ´
+Index: 2298Entry: haša·yol | Pronunciation: hašá·yol | Generated Pronunciation: haša·yól
+Index: 2299Entry: haša·yul | Pronunciation: hašá·yul | Generated Pronunciation: haša·yúl
+Index: 2300Entry: *hašohli | Pronunciation: hašohlíw | Generated Pronunciation: hašóhliw
+Index: 2304Entry: *hat | Pronunciation: háʔ | Generated Pronunciation: haʔ´
+Index: 2378Entry: haʔṭʼo·lemenʔ | Pronunciation: haʔṭʼó·lemenʔ | Generated Pronunciation: haʔṭʼo·leménʔ
+Index: 2380Entry: *haʔṭʼuṭʰu | Pronunciation: haʔṭʼúṭʰuw | Generated Pronunciation: haʔṭʼuṭʰúw
+Index: 2392Entry: *hcihqa | Pronunciation: cíhqaw | Generated Pronunciation: cihqáw
+Index: 2396Entry: hcoma | Pronunciation: comá | Generated Pronunciation: coma´
+Index: 2402Entry: *hcʰahcʰac | Pronunciation: cʰáhcʰaʔ | Generated Pronunciation: cʰahcʰáʔ
+Index: 2404Entry: *hcʰahqa | Pronunciation: cʰáhqaw | Generated Pronunciation: cʰahqáw
+Index: 2405Entry: *hcʰam | Pronunciation: hcʰámʔ | Generated Pronunciation: cʰámʔ
+Index: 2411Entry: *hcʰohmucʼ | Pronunciation: cʰóhmuʔ | Generated Pronunciation: cʰohmúʔ
+Index: 2420Entry: hibu· wi | Pronunciation: hibu· wi | Generated Pronunciation: hibu· wi´
+Index: 2466Entry: hihlaw ʔqan | Pronunciation: hihláw ʔqan | Generated Pronunciation: híhlaw ʔqan
+Index: 2552Entry: *hiqʰa·sad | Pronunciation: hiqʰasa·du´ | Generated Pronunciation: hiqʰasá·du
+Index: 2566Entry: hisʼuhši | Pronunciation: hisʼuhši´ | Generated Pronunciation: hisʼúhši
+Index: 2583Entry: *hiṭo·l | Pronunciation: hiṭolʔ´ | Generated Pronunciation: hiṭólʔ
+Index: 2609Entry: *hiʔkʼu·ma | Pronunciation: hiʔkʼú·maw | Generated Pronunciation: hiʔkʼu·máw
+Index: 2646Entry: hkʰeya | Pronunciation: kʰeyá | Generated Pronunciation: kʰeya´
+Index: 2648Entry: *hkʰošci | Pronunciation: kʰóšciw | Generated Pronunciation: kʰošcíw
+Index: 2661Entry: *hom | Pronunciation: hómʔ | Generated Pronunciation: homʔ´
+Index: 2666Entry: *hoṭʰi·c | Pronunciation: hoṭʰiʔ´ | Generated Pronunciation: hoṭʰíʔ
+Index: 2668Entry: *hoyhcʰoca·tad | Pronunciation: hóyhcʰoca·tadu | Generated Pronunciation: hoyhcʰocá·tadu
+Index: 2669Entry: *hoyhmucʼ | Pronunciation: hóyhmuʔ | Generated Pronunciation: hoyhmúʔ
+Index: 2680Entry: *hqa | Pronunciation: qaw | Generated Pronunciation: qáw
+Index: 2706Entry: hqʰoṭ | Pronunciation: qʰóʔ | Generated Pronunciation: qʰoʔ´
+Index: 2708Entry: *hsahqacʼ | Pronunciation: sáhqaʔ | Generated Pronunciation: sahqáʔ
+Index: 2711Entry: hsibo | Pronunciation: sibó | Generated Pronunciation: sibo´
+Index: 2715Entry: *hšicʰmacʼ | Pronunciation: šícʰmaʔ | Generated Pronunciation: šicʰmáʔ
+Index: 2728Entry: *htenhcicʼ | Pronunciation: ténhcíʔ | Generated Pronunciation: ténhciʔ
+Index: 2756Entry: kacaya | Pronunciation: kacáya | Generated Pronunciation: kacayá
+Index: 2760Entry: kani· | Pronunciation: kaní· | Generated Pronunciation: kani·´
+Index: 2765Entry: kato·te | Pronunciation: kató·te | Generated Pronunciation: kato·te´
+Index: 2777Entry: ka·ka | Pronunciation: ká·ka | Generated Pronunciation: ka·ka´
+Index: 2781Entry: *kelcicʼ | Pronunciation: kelcíʔ | Generated Pronunciation: kélciʔ
+Index: 2796Entry: *kumhmac | Pronunciation: kúmhmaʔ | Generated Pronunciation: kumhmáʔ
+Index: 2797Entry: *kumhmacʰqa | Pronunciation: kúmhmacʰqaw | Generated Pronunciation: kumhmácʰqaw
+Index: 2802Entry: kʰela | Pronunciation: kʰelá | Generated Pronunciation: kʰela´
+Index: 2805Entry: kʰeya | Pronunciation: kʰeyá | Generated Pronunciation: kʰeya´
+Index: 2812Entry: kʰunhwadu | Pronunciation: kʰúnhwadu | Generated Pronunciation: kʰunhwadú
+Index: 2815Entry: kʼahša·ya | Pronunciation: kʼahšá·ya | Generated Pronunciation: kʼahša·ya´
+Index: 2823Entry: kʼaš | Pronunciation: kʼáš | Generated Pronunciation: kʼaš´
+Index: 2825Entry: kʼaṭʰide | Pronunciation: kʼáṭʰide | Generated Pronunciation: kʼaṭʰidé
+Index: 2834Entry: kʼiš | Pronunciation: kʼíš | Generated Pronunciation: kʼiš´
+Index: 2846Entry: *kʼoʔwikʼoʔwi | Pronunciation: kʼoʔwíkʼoʔwiw | Generated Pronunciation: kʼoʔwikʼóʔwiw
+Index: 2847Entry: kʼude | Pronunciation: kʼúde | Generated Pronunciation: kʼude´
+Index: 2861Entry: li·ma | Pronunciation: lí·ma | Generated Pronunciation: li·ma´
+Index: 2868Entry: maba· | Pronunciation: maba·´ | Generated Pronunciation: mabá·
+Index: 2871Entry: maba·sʼ | Pronunciation: mabasʼ´ | Generated Pronunciation: mabásʼ
+Index: 2898Entry: maci | Pronunciation: maci | Generated Pronunciation: maci´
+Index: 2904Entry: macu·sʼ | Pronunciation: macusʼ´ | Generated Pronunciation: macúsʼ
+Index: 2906Entry: macʰiṭiʔṭi | Pronunciation: macʰíṭiʔṭi | Generated Pronunciation: macʰiṭíʔṭi
+Index: 2997Entry: mahṭʰe | Pronunciation: mahṭʰe´ | Generated Pronunciation: mahṭʰé
+Index: 3004Entry: maki | Pronunciation: maki´ | Generated Pronunciation: makí
+Index: 3005Entry: makʰle | Pronunciation: mákʰle | Generated Pronunciation: makʰle´
+Index: 3007Entry: makʼadeʔkʰe | Pronunciation: makʼadéʔkʰa | Generated Pronunciation: makʼadéʔkʰe
+Index: 3022Entry: *mala·qac | Pronunciation: mala·qáʔ | Generated Pronunciation: malá·qaʔ
+Index: 3034Entry: maqa·sʼ | Pronunciation: maqasʼ´ | Generated Pronunciation: maqásʼ
+Index: 3042Entry: *mašohli | Pronunciation: mašohlíw | Generated Pronunciation: mašóhliw
+Index: 3047Entry: mašu·sʼ | Pronunciation: mašusʼ´ | Generated Pronunciation: mašúsʼ
+Index: 3049Entry: mata·me | Pronunciation: máta·me | Generated Pronunciation: mata·me´
+Index: 3050Entry: mata·menʔ | Pronunciation: matá·menʔ | Generated Pronunciation: mata·ménʔ
+Index: 3052Entry: mati·yu | Pronunciation: matí·yu | Generated Pronunciation: mati·yu´
+Index: 3058Entry: *matʰma | Pronunciation: mátʰmaw | Generated Pronunciation: matʰmáw
+Index: 3131Entry: *ma·d | Pronunciation: ma·du | Generated Pronunciation: ma·du´
+Index: 3132Entry: ma·ma | Pronunciation: má·ma | Generated Pronunciation: ma·ma´
+Index: 3150Entry: mica·sʼ | Pronunciation: micasʼ´ | Generated Pronunciation: micásʼ
+Index: 3155Entry: mice·ki | Pronunciation: mice·kí | Generated Pronunciation: mice·ki´
+Index: 3166Entry: *mid | Pronunciation: midu´ | Generated Pronunciation: midú
+Index: 3170Entry: miduwe | Pronunciation: midúwe | Generated Pronunciation: miduwé
+Index: 3232Entry: mihṭʰe | Pronunciation: mihṭʰe´ | Generated Pronunciation: mihṭʰé
+Index: 3243Entry: miki | Pronunciation: miki´ | Generated Pronunciation: mikí
+Index: 3271Entry: mima·sʼ | Pronunciation: mimasʼ´ | Generated Pronunciation: mimásʼ
+Index: 3275Entry: mimu·sʼ | Pronunciation: mimusʼ´ | Generated Pronunciation: mimúsʼ
+Index: 3283Entry: *misʼu·l | Pronunciation: misʼuʔ´ | Generated Pronunciation: misʼulʔ´
+Index: 3284Entry: miša· | Pronunciation: miša·´ | Generated Pronunciation: mišá·
+Index: 3288Entry: *mitaduc | Pronunciation: mitadúʔ | Generated Pronunciation: mitáduʔ
+Index: 3289Entry: *mitala | Pronunciation: mitaláw | Generated Pronunciation: mitálaw
+Index: 3290Entry: *mitaloq | Pronunciation: mitalóʔ | Generated Pronunciation: mitáloʔ
+Index: 3291Entry: mito | Pronunciation: mito´ | Generated Pronunciation: mitó
+Index: 3304Entry: miʔkʰe | Pronunciation: miʔkʰe´ | Generated Pronunciation: míʔkʰe
+Index: 3315Entry: *miʔne·cicʼ | Pronunciation: miʔné·ciʔ | Generated Pronunciation: miʔne·cíʔ
+Index: 3335Entry: *miʔṭʼuṭʰu | Pronunciation: miʔṭʼúṭʰuw | Generated Pronunciation: miʔṭʼuṭʰúw
+Index: 3388Entry: *mokʼo·ṭatad | Pronunciation: mokʼoṭá·tadu | Generated Pronunciation: mokʼoṭa·tadú
+Index: 3396Entry: *mošohli | Pronunciation: mošohlíw | Generated Pronunciation: mošóhliw
+Index: 3518Entry: *muhṭʰe | Pronunciation: muhṭʰe´ | Generated Pronunciation: muhṭʰéw
+Index: 3563Entry: *mupʰu· | Pronunciation: mupʰuw | Generated Pronunciation: mupʰuw´
+Index: 3604Entry: mutʰu·nu | Pronunciation: mutʰu·nú | Generated Pronunciation: mutʰu·nu´
+Index: 3627Entry: *muʔcʼaʔcʼa | Pronunciation: muʔcʼáʔcʼaʔ | Generated Pronunciation: muʔcʼáʔcʼaw
+Index: 3681Entry: na·mi | Pronunciation: ná·mi | Generated Pronunciation: na·mi´
+Index: 3685Entry: na·waš | Pronunciation: ná·waš | Generated Pronunciation: na·wáš
+Index: 3689Entry: *nemqa | Pronunciation: nemqáw | Generated Pronunciation: némqaw
+Index: 3707Entry: ni· | Pronunciation: ní· | Generated Pronunciation: ni·´
+Index: 3813Entry: pa·ha | Pronunciation: pá·ha | Generated Pronunciation: pa·ha´
+Index: 3815Entry: penya | Pronunciation: pénya | Generated Pronunciation: penya´
+Index: 3820Entry: pe·pe | Pronunciation: pé·pe | Generated Pronunciation: pe·pe´
+Index: 3976Entry: *pocʰolma | Pronunciation: pocʰolmáw | Generated Pronunciation: pocʰólmaw
+Index: 4010Entry: *pošma | Pronunciation: póšmaw | Generated Pronunciation: pošmáw
+Index: 4011Entry: potri·yu | Pronunciation: potrí·yu | Generated Pronunciation: potri·yu´
+Index: 4054Entry: *puhṭʰe | Pronunciation: puhṭʰe´ | Generated Pronunciation: puhṭʰéw
+Index: 4065Entry: *pukʰilqa | Pronunciation: pukʰilqáw | Generated Pronunciation: pukʰílqaw
+Index: 4096Entry: *puṭa·npuṭa·n | Pronunciation: puṭánpuṭanʔ | Generated Pronunciation: puṭanpúṭanʔ
+Index: 4114Entry: *pʰacʼa·ṭ | Pronunciation: pʰacʼaʔ´ | Generated Pronunciation: pʰacʼáʔ
+Index: 4115Entry: *pʰacʼepʰacʼe | Pronunciation: pʰacʼépʰacʼew | Generated Pronunciation: pʰacʼepʰácʼew
+Index: 4143Entry: *pʰakʼu·m | Pronunciation: pʰakʼumʔ | Generated Pronunciation: pʰakʼumʔ´
+Index: 4152Entry: pʰaliʔli | Pronunciation: pʰaliʔli´ | Generated Pronunciation: pʰalíʔli
+Index: 4163Entry: pʰašutʼuyʔtʼu | Pronunciation: pʰašútʼuyʔtʼu | Generated Pronunciation: pʰašutʼúyʔtʼu
+Index: 4191Entry: *pʰaʔqʼalpʰaʔqʼalh | Pronunciation: pʰaʔqʼálpʰaʔqalʔ | Generated Pronunciation: pʰaʔqʼálpʰaʔqʼalʔ
+Index: 4210Entry: *pʰaʔṭʼepʰaṭʼehti | Pronunciation: pʰaʔṭʼepʰáṭʼehtiw | Generated Pronunciation: pʰáʔṭʼepʰaṭʼehtiw
+Index: 4215Entry: *pʰaʔwiʔwi | Pronunciation: pʰaʔwíwiw | Generated Pronunciation: pʰaʔwíʔwiw
+Index: 4218Entry: pʰa·ke | Pronunciation: pʰá·ke | Generated Pronunciation: pʰa·ke´
+Index: 4219Entry: pʰa·kide | Pronunciation: pʰá·kide | Generated Pronunciation: pʰa·kidé
+Index: 4221Entry: *pʰeʔsʼe | Pronunciation: pʰeʔsʼéw | Generated Pronunciation: pʰéʔsʼew
+Index: 4222Entry: pʰeʔṭʼe | Pronunciation: pʰeʔṭʼe´ | Generated Pronunciation: pʰéʔṭʼe
+Index: 4239Entry: *pʰicʼahtim | Pronunciation: pʰicʼáhtim | Generated Pronunciation: pʰicʼáhtimʔ
+Index: 4255Entry: *pʰihtaqac | Pronunciation: pʰihtaqáʔ | Generated Pronunciation: pʰíhtaqaʔ
+Index: 4256Entry: *pʰihti | Pronunciation: pʰíhtiw | Generated Pronunciation: pʰihtíw
+Index: 4257Entry: *pʰihtibic | Pronunciation: pʰihtibíʔ | Generated Pronunciation: pʰíhtibiʔ
+Index: 4263Entry: pʰikʼaṭi | Pronunciation: pʰikʼáṭi | Generated Pronunciation: pʰikʼaṭí
+Index: 4276Entry: *pʰikʼu·ma | Pronunciation: pʰikʼú·maw | Generated Pronunciation: pʰikʼu·máw
+Index: 4282Entry: *pʰiloloq | Pronunciation: pʰilolóʔ | Generated Pronunciation: pʰilóloʔ
+Index: 4283Entry: *pʰilulu | Pronunciation: pʰilupʰíluw | Generated Pronunciation: pʰilulúw
+Index: 4286Entry: *pʰimaqocʼ | Pronunciation: pʰimaqóʔ | Generated Pronunciation: pʰimáqoʔ
+Index: 4311Entry: *pʰiʔcʼepʰicʼetad | Pronunciation: pʰiʔcʼépʰicʼeta·du | Generated Pronunciation: pʰiʔcʼepʰícʼeta·du
+Index: 4432Entry: *pʰut | Pronunciation: pʰúʔ | Generated Pronunciation: pʰuʔ´
+Index: 4460Entry: *pʰu· | Pronunciation: pʰúw | Generated Pronunciation: pʰuw´
+Index: 4509Entry: *qahlaqac | Pronunciation: qahlaqáʔ | Generated Pronunciation: qáhlaqaʔ
+Index: 4521Entry: *qahnataʔ | Pronunciation: qahnatáʔ | Generated Pronunciation: qáhnataʔ
+Index: 4535Entry: *qahqoṭol | Pronunciation: qahqóṭolʔ | Generated Pronunciation: qahqoṭólʔ
+Index: 4537Entry: *qahqʰaqahqʰa | Pronunciation: qahqʰaqahqʰaw | Generated Pronunciation: qahqʰaqáhqʰaw
+Index: 4601Entry: qasʼi·c | Pronunciation: qasʼiʔ' | Generated Pronunciation: qasʼiʔ´
+Index: 4628Entry: qaʔdi | Pronunciation: qáʔdi | Generated Pronunciation: qaʔdi´
+Index: 4637Entry: *qaʔne·cicʼ | Pronunciation: qaʔné·ciʔ | Generated Pronunciation: qaʔne·cíʔ
+Index: 4673Entry: qa·sʼe | Pronunciation: qá·sʼe | Generated Pronunciation: qa·sʼe´
+Index: 4674Entry: qa·sʼede | Pronunciation: qá·sʼede | Generated Pronunciation: qa·sʼedé
+Index: 4676Entry: qa·šenʔ | Pronunciation: qá·šenʔ | Generated Pronunciation: qa·šénʔ
+Index: 4683Entry: qola·mʔhay | Pronunciation: qolamʔ háy | Generated Pronunciation: qolamʔháy
+Index: 4690Entry: qʰade | Pronunciation: qʰáde | Generated Pronunciation: qʰade´
+Index: 4701Entry: qʰahmo | Pronunciation: qʰáhmo | Generated Pronunciation: qʰahmo´
+Index: 4706Entry: qʰalle | Pronunciation: qʰálle | Generated Pronunciation: qʰalle´
+Index: 4707Entry: qʰasʼaqʰa· | Pronunciation: qʰasʼáqʰa· | Generated Pronunciation: qʰasʼaqʰá·
+Index: 4708Entry: qʰayhcʰi | Pronunciation: qʰáyhcʰi | Generated Pronunciation: qʰayhcʰi´
+Index: 4714Entry: qʰa·mosʼ | Pronunciation: qʰá·mosʼ | Generated Pronunciation: qʰa·mósʼ
+Index: 4722Entry: *qʼacʰmul | Pronunciation: qʼacʰmúlʔ | Generated Pronunciation: qʼácʰmulʔ
+Index: 4727Entry: *qʼahci | Pronunciation: qʼáhciw | Generated Pronunciation: qʼahcíw
+Index: 4728Entry: *qʼahcici | Pronunciation: qʼahcicíw | Generated Pronunciation: qʼáhciciw
+Index: 4739Entry: *qʼa·wacʼic | Pronunciation: qʼawá·cʼiʔ | Generated Pronunciation: qʼawa·cʼíʔ
+Index: 4741Entry: *qʼa·waloqocʼ | Pronunciation: qʼawá·loqoʔ | Generated Pronunciation: qʼawa·loqóʔ
+Index: 4751Entry: *sahqacʼ | Pronunciation: sáhqaʔ | Generated Pronunciation: sahqáʔ
+Index: 4762Entry: sa·wana | Pronunciation: sá·wana | Generated Pronunciation: sa·waná
+Index: 4867Entry: *sikʰehtad | Pronunciation: sikʰétadu | Generated Pronunciation: sikʰéhtadu
+Index: 4894Entry: sipaṭ | Pronunciation: sípaʔ | Generated Pronunciation: sipáʔ
+Index: 4897Entry: *siqʰa· | Pronunciation: siqʰaw´ | Generated Pronunciation: siqʰáw
+Index: 4980Entry: so·ta | Pronunciation: só·ta | Generated Pronunciation: so·ta´
+Index: 4991Entry: sʼawa·t | Pronunciation: sʼawáʔ | Generated Pronunciation: sʼawaʔ´
+Index: 5004Entry: sʼimunʔla·tol | Pronunciation: sʼimunʔlá·tol | Generated Pronunciation: sʼimúnʔla·tol
+Index: 5021Entry: *sʼuhlaq | Pronunciation: sʼúhlaʔ | Generated Pronunciation: sʼuhláʔ
+Index: 5032Entry: *šacʼahtim | Pronunciation: šacʼáhtim | Generated Pronunciation: šacʼáhtimʔ
+Index: 5042Entry: *šahma | Pronunciation: šáhmaw | Generated Pronunciation: šahmáw
+Index: 5048Entry: *šahtala | Pronunciation: šahtaláw | Generated Pronunciation: šáhtalaw
+Index: 5073Entry: *šatušatu | Pronunciation: šatúšatuw | Generated Pronunciation: šatušátuw
+Index: 5098Entry: *šehtala | Pronunciation: šehtaláw | Generated Pronunciation: šéhtalaw
+Index: 5099Entry: šekʰlayʔ | Pronunciation: šékʰlayʔ | Generated Pronunciation: šekʰláyʔ
+Index: 5103Entry: *še·ṭʰey | Pronunciation: šé·ṭʰeyʔ | Generated Pronunciation: še·ṭʰéyʔ
+Index: 5104Entry: še·ṭʰeyʔya | Pronunciation: šé·ṭʰeyʔya | Generated Pronunciation: še·ṭʰéyʔya
+Index: 5115Entry: šiwʔši | Pronunciation: šíwʔši | Generated Pronunciation: šiwʔši´
+Index: 5118Entry: ši·batʰyaw | Pronunciation: ší·batʰyaw | Generated Pronunciation: ši·bátʰyaw
+Index: 5119Entry: *ši·batʰya· cahno | Pronunciation: ší·batʰya· cahnow | Generated Pronunciation: ši·bátʰya· cahnow
+Index: 5128Entry: *šoca·tacʼ | Pronunciation: šoca·táʔ | Generated Pronunciation: šocá·taʔ
+Index: 5129Entry: *šoca·tad | Pronunciation: šoca·tádu | Generated Pronunciation: šocá·tadu
+Index: 5159Entry: šohqʰa | Pronunciation: šóhqʰa | Generated Pronunciation: šohqʰa´
+Index: 5167Entry: šoko·lʔli | Pronunciation: šokolʔli´ | Generated Pronunciation: šokolʔlí
+Index: 5178Entry: *šoʔcʼotʰci | Pronunciation: šoʔcʼotʰciw | Generated Pronunciation: šoʔcʼótʰciw
+Index: 5187Entry: *šoʔpʼošopʼotad | Pronunciation: šoʔpʼošópʼota·du | Generated Pronunciation: šóʔpʼošopʼota·du
+Index: 5191Entry: šo·me | Pronunciation: šó·me | Generated Pronunciation: šo·me´
+Index: 5248Entry: *šuhlu·c | Pronunciation: šuhluʔ | Generated Pronunciation: šuhluʔ´
+Index: 5296Entry: šukʰenʔli | Pronunciation: šúkʰenʔli | Generated Pronunciation: šukʰénʔli
+Index: 5330Entry: *šuqʰaqʰaṭ | Pronunciation: šuqʰáqʰaʔ | Generated Pronunciation: šuqʰaqʰáʔ
+Index: 5405Entry: *šuʔu·m | Pronunciation: šuʔumʔ | Generated Pronunciation: šuʔumʔ´
+Index: 5414Entry: *tahtaq | Pronunciation: táhtaʔ | Generated Pronunciation: tahtáʔ
+Index: 5416Entry: tale·ka | Pronunciation: talé·ka | Generated Pronunciation: tale·ka´
+Index: 5418Entry: ta·li | Pronunciation: tá·li | Generated Pronunciation: ta·li´
+Index: 5419Entry: ta·palo | Pronunciation: tá·palo | Generated Pronunciation: ta·paló
+Index: 5422Entry: ta·ta | Pronunciation: tá·ta | Generated Pronunciation: ta·ta´
+Index: 5429Entry: tente·ru | Pronunciation: tenté·ru | Generated Pronunciation: tente·ru´
+Index: 5432Entry: *tihtim | Pronunciation: tíhtimʔ | Generated Pronunciation: tihtímʔ
+Index: 5436Entry: tiri·pa | Pronunciation: tirí·pa | Generated Pronunciation: tiri·pa´
+Index: 5437Entry: tito | Pronunciation: tito´ | Generated Pronunciation: titó
+Index: 5442Entry: tuka·yu | Pronunciation: tuká·yu | Generated Pronunciation: tuka·yu´
+Index: 5444Entry: tu·tu | Pronunciation: tú·tu | Generated Pronunciation: tu·tu´
+Index: 5447Entry: tʰunkuhtu | Pronunciation: tʰúnkuhtu | Generated Pronunciation: tʰunkúhtu
+Index: 5449Entry: *tʼa·la | Pronunciation: tʼa·law | Generated Pronunciation: tʼa·láw
+Index: 5453Entry: tʼileke | Pronunciation: tʼíleke | Generated Pronunciation: tʼileké
+Index: 5455Entry: *tʼunuc | Pronunciation: No extrameticality | Generated Pronunciation: tʼunúʔ
+Index: 5458Entry: ṭam | Pronunciation: ṭám | Generated Pronunciation: ṭam´
+Index: 5472Entry: ṭʰaco·ya | Pronunciation: ṭʰacó·ya | Generated Pronunciation: ṭʰaco·ya´
+Index: 5478Entry: ṭʰaʔke | Pronunciation: ṭʰáʔke | Generated Pronunciation: ṭʰaʔke´
+Index: 5479Entry: ṭʰaʔkide | Pronunciation: ṭʰáʔkide | Generated Pronunciation: ṭʰaʔkidé
+Index: 5480Entry: ṭʰaʔkinʔ | Pronunciation: ṭʰaʔkínʔ | Generated Pronunciation: ṭʰáʔkinʔ
+Index: 5484Entry: ṭʰi· | Pronunciation: ṭʰí· | Generated Pronunciation: ṭʰi·´
+Index: 5485Entry: ṭʰoʔo·koyʔ | Pronunciation: ṭʰoʔó·koyʔ | Generated Pronunciation: ṭʰoʔo·kóyʔ
+Index: 5487Entry: *ṭʼahṭʰaṭ | Pronunciation: ṭʼáhṭʰaʔ | Generated Pronunciation: ṭʼahṭʰáʔ
+Index: 5496Entry: wante·ha | Pronunciation: wanté·ha | Generated Pronunciation: wante·ha´
+Index: 5504Entry: wu·ru | Pronunciation: wú·ru | Generated Pronunciation: wu·ru´
+Index: 5505Entry: yaʔkʰe | Pronunciation: yaʔkʰe´ | Generated Pronunciation: yáʔkʰe
+Index: 5507Entry: yu·kaš | Pronunciation: yú·kaš | Generated Pronunciation: yu·káš
+Index: 5516Entry: ʔa·pe | Pronunciation: ʔá·pe | Generated Pronunciation: ʔa·pe´
+Index: 5517Entry: ʔa·pede | Pronunciation: ʔá·pede | Generated Pronunciation: ʔa·pedé
+Index: 5533Entry: *ʔdu·cicʼ | Pronunciation: dú·ciʔ | Generated Pronunciation: du·cíʔ
+Index: 5536Entry: *ʔelši | Pronunciation: ʔélšiw | Generated Pronunciation: ʔelšíw
+Index: 5553Entry: ʔisko·wa | Pronunciation: ʔiskó·wa | Generated Pronunciation: ʔisko·wa´
+Index: 5557Entry: *ʔkʰošcicʼ | Pronunciation: kʰóšciʔ | Generated Pronunciation: kʰošcíʔ
+Index: 5562Entry: ʔorki·ya | Pronunciation: ʔorkí·ya | Generated Pronunciation: ʔorki·ya´
+Index: 5571Entry: *ʔqʼo | Pronunciation: qʼów | Generated Pronunciation: qʼow´
+Index: 5572Entry: *ʔqʼohqa | Pronunciation: qʼóhqaw | Generated Pronunciation: qʼohqáw
+Index: 5578Entry: *ʔsʼaʔsʼa | Pronunciation: sʼáʔsʼaw | Generated Pronunciation: sʼaʔsʼáw
+Index: 5595Entry: ʔu·was | Pronunciation: ʔú·was | Generated Pronunciation: ʔu·wás

@@ -117,7 +117,7 @@ elif runType.lower() == "replace":
             for span in soup.find_all('span', {'class':'visiblevariantentryrefs'}):
                 nestedSpans = span.find_all('span', {'class':'reversename'})
                 for nestedSpan in nestedSpans:
-                    if nestedSpan.text[-2:] == "of":
+                    if nestedSpan.text[-2:] == "Plural of":
                         links = span.find_all('a')
                         wordResponse = requests.get(link.get('href'))
                         soup = BeautifulSoup(wordResponse.text, "html.parser")

@@ -50,7 +50,7 @@ for i in tqdm(range(0, len(allComponents))):
         for span in soup.find_all('span', {'class':'visiblevariantentryrefs'}):
             nestedSpans = span.find_all('span', {'class':'reversename'})
             for nestedSpan in nestedSpans:
-                if nestedSpan.text[-2:] == "of":
+                if nestedSpan.text == "Plural of":
                     links = span.find_all('a')
                     if len(links) > 0:
                         variant = links[0].text
@@ -62,7 +62,7 @@ for i in tqdm(range(0, len(allComponents))):
             parts = parts + component + " "
         allComponents[i] = stripFinalSpaces(parts)
 
-with open("textFiles/pluralOfCases.txt", 'w') as file:
+with open("textFiles/pluralOfCases2.txt", 'w') as file:
     for components in allComponents:
         file.write(components)
         file.write("\n")

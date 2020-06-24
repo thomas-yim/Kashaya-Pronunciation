@@ -232,6 +232,7 @@ with open("textFiles/" + "Pronunciation Errors.txt", "w") as errorFile:
                 if df.iloc[i]['Absolutives'] == df.iloc[i]['Generated Abs']:
                     total += 1
                     errorFile.write(
+                            "Index: " + str(i) + 
                             "Entry: " + df.iloc[i]['Entries'].rstrip("\n") +
                             " | Pronunciation: " + df.iloc[i]['Pronunciations'] +
                             " | Generated Pronunciation: " + df.iloc[i]['Generated Pron'] + "\n"

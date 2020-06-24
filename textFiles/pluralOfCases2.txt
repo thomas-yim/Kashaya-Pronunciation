@@ -71,11 +71,11 @@ ba- *hkut
 *bahkut
 ba- *hkʰel
 *bahkʰe -ccicʼ
-pahkʰoy
+Same
 ba- *hkʰu
 Same
 ba- *hlokʼ
-*mahlo
+Same
 ba- *hlud 1
 ba- *hlu·c
 ba- *hlu·m
@@ -83,7 +83,7 @@ ba- *hmiy
 ba- *hmo
 ba- *hmu·l 1
 ba- *hnat 1
-*bahnatad
+Same
 ba- *hnat 1
 *bahnat
 ba- *hol
@@ -399,7 +399,7 @@ bi- *qʰal 1
 bi- *qʰal 1
 bi- *hqʰalh
 bi- *qʰa· 1
-biqʰama·tow
+Same
 *bi qʰama·tow
 bi- *ʔqʼac
 bi- *qʼa·ṭ 1
@@ -466,7 +466,7 @@ bi- *ʔya·q
 bi- *ʔyi 4
 *ʔbo 6 *ʔbo 6
 Same
-*bohkoc
+Same
 *bohkoc
 *bohko
 *bohko
@@ -481,7 +481,7 @@ bo·tʼ
 *bo·c 1
 Same
 *bo·tʼam
-bu·bu·
+Same
 Same
 *buhkʰu 1
 *buhkʰuhkʰu
@@ -518,7 +518,7 @@ ca- *dil
 ca- *dil
 ca- *dil
 *cad 2
-*cad *cad
+*cad
 *cad
 *cad 2
 *cad 2 -aq 1
@@ -578,7 +578,7 @@ ca- *hqʰaṭ 2
 ca- *hqʰolh
 ca- *hsa 3
 *cahsa 2
-*casisil
+Same
 ca- *hsit
 Same
 ca- *hsokʼot 2
@@ -613,7 +613,7 @@ ca- *kʼal 1
 ca- *ʔkʼa 1
 Same
 ca- *kʼi·š 2
-*cakʼihwala
+Same
 ca- *ʔkʼi 2
 ca- *ʔkʼolh 1
 ca- *ʔkʼonh
@@ -643,7 +643,7 @@ ca- *pe·l
 *cahqa 2
 *cahqa
 *caqa·cʼ
-*caqa·cʼ *caqa·cʼ
+*caqa·cʼ
 *caqa·cʼ
 Same
 *caqʰa· 1
@@ -726,8 +726,8 @@ ca- *ʔyu
 ca- *sqʰac
 *caṭal
 *hce
-*hceye
-*ciki
+Same
+Same
 *ciki
 ciba·
 *cʰi·ṭ 1
@@ -786,7 +786,7 @@ cʰi- *hte
 cʰi- *htenh 1
 cʰi- *htoš 2
 Same
-cihṭʰiṭi
+Same
 cʰi- *hṭʰe 1
 cʰi- *hṭʰi 2
 cʰi- *hṭʰi 2
@@ -832,7 +832,7 @@ cʰi- *ʔṭu
 *ci·cʼ -aduc
 *ci·cʼ
 *ci·cʼ
-*ci·cʼid
+Same
 cʰi- *ki·š
 *cobo·c
 -h-
@@ -1031,13 +1031,13 @@ cu- *qʰa·ṭ 2
 cu- *ʔqʼac
 cu- *qʼa·ṭ 1
 cu- *sa 1
-qosʼica·qac
-*cusʼuyaq
+Same
+Same
 cu- *sʼihc 2
 cu- *ʔsʼil
 Same
 -t 2
-*cusʼuy
+Same
 cu- *sʼu·l 1
 cu- *sʼu·l 1
 cu- *sʼuy
@@ -1217,7 +1217,7 @@ Same
 *cʰul 2
 *cʰul
 Same
-*cʰuwayad
+Same
 *cʰuway
 *cʰuway
 bi- *cʼal
@@ -1228,7 +1228,7 @@ Same
 *cʼeʔye
 *cʼeʔye
 *cʼeʔye
-hicʼe·
+Same
 Same
 *cʼe·l
 Same
@@ -1373,7 +1373,7 @@ da-
 da- *hqʰolh
 da- *hsa 1
 da- *hsa 1
-*dahsewad
+Same
 *dahse
 da- *hsey 1
 da- *hsikʼit
@@ -1421,7 +1421,7 @@ da- *ko·l
 *dahkʰe -ad 2 -wad 1
 da- *kʰeṭ
 *dakʰeṭ -aq 1
-*dakʰe·nʔwad
+Same
 *dahkʰe -ad 2
 da- *hkʰo
 da- *kʰu·l 1
@@ -1597,10 +1597,10 @@ Same
 *ʔda 1 -ala
 *da· -yaw
 *de·ci
-teʔ
 Same
-*de·d
-*de·duc
+Same
+Same
+Same
 *ʔdi 3 -ad 2
 *de·d -aduc
 *diki
@@ -1630,7 +1630,7 @@ di- *cʰa· 1
 di- *cʰi·ṭ 1
 di- *cʰi·ṭ 1
 di- *cʰu
-*dicʰu·l
+Same
 di- *cʰu·l
 di- *cʰu·l
 di- *ʔcʼanh
@@ -1871,7 +1871,7 @@ du- *kʼo·l
 du- *kʼo·ṭ
 du- *kʼo·ṭ
 du- *ʔkʼoy 3 -ala
-*doʔkʼoyi·bic
+Same
 du- *lo
 Same
 *dom
@@ -1890,7 +1890,7 @@ du- *ʔcʼo
 du- *ʔkʼo 2
 du- *ʔkʼolh 1
 du- *ʔkʼonh
-*doʔkʼoyad
+Same
 du- *ʔkʼoy 1
 du- *ʔkʼo 1
 Same
@@ -1966,7 +1966,7 @@ du- *hkilh
 du- *hkʰuy
 du- *hlabat
 du- *hlal
-*duhlihli
+Same
 du- *hlic 1
 du- *hlud 1
 du- *hluṭʼ 1
@@ -2120,7 +2120,7 @@ du- *ʔtʼenh -ay
 *duʔtʼenay
 du- *ʔtʼem 3
 du- *ʔṭʼe 2
-*dute·l
+Same
 du- *tʼe·t 1
 *dutʼe·t
 du- *tʼul
@@ -2209,10 +2209,10 @@ ha- *cʼi·ṭ
 ha- *cʼo·q
 ha- *cʼu·l 2
 ha- *dahcʰi 1
-*hade·d
+Same
 *haʔdi 1 -ad 2
-ʔae
-haʔamʔ
+Same
+Same
 ha- *hce 1
 ha- *hcʰa 3
 ha- *hcʰoc 1
@@ -2258,7 +2258,7 @@ ha- *hṭʰu
 ha- *hwatʼ
 ha- *hwe
 ha- *hwe·n
-*mahyuṭ
+Same
 ha- *ki·l 1
 ha- *ki·l 1
 ha- *ko·l
@@ -2290,13 +2290,13 @@ Same
 ha- *qʰa·ṭ 2
 ha- *qʰoṭ 1
 ha- *hsoṭ
-ʔaha soyo
+Same
 ha- *su
 ha- *sʼim
 ʔaha sʼiʔda
 ha- *sʼul
 ha- *ša·l
-haša·yul
+Same
 Same
 ha- *hšolh
 ha- *šo·m
@@ -2389,7 +2389,7 @@ Same
 *hce 1
 *hce 2
 Same
-*hced
+Same
 *hci 5
 Same
 Same
@@ -2445,7 +2445,7 @@ hi- *cʼo·q
 hi- *cʼo·ṭ 1
 *hidahcʰi
 hi- *dahcʰi 1
-*hide·d
+Same
 *hiʔdi -ad 2
 *hidul
 hi- *hce 1
@@ -2488,13 +2488,13 @@ hi- *hqa 2
 hi- *hqʰa 3
 hi- *hqʰobot
 hi- *hsa 1
-*hisisil
+Same
 hi- *hsis
 *hihsom
 hi- *hsoṭ
 *hihsut
 *hihsuhsu
-*hiša·l
+Same
 hi- *hšolh
 *hihtay
 hi- *htay 1
@@ -2644,10 +2644,10 @@ hi- *ʔyo 4
 hi- *šluc
 Ø- *hkʰe 1
 Same
-kʰeya
-*ʔkʰoš
-*ʔkʰošci
-*ʔkʰošcicʼ
+Same
+Same
+Same
+Same
 šu- *hlakʼat
 *hlic 2 =wi
 Same
@@ -2662,7 +2662,7 @@ Same
 ʔoho
 *hotʼot -ibic
 Same
-hote·l
+Same
 hoṭʰ
 hoṭʰ
 *how dom
@@ -2684,9 +2684,9 @@ Same
 *hqa 3
 *hqac 2
 *hqac 2 -mucʼ
-*qahmat
+Same
 *hqal 2 -ala
-*hqalad
+Same
 *hqal 2 -ad 1
 *hqa 6 -mac
 *hqam
@@ -2694,8 +2694,8 @@ Same
 *hqam
 *hqam
 *hqa 3
-*hqacid
-*hqacid
+Same
+Same
 *hqayicʼ 1
 *hqa 6 -ad 2
 Ø- *hqoṭol 1
@@ -2706,17 +2706,17 @@ Same
 ʔahqʰa sʼaqa·
 qalqasʼa ʔihqʰoṭ
 *ʔdi
-*sahqacʼ
+Same
 *hsey 2
 *hsey 2 -aq 1
 Same
 Same
-*šame
 Same
-*hšiyicʼ *hšiyicʼ
+Same
+*hšiyicʼ
 *hši 3
 Same
-*hšiṭʰad
+Same
 *hšiṭʰ -ad 2
 *hti 3 -alamecʼ
 *hti 3 -aloq
@@ -2735,7 +2735,7 @@ Same
 Same
 Same
 *huʔut
-*huʔutʰma
+Same
 Same
 *huʔut -ala
 *huʔut -ala -mucʼ
@@ -2745,7 +2745,7 @@ Same
 *huʔut
 Same
 huʔuy =tol
-*hu·ma
+Same
 huʔuy ʔimo
 Same
 Same
@@ -2753,7 +2753,7 @@ Same
 *hya
 *hya
 *hyaw
-yowal
+Same
 Same
 *kacʰi -w 2 -m 1
 Same
@@ -2765,9 +2765,9 @@ Same
 Same
 Same
 Same
-kaṭʰo·fla
 Same
-kaṭʰo·fla
+Same
+Same
 Same
 kawa·yu ʔahca
 kawa·yu ʔohso
@@ -2775,7 +2775,7 @@ Same
 Same
 kayi·na qawi
 Same
-ka·kanʔ
+Same
 *qa
 Same
 Same
@@ -2785,7 +2785,7 @@ keʔye
 keʔye
 keʔye
 *kihyi
-ki·ṭʰ
+Same
 Same
 *kilu·cay
 *kiṭi
@@ -2800,7 +2800,7 @@ Same
 Same
 hku yala
 Ø- *kʰaš 2 Ø- *kʰaš 2
-hkʰela
+Same
 Same
 Ø- *hkʰe 1
 Same
@@ -2808,14 +2808,14 @@ Same
 Same
 *kʰiʔbi
 *kʰiʔbi
-kʰiwim
+Same
 Same
 Same
 Same
 Same
 kʼahša
-*kʼahni
-kʼasitʼaʔcʼaʔyaw
+Same
+Same
 *kʼasitʼ
 *kʼasitʼad
 *kʼasitʼad
@@ -2823,7 +2823,7 @@ kʼasitʼaʔcʼaʔyaw
 Same
 *kʼasitʼad
 Same
-kʼaṭʰinʔ
+Same
 *kʼad
 Same
 *kʼe·š
@@ -2845,11 +2845,11 @@ Same
 kʼopʼ
 Same
 Same
-kʼunʔ
+Same
 *kʼu -nʔ
 kʼuṭʰu
 kʼuṭʰu
-lebaṭʰe·
+Same
 Same
 Same
 lipʰu· ʔihpʰuy ʔihya·
@@ -2865,9 +2865,9 @@ yiho·l bahṭʰe
 maba·sʼ -aq 2
 *mabasʼaq
 maba·sʼ -aq 2
-maba·sʼ
+Same
 *ba·
-maba·
+Same
 maba· -aq 2
 *ba
 ma- 2 *bet 1
@@ -2880,18 +2880,18 @@ ma- 2 *bi·l
 *wa -mac
 macanʔ
 *macadaq
-macanʔ
-macanʔ
-macanʔ
-macanʔ
+Same
+Same
+Same
+Same
 *cad 1
-maca·sʼ
+Same
 ma- 2 *cat 1
 *macat
 mace·ki
 *macekiq
 mace·ki
-mace·ki
+Same
 *mace·
 *mace·
 ma- 2 *ce·
@@ -2901,7 +2901,7 @@ Same
 ma- 2 *co 1
 ma- 2 *co 1
 macu·sʼ -aq 2
-macu·sʼ
+Same
 *cu
 ma- 2 *hcʰi
 Same
@@ -2925,18 +2925,18 @@ ma- 2 *cʼo·m
 ma- 2 *cʼo·q
 ma- 2 *cʼo·ṭ 1
 ma- 2 *cʼu·l 2
-made·ki
-*made·d
+Same
+Same
 *maʔdi 1 -ad 2
 *hceye
-mahceye
-mahceye
-mahceye
+Same
+Same
+Same
 Same
 ma- 1 *hcuṭʼki
-mahcuṭʼki
-mahcuṭʼki
-mahcuṭʼki
+Same
+Same
+Same
 Same
 ma- 2 *hcʰa 2
 ma- 2 *hcʰa 3
@@ -2976,7 +2976,7 @@ ma- 2 *hqʰa 3
 ma- 2 *hqʰayʔ 1
 *mahqʰayʔ -m 2
 ma- 2 *hsa 1
-*mahsad
+Same
 Same
 ma- 2 *hsakʼat
 *mahsa 1
@@ -3000,14 +3000,14 @@ ma- 2 *hwe
 *mahwe·n
 ma- 2 *hwi
 *mahyol
-*hahyuṭ
+Same
 Same
 *ki
 Same
-makʼanʔ
-makʼanʔ
-makʼanʔ
-makʼanʔ
+Same
+Same
+Same
+Same
 ma- 2 *ʔkʼayʔ
 ma- 2 *kʼal 1
 ma- 2 *ʔkʼanh
@@ -3030,7 +3030,7 @@ ma- 2 *ne 2
 ma- 2 *ne 2
 ma- 2 *ne 1 -hqa
 *mane
-maqa·sʼ
+Same
 ma- 2 *hqa 2
 *qa
 *maqʰoṭ
@@ -3044,14 +3044,14 @@ ma- 2 *hšolh
 Same
 ma- 2 *šud 1
 ma- 2 *hšukʼuṭ
-mašu·sʼ
+Same
 *šu
 ma- 2 *htay 1
-mata·menʔ
+Same
 *mata
 ma- 2 *ti·t
-marti·yu
-marti·yu
+Same
+Same
 ma- 2 *tu 2
 Same
 matʰi·
@@ -3069,7 +3069,7 @@ ma- 2 *ṭʼem 2
 ma- 2 *hyol 1
 ma- 2 *yukʼut
 maʔa
-maʔu
+Same
 maʔa
 ma- 2 *ʔcʼolh
 ma- 2 *ʔcʼon
@@ -3128,19 +3128,19 @@ ma- 2 *ʔyo 3
 Same
 Same
 Same
-*ma·duc
+Same
 *wa -mad
-ma·manʔ
+Same
 *ma 1
 *wa -maqocʼ
 Same
 Same
 *mi 1 ʔahcaw
 mi- 2 *ʔbu 3
-micanʔ
-micanʔ
-micanʔ
-micanʔ
+Same
+Same
+Same
+Same
 *cad 1
 Same
 *mihca -acʼic
@@ -3150,7 +3150,7 @@ Same
 Same
 *ca 1
 *mi 4 -cid
-mice·ki
+Same
 mi- 2 *hcelh
 mi- 2 *ce
 *ciki
@@ -3165,8 +3165,8 @@ mi- 2 *cʼi·ṭ
 mi- 2 *cʼo·m
 mi- 2 *cʼu·l 2
 *mi 4
-mide·ki
-*mide·d
+Same
+Same
 *miʔdi 1 -ad 2
 Same
 Same
@@ -3216,7 +3216,7 @@ mi- 2 *hsim
 mi- 2 *hsokʼot 2
 mi- 2 *hsom 2
 mi- 2 *hšul
-*mihsac
+Same
 mi- 2 *hša 1
 mi- 2 *hše 2
 *mihše
@@ -3245,12 +3245,12 @@ mi- 2 *hyuṭ
 mi- 2 *ku·ṭ 2
 *mihkʰe -ad 2
 *mihkʰe -ad 2 -wad 1
-*mikʰe·nʔwad
+Same
 *mihkʰe -ad 2
-mikʼanʔ
-mikʼanʔ
-mikʼanʔ
-mikʼanʔ
+Same
+Same
+Same
+Same
 mi- 2 *ʔkʼayʔ
 mi- 2 *kʼal 1
 mi- 2 *ʔkʼanh -ay
@@ -3272,7 +3272,7 @@ mi- 2 *lu 2
 *ma 1
 mi- 2 *mi 3
 Same
-mimu·sʼ
+Same
 *mu 2
 mi- 2 *nem 1
 mi- 2 *qʰo·ṭ
@@ -3368,7 +3368,7 @@ mu- *hqoyʔ 1
 mu- *hqʰobot
 Same
 mu- *hsoṭ
-mohsi
+Same
 mu- *hšolh
 mu- *hto 2
 mu- *hto 1
@@ -3376,10 +3376,10 @@ mu- *hto 1
 mu- *htontolo
 mu- *htoš 2
 mu- *htoš 2
-mo·toštošo
+Same
 mu- *hṭonṭolo
 mu- *hṭʰinhcʼ
-mohṭʰihša
+Same
 mu- *hṭʰolh
 *mohyol
 mu- *kʼo·c
@@ -3422,7 +3422,7 @@ mu- *ʔyo 1
 mu- *ʔyo 2
 mu- *ʔyo 2
 Same
-*mo·d
+Same
 Same
 *mo 1 -aq 1
 *mo 1
@@ -3431,7 +3431,7 @@ Same
 mu- *bet 1
 mu- *bet 1
 Same
-*mobo·kʼibic
+Same
 mu- *ce
 mu- *hcelh
 mu- *hcelh
@@ -3452,7 +3452,7 @@ mu- *cʼi·ṭ
 mu- *ʔcʼon
 mu- *cʼu·
 Same
-*mude·d
+Same
 *muʔdi 1 -ad 2
 Same
 mu- *hce 1
@@ -3533,7 +3533,7 @@ mu- *ku·ṭ 2
 mu- *hkulh 2
 mu- *ku·ṭ 2
 Same
-*mukʰe·nʔwad
+Same
 *muhkʰe -aduc
 mu- *ʔkʼa 1
 mu- *kʼa·l
@@ -3555,7 +3555,7 @@ mu- *laya
 mu- *nac 3
 Same
 mu- *nem 1
-muʔnati
+Same
 mu- *pa 1
 mu- *hpʰaqʼ
 mu- *hpʰa·š
@@ -3577,7 +3577,7 @@ mu- *qʼa·m 1
 mu- *qʼa·s
 mu- *qʼa·ṭ 2
 mu- *qʼa·m 1
-*musa·d
+Same
 *muhsa 1 -ad 2
 musu·
 musu·
@@ -3695,17 +3695,17 @@ Same
 *net 1
 *net 1
 Same
-*nihced
+Same
 Same
 *ninetad
 *ninetad
 *ninec
 *ninetad
 *nine
-*ninetad
+Same
 *nine
 *nisacʼ
-ʔini·
+Same
 *cahno
 *nohpʰo
 *nohpʰo
@@ -3744,7 +3744,7 @@ Same
 pʰa- *hlo·m 1
 pʰa- *hlud 1
 pʰa- *hmiy
-*pahol
+Same
 pʰa- *hponpolo
 pʰa- *hpʰukʼut
 *pahqa
@@ -3791,7 +3791,7 @@ pʰa- *qʰa· 1
 pʰa- *šud 1
 pʰa- *šud 1
 pʰa- *hšukʼuṭ
-patro·n
+Same
 pʰa- *taš 1
 pʰa- *htay 1
 pʰa- *te·m 2
@@ -3805,20 +3805,20 @@ pʰa- *ṭʰo
 pʰa- *ʔkʰo
 pʰa- *ʔkʰoš 1
 *paʔkʰošci
-*pʰaʔsʼaṭicʼ
+Same
 pʰa- *ʔṭi 2
 pʰa- *ʔṭi 2
 pʰa- *ʔṭu
 pʰa- *ʔṭu
-pa·tere
+Same
 Same
 Same
 Same
 peya
 Same
 *pe -ala
-*pem
-pe·penʔ
+Same
+Same
 *ʔe
 pʰi- *ce
 pʰi- *hcelh
@@ -3936,7 +3936,7 @@ pʰi- *hyuṭ
 *pika·š
 *pihki
 pʰi- *ki·l 1
-*piki·l
+Same
 pʰi- *kʰi
 pʰi- *hkʰo
 pʰi- *kʰu·l 2
@@ -3979,7 +3979,7 @@ pʰu- *cʰo·l
 pʰu- *co 1
 Same
 pʰu- *hcʰo
-*pohcʰopohcʰo
+Same
 pʰu- *hcʰot
 pʰu- *hko 2
 pʰu- *hkolh
@@ -3993,7 +3993,7 @@ pʰu- *hso
 pʰu- *hsoṭ
 *pohto
 *pohto
-*pohtopohto
+Same
 *pohto
 pʰu- *hṭonṭolo
 pʰu- *hṭʰo
@@ -4003,12 +4003,12 @@ Same
 Same
 *poqʰoṭ
 pʰu- *hsoṭ
-*pohsoṭ
+Same
 *pohsoṭ -aduc
 Same
-*po·šay
-*po·šci
-*po·šma
+Same
+Same
+Same
 Same
 Same
 *po·š 2
@@ -4064,7 +4064,7 @@ pʰu- *kel 1
 pʰu- *ki·l 1
 pʰu- *kʰeṭ
 pʰu- *kʰi·l
-*pukʰilqa
+Same
 pʰu- *hlakʼat
 pʰu- *hlud 1
 Same
@@ -4073,7 +4073,7 @@ pʰu- *qʰal 1
 pʰu- *qʰa· 1
 pʰu- *qʰa· 1
 pʰu- *qʰa· 1
-*pusa·d
+Same
 *puhsa 1 -ad 2
 pʰu- *ša·m
 pʰu- *šil
@@ -4138,7 +4138,7 @@ pʰa- *kʼi· 2
 pʰa- *kʼi· 2
 pʰa- *kʼi· 1
 pʰa- *ʔkʼo 2
-*pʰakʼu·m
+Same
 pʰa- *kʼus
 pʰa- *ʔkʼu
 pʰa- *kʼu·m 2
@@ -4210,18 +4210,18 @@ pʰa- *ʔṭʼaṭ 3
 pʰa- *ʔṭʼawʔduc
 -ht
 pʰa- *ʔṭʼe 3
-*pʰaʔṭʼuṭ
+Same
 pʰa- *ʔṭʼi 2
 pʰa- *ʔwi
 pʰa- *ʔwi
 pʰa- *ʔya·q
 pʰa- *ʔyi 4
-pʰa·kinʔ
-pʰa·kinʔ pʰa·kinʔ
+Same
+Same
 *pʰa·
 *ʔsʼe
 *ʔṭʼe 4
-*pʰe·d
+Same
 *hpʰi 2 -ad 2
 *hpʰi 2 -aduc
 *hpʰi 2 -ala
@@ -4234,8 +4234,8 @@ pʰi- *bo·kʼ
 pʰi- *bo·l
 pʰi- *bo·kʼ
 pʰi- *bo·l
-pʰi·bokʼbokʼo
-*pʰibo·kʼma
+Same
+Same
 pʰi- *ʔcʼamh
 pʰi- *ʔcʼamh
 pʰi- *cʼal
@@ -4283,7 +4283,7 @@ pʰi- *hlo 1
 *pʰil -aloq
 pʰi- *lu 1
 *pʰil -mac
-*pʰima
+Same
 *pʰil -maqocʼ
 *pʰil -mul
 pʰi- *ʔqʼac
@@ -4435,7 +4435,7 @@ pʰu- *ṭʼac
 pʰu- *ʔṭʼe 2
 pʰu- *tʼe·l
 pʰu- *ṭʼac
-*pʰuʔcʼumci
+Same
 pʰu- *ʔdi 1
 *pʰuʔdu
 pʰu- *ʔkʼa 1
@@ -4486,7 +4486,7 @@ qa- *cʼo·m
 qa- *cʼo·q
 qa- *cʼo·ṭ 1
 qa- *cʼu·l 2
-*qadu·la
+Same
 *qaʔdi -ala
 qa- *duw 2
 *qadu -ala
@@ -4520,7 +4520,7 @@ qa- *hmoy
 qa- *hmu·l 1
 *hnat 1
 *hnat 1
-*qahpʰihpʰi
+Same
 qa- *hpolh
 qa- *hpolh
 qa- *hponpolo
@@ -4582,7 +4582,7 @@ qa- *lac
 qa- *sʼa·
 la-
 Same
-qalicatʰmucʼ
+Same
 qali· ʔahca
 qa- *lo·
 qa- *lo
@@ -4595,7 +4595,7 @@ qa- *hqa 2
 qa- *qol
 qa- *qʰa·ṭ 2
 *qahsa -ibic
-*qasa·d
+Same
 Same
 qa- *ʔsʼil
 *ʔsʼi 2
@@ -4671,8 +4671,8 @@ qa- *yi 1
 *qabe·l
 *qa·m
 *hqa 6 -aqac
-qa·sʼenʔ
-qa·sʼenʔ qa·sʼenʔ
+Same
+Same
 *qa
 Same
 *qo·c
@@ -4688,9 +4688,9 @@ Same
 Same
 Same
 Same
-*qʰade·d *qʰade·duc daqʰanʔ maqʰade maqʰade maqʰademenʔ maqʰademenʔ maqʰademenʔ maqʰademenʔ maqʰade maqʰade miqʰade miqʰade miqʰademenʔ miqʰademenʔ miqʰademenʔ miqʰademenʔ
-qʰadenʔ
-qʰademenʔ
+Same
+Same
+Same
 *qʰademe
 Same
 *qʰaʔdi
@@ -4718,8 +4718,8 @@ qʰo· *sʼi·cʼ 1
 Same
 qʰo·
 *moqʰot -ibic
-*baʔqʼac *baʔqʼoʔdi *biʔqʼac *biʔqʼoʔdi *ʔboqʼot *ʔboqʼ *cahpʰaqʼ *caʔqʼac *caqʼa·s *caʔqʼoʔdi
-*baʔqʼac *baʔqʼoʔdi *biʔqʼac *biʔqʼoʔdi *ʔboqʼot *ʔboqʼ *cahpʰaqʼ *caʔqʼac *caqʼa·s *caʔqʼoʔdi
+*baʔqʼac *baʔqʼoʔdi *biʔqʼac *biʔqʼoʔdi *ʔboqʼot *cahpʰaqʼ *caʔqʼac *caqʼa·s *caʔqʼoʔdi
+*baʔqʼac *baʔqʼoʔdi *biʔqʼac *biʔqʼoʔdi *ʔboqʼot *cahpʰaqʼ *caʔqʼac *caqʼa·s *caʔqʼoʔdi
 *qʼa· -mul
 *qʼa·
 *qʼaw -aduc
@@ -4727,7 +4727,7 @@ qʰo·
 *qʼaw -aloqocʼ
 *ʔqʼac
 *ʔqʼac
-*qʼasa·tad
+Same
 Same
 *qʼala·
 Same
@@ -4737,7 +4737,7 @@ Same
 *qʼa·
 Ø- *qʼa·m 2
 *qʼa· -mucʼ
-*qʼawa·duc
+Same
 *qʼa·
 *qʼaw -aloqocʼ
 *qʼa· -yaw
@@ -4745,7 +4745,7 @@ Same
 Same
 Same
 Same
-qʼohṭʰo
+Same
 Same
 qʼoʔo *mane =yac  2
 Same
@@ -4944,7 +4944,7 @@ si- *ʔkʼi 3
 si- *ʔkʼi 3
 si- *ʔkʼi 2
 si- *ʔkʼo 2
-*sikʼo·yad
+Same
 si- *ʔkʼo 1
 si- *ʔkʼu
 si- *ʔlawʔ
@@ -5033,7 +5033,7 @@ Same
 ša- *ʔcʼamh
 ša- *cʼo·m
 *šaʔdi -aq 1
-*šade·d
+Same
 *šaʔdi -ad 2
 ša- *hcʰa 3
 ša- *hcʰa 3
@@ -5120,8 +5120,8 @@ Same
 ši·batʰyaw *cahno
 Same
 Same
-*šocad
-*šocad
+Same
+Same
 *šoc
 *šoc
 *šoc
@@ -5167,12 +5167,12 @@ Same
 šu- *ko·l
 *šoko·l
 šu- *ʔkʼoy 3 -ala
-*šoʔkʼoyi·bic
+Same
 *šohlo
 *šohlo
 šu- *loloṭ
 šu- *qʰoṭ 2
-*šoʔqʼobot
+Same
 Same
 šu- *yot 1
 šu- *ʔcʼon
@@ -5189,7 +5189,7 @@ Same
 šu- *ʔqʼot
 šu- *ʔṭʼo
 šu- *ʔyo 3
-šomenʔ
+Same
 Same
 šu- *ʔbalh
 *šuʔba
@@ -5207,7 +5207,7 @@ Same
 šu- *cʰu
 šu- *cʰul 1
 šu- *cʰu
-*šucʰul
+Same
 šu- *ʔcʼanh
 šu- *ʔcʼanh
 šu- *cʼal
@@ -5221,7 +5221,7 @@ Same
 šu- *hcenh 2
 šu- *hce 1
 *šusʼi -aloqocʼ
-šusʼihwalo·qoʔ
+Same
 šu- *hcʰa 2
 šu- *hcʰa 3
 šu- *hcʰa 3
@@ -5230,7 +5230,7 @@ Same
 šu- *hkelh
 šu- *hkelh
 Same
-*šuhkema·duc
+Same
 *šuhkem -aduc
 *šuhkem
 *šuhkem
@@ -5383,7 +5383,7 @@ Same
 šu- *ʔqʼac
 šu- *ʔsʼa 2
 šu- *ʔsʼaṭ 1
-*šuʔsʼa
+Same
 šu- *ʔsʼil
 šu- *ʔsʼi 1
 šu- *ʔtʼekele
@@ -5400,7 +5400,7 @@ Same
 šu- *ʔṭʼa 2
 šu- *ʔṭʼe 3
 šu- *ʔṭʼe 3
-*šuʔṭʼuṭ
+Same
 šu- *ʔṭʼi 2
 šu- *ʔṭʼubut 1
 Same
@@ -5418,20 +5418,20 @@ Same
 Same
 Same
 Same
-tapʰla
+Same
 Same
 qa- *kʼo·ṭ
 *ca 1
-ta·ti
+Same
 Same
 Same
 *htenh 3
-tente·ru
+Same
 Same
 *hti 3
 Same
 *hti 3
-tihhamʔ
+Same
 Same
 *tihye
 Same
@@ -5441,8 +5441,8 @@ Same
 *tubic
 *tubic
 Same
-*tuš
-tu·tunʔ
+Same
+Same
 *cu
 Same
 Same
@@ -5451,7 +5451,7 @@ Same
 Same
 *tʼe·t 3 -ibic
 *tʼe·t 3
-tʼilekinʔ
+Same
 tʼile -kinʔ
 *tʼunu
 *tʼunu
@@ -5465,7 +5465,7 @@ Same
 *ṭolo·m
 Same
 ṭuhšoyi *dutʼat 2
-*ṭʰaba·la
+Same
 ʔaṭʰa· baṭʰe· =wi
 *ṭʰaʔba -aduc
 *ṭʰaba·duc
@@ -5476,8 +5476,8 @@ Same
 *ṭʰaʔbam
 *ṭʰaʔbam
 *ṭʰaʔba -mul
-ṭʰaʔkinʔ
-ṭʰaʔkinʔ ṭʰaʔkinʔ
+Same
+Same
 *ṭʰaʔ
 *hṭʰeyʔ 2 -ay
 Ø- *ṭʰe· 1
@@ -5509,25 +5509,25 @@ Same
 ʔahca *cise· =wi
 Same
 Same
-ʔanaw
+Same
 ʔanaw 1 ʔahca
 ʔahqol
 ʔahqol -am
 ʔahqʰa -l
-ʔa·penʔ
-ʔa·penʔ ʔa·penʔ
+Same
+Same
 *ʔe
 *ʔbac
 Ø- *ʔbalh -mul
 *ʔbe 5
 *ʔbe 5
 Same
-*ʔbeway
+Same
 Same
 Same
 *ʔda 1 -mac
-*da·
-*da·cʼqa
+Same
+Same
 Ø- *ʔdi 1
 Same
 *ʔdo -ccicʼ
@@ -5551,7 +5551,7 @@ Same
 Same
 Same
 Same
-sko·wa
+Same
 Same
 ʔiyow *hco 4
 *ʔkʰoš 2
@@ -5571,7 +5571,7 @@ moʔo·da *kʼiʔdim
 *qʼa·
 *ʔqʼowa
 *ʔqʼo 2
-*qʼolo·
+Same
 *ʔqʼo 2
 *ʔqʼowa
 Same
@@ -5594,5 +5594,5 @@ Same
 Same
 Same
 Same
-yowal
-*ʔo
+Same
+Same

@@ -179,7 +179,7 @@ def main():
     generatedAbs = generateAllAbsolutives(entries)
         
     df.insert(4, "Generated Abs", generatedAbs)
-    with open("textFiles/" + "Bound Stem Errors.txt", "w") as errorFile:
+    with open("textFiles/" + "Absolutive Errors.txt", "w") as errorFile:
         correct = 0
         total = 0
         notBoundErrors = 0
@@ -197,7 +197,8 @@ def main():
                     if df.iloc[i]['Entries'][-1] == "d":
                         notBoundErrors += 1
                     errorFile.write(
-                            "Entry: " + df.iloc[i]['Entries'].rstrip("\n") +
+                            "Index: " + str(i) + 
+                            " | Entry: " + df.iloc[i]['Entries'].rstrip("\n") +
                             " | Absolutive: " + absolutive +
                             " | Generated Absolutive: " + generated + "\n"
                         )
