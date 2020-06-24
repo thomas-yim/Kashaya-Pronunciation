@@ -145,6 +145,23 @@ def extrametricalityApplies(entry):
     components = findComponents(entry)
     segments = splitIntoSegments(entry)
     syllables = syllabify(segments)
+    
+    if components[0][0] == "*" or components[0][0] in nonVowels:
+        root = components[0].strip("*")
+        if entry.find(root) != -1:
+            prefix = entry[:entry.find(root)].strip("*")
+            if len(prefix) >= 2:
+                prefix += "-"
+                components.insert(0, prefix)
+        else:
+            if root[0] == 'ʔ' or root[0] == 'h':
+                root = root[1:]
+            if entry.find(root) != -1:
+                prefix = entry[:entry.find(root)]
+                if len(prefix) >= 2:
+                    prefix += "-"
+                    components.insert(0, prefix)
+    
     if components[0][-1] == "-" and ("Ø" not in components[0]):
         return True
     
@@ -155,7 +172,6 @@ def extrametricalityApplies(entry):
             return True
         else:
             return False
-    #Need to confirm with buckley about this test
     elif components[0] == "Same":
         compSegments = splitIntoSegments(entry)
         compSyllables = syllabify(compSegments)
