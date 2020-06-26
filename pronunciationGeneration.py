@@ -174,72 +174,77 @@ entries = df['Entries']
 pronunciations = df['Pronunciations']
 generatedPronunciations = []
 generatedTones = []
-"""
-entry = "*hpʰema·duc"
-for i in range(0, len(entries)):
-    if entries[i] == entry:
-        randIndex = i
-pronunciation, tone = createPronunciation(entry)
+print("Choose what the program should do:")
+print("1: Run one specific word")
+print("2: Run all the words")
+choice = int(input("What would you like to do: "))
 
-if pronunciation != pronunciations[randIndex]:
-    stressLoc = None
-    if pronunciations[randIndex] != None:
-        segments = splitIntoSegments(pronunciations[randIndex])
-        syllables = syllabify(segments)
-        for j in range(0, len(syllables)):
-            for segment in splitIntoSegments(syllables[j]):
-                if segment[0] in accentedVowels:
-                    stressLoc = j + 1
-
-        if stressLoc == 1 or stressLoc == 2:
-            tone = stressLoc
-
-print("Entry: " + entry)
-print("Mine: " + pronunciation)
-print("Listed: " + df['Pronunciations'][randIndex])
-print("Tone: " + str(tone))
-"""
-generatedAbs = generateAllAbsolutives(entries)
-for i in range(0, len(entries)):
-    entry = entries[i]
+if choice == 1:
+    entry = input("Type Entry here: ")
+    for i in range(0, len(entries)):
+        if entries[i] == entry:
+            randIndex = i
     pronunciation, tone = createPronunciation(entry)
-    if pronunciation != pronunciations[i]:
+    
+    if pronunciation != pronunciations[randIndex]:
         stressLoc = None
-        if pronunciations[i] != None:
-            segments = splitIntoSegments(pronunciations[i])
+        if pronunciations[randIndex] != None:
+            segments = splitIntoSegments(pronunciations[randIndex])
             syllables = syllabify(segments)
             for j in range(0, len(syllables)):
                 for segment in splitIntoSegments(syllables[j]):
                     if segment[0] in accentedVowels:
                         stressLoc = j + 1
+    
             if stressLoc == 1 or stressLoc == 2:
                 tone = stressLoc
-    generatedPronunciations.append(pronunciation)
-    generatedTones.append(tone)
-
-df.insert(2, "Generated Pron", generatedPronunciations)
-df.insert(5, "Generated Abs", generatedAbs)
-df.insert(4, "Generated Tones", generatedTones)
-
-with open("textFiles/" + "Pronunciation Errors.txt", "w") as errorFile:
-    correct = 0
-    total = 0
-    for i in range(0, len(df['Entries'])):
-        if df.iloc[i]['Pronunciations'] != None:
-            pronunciation = df.iloc[i]['Pronunciations']
-            generated = df.iloc[i]['Generated Pron']
-            if pronunciation == generated:
-                correct += 1
-                total += 1
-            else:
-                if df.iloc[i]['Absolutives'] == df.iloc[i]['Generated Abs']:
+    
+    print("Entry: " + entry)
+    print("Mine: " + pronunciation)
+    print("Listed: " + str(df['Pronunciations'][randIndex]))
+    print("Tone: " + str(tone))
+elif choice == 2:
+    generatedAbs = generateAllAbsolutives(entries)
+    for i in range(0, len(entries)):
+        entry = entries[i]
+        pronunciation, tone = createPronunciation(entry)
+        if pronunciation != pronunciations[i]:
+            stressLoc = None
+            if pronunciations[i] != None:
+                segments = splitIntoSegments(pronunciations[i])
+                syllables = syllabify(segments)
+                for j in range(0, len(syllables)):
+                    for segment in splitIntoSegments(syllables[j]):
+                        if segment[0] in accentedVowels:
+                            stressLoc = j + 1
+                if stressLoc == 1 or stressLoc == 2:
+                    tone = stressLoc
+        generatedPronunciations.append(pronunciation)
+        generatedTones.append(tone)
+    
+    df.insert(2, "Generated Pron", generatedPronunciations)
+    df.insert(5, "Generated Abs", generatedAbs)
+    df.insert(4, "Generated Tones", generatedTones)
+    
+    with open("textFiles/" + "Pronunciation Errors.txt", "w") as errorFile:
+        correct = 0
+        total = 0
+        for i in range(0, len(df['Entries'])):
+            if df.iloc[i]['Pronunciations'] != None:
+                pronunciation = df.iloc[i]['Pronunciations']
+                generated = df.iloc[i]['Generated Pron']
+                if pronunciation == generated:
+                    correct += 1
                     total += 1
-                    errorFile.write(
-                            "Index: " + str(i) + 
-                            " | Entry: " + df.iloc[i]['Entries'].rstrip("\n") +
-                            " | Pronunciation: " + df.iloc[i]['Pronunciations'] +
-                            " | Generated Pronunciation: " + df.iloc[i]['Generated Pron'] + "\n"
-                        )
-    errorFile.close()
-print("Number Correct: " + str(correct) + ", Total: " + str(total) +
-          ", Percent Correct: " + str(correct/total))
+                else:
+                    if df.iloc[i]['Absolutives'] == df.iloc[i]['Generated Abs']:
+                        total += 1
+                        errorFile.write(
+                                "Index: " + str(i) + 
+                                " | Entry: " + df.iloc[i]['Entries'].rstrip("\n") +
+                                " | Pronunciation: " + df.iloc[i]['Pronunciations'] +
+                                " | Generated Pronunciation: " + df.iloc[i]['Generated Pron'] + "\n"
+                            )
+        errorFile.close()
+    print("Number Correct: " + str(correct) + ", Total: " + str(total) +
+              ", Percent Correct: " + str(correct/total))

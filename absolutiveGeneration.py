@@ -170,42 +170,45 @@ def generateAllAbsolutives(entries):
     return generatedAbs
 
 def main():
+    print("Choose what the program should do:")
+    print("1: Run one specific word")
+    print("2: Run all the words")
+    choice = int(input("Enter your choice here: "))
     #See dfConstructor.py for how I handled missing entries
     df = constructDF("Kashaya word list.txt")
     entries = df['Entries']
-    #I am pulling this list to compare against my generated ones
-    absolutives = df['Absolutives']
-    
-    generatedAbs = generateAllAbsolutives(entries)
+    if choice == 1:
+        entry = input("What is the entry? ")
+        absolutive = createAbsolutive(entry)
+        for i in range(0, len(entries)):
+            if entries[i] == entry:
+                randIndex = i
+        print("Entry: " + entry)
+        print("Generated Absolutive: " + absolutive)
+        print("Listed Absolutive: " + str(df['Absolutives'][randIndex]))
+    else:
+        generatedAbs = generateAllAbsolutives(entries)
         
-    df.insert(4, "Generated Abs", generatedAbs)
-    with open("textFiles/" + "Absolutive Errors.txt", "w") as errorFile:
-        correct = 0
-        total = 0
-        notBoundErrors = 0
-        notBoundTotal = 0
-        for i in range(0, len(df['Entries'])):
-            if df.iloc[i]['Absolutives'] != None:
-                if df.iloc[i]['Entries'][-1] == "d":
-                    notBoundTotal += 1
-                absolutive = df.iloc[i]['Absolutives']
-                generated = df.iloc[i]['Generated Abs']
-                total += 1
-                if absolutive == generated:
-                    correct += 1
-                else:
-                    if df.iloc[i]['Entries'][-1] == "d":
-                        notBoundErrors += 1
-                    errorFile.write(
-                            "Index: " + str(i) + 
-                            " | Entry: " + df.iloc[i]['Entries'].rstrip("\n") +
-                            " | Absolutive: " + absolutive +
-                            " | Generated Absolutive: " + generated + "\n"
-                        )
-        errorFile.close()
-    print(notBoundErrors)
-    print(notBoundTotal)
-    print("Number Correct: " + str(correct) + ", Total: " + str(total) + ", Percent Correct: " + str(correct/total))
+        df.insert(4, "Generated Abs", generatedAbs)
+        with open("textFiles/" + "Absolutive Errors.txt", "w") as errorFile:
+            correct = 0
+            total = 0
+            for i in range(0, len(df['Entries'])):
+                if df.iloc[i]['Absolutives'] != None:
+                    absolutive = df.iloc[i]['Absolutives']
+                    generated = df.iloc[i]['Generated Abs']
+                    total += 1
+                    if absolutive == generated:
+                        correct += 1
+                    else:
+                        errorFile.write(
+                                "Index: " + str(i) + 
+                                " | Entry: " + df.iloc[i]['Entries'].rstrip("\n") +
+                                " | Absolutive: " + absolutive +
+                                " | Generated Absolutive: " + generated + "\n"
+                            )
+            errorFile.close()
+        print("Number Correct: " + str(correct) + ", Total: " + str(total) + ", Percent Correct: " + str(correct/total))
                 
 if __name__ == "__main__":
     main()
