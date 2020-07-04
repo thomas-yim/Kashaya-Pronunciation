@@ -58,36 +58,45 @@ def createPronunciation(entry):
     elif len(syllables) == 2:
         extSyllables = []
         extStructure = []
-        if entry.strip("*")[0] == absolutive[0]:
-            #This case is handling syllable extrametricality
-            if extrametricalityApplies(entry):
-                tone = 3
-                extSyllables.append(syllables[0])
-                extStructure.append(structure[0])
-                syllables = syllables[1:]
-                structure = structure[1:]
-                entryStructure = entryStructure[1:]
-            
-            if structure[0] == "CVV":
-                tone = 4
-                extSyllables.append(syllables[0])
-                extStructure.append(structure[0])
-                syllables = syllables[1:]
-                structure = structure[1:]
-                entryStructure = entryStructure[1:]
-            elif len(structure) == 2:
-                if structure[0] == "CV" and structure[1] == "CVV":
-                    if entryStructure[0] == "CVV" and entryStructure[1] == "CV":
-                        tone = 4
-                        extSyllables.append(syllables[0])
-                        extSyllables.append(syllables[1])
-                        extStructure.append(structure[0])
-                        extStructure.append(structure[1])
-                        syllables = syllables[2:]
-                        structure = structure[2:]
-                        entryStructure = entryStructure[2:]
-        else:
-            print(entry)
+        #This case is handling syllable extrametricality
+        if extrametricalityApplies(entry):
+            tone = 3
+            extSyllables.append(syllables[0])
+            extStructure.append(structure[0])
+            syllables = syllables[1:]
+            structure = structure[1:]
+            entryStructure = entryStructure[1:]
+            entrySyllables = entrySyllables[1:]
+        
+        if structure[0] == "CVV":
+            tone = 4
+            extSyllables.append(syllables[0])
+            extStructure.append(structure[0])
+            syllables = syllables[1:]
+            structure = structure[1:]
+            entryStructure = entryStructure[1:]
+            entrySyllables = entrySyllables[1:]
+        elif structure[0][0:3] == "CVC" and entryStructure[0][0:4] == "CVVC":
+            tone = 4
+            extSyllables.append(syllables[0])
+            extStructure.append(structure[0])
+            syllables = syllables[1:]
+            structure = structure[1:]
+            entryStructure = entryStructure[1:]
+            entrySyllables = entrySyllables[1:]
+        elif len(structure) == 2:
+            if structure[0] == "CV" and structure[1] == "CVV":
+                if entryStructure[0] == "CVV" and entryStructure[1] == "CV":
+                    tone = 4
+                    extSyllables.append(syllables[0])
+                    extSyllables.append(syllables[1])
+                    extStructure.append(structure[0])
+                    extStructure.append(structure[1])
+                    syllables = syllables[2:]
+                    structure = structure[2:]
+                    entryStructure = entryStructure[2:]
+                    entrySyllables = entrySyllables[2:]
+    
         if len(structure) == 0:
             pronunciation = "".join(extSyllables) + "´"
         elif len(structure) == 1:
@@ -109,25 +118,38 @@ def createPronunciation(entry):
     else:
         extSyllables = []
         extStructure = []
-        if entry.strip("*")[0] == absolutive[0]:
-            #This case is handling syllable extrametricality
-            if extrametricalityApplies(entry):
-                tone = 3
-                extSyllables.append(syllables[0])
-                extStructure.append(structure[0])
-                syllables = syllables[1:]
-                structure = structure[1:]
-                entryStructure = entryStructure[1:]
-                
-            if structure[0] == "CVV":
+        #This case is handling syllable extrametricality
+        if extrametricalityApplies(entry):
+            tone = 3
+            extSyllables.append(syllables[0])
+            extStructure.append(structure[0])
+            syllables = syllables[1:]
+            structure = structure[1:]
+            entryStructure = entryStructure[1:]
+            entrySyllables = entrySyllables[1:]
+            
+        if structure[0] == "CVV":
+            tone = 4
+            extSyllables.append(syllables[0])
+            extStructure.append(structure[0])
+            syllables = syllables[1:]
+            structure = structure[1:]
+            entryStructure = entryStructure[1:]
+            entrySyllables = entrySyllables[1:]
+        elif structure[0] == "CV" and structure[1] == "CVV":
+            if entryStructure[0] == "CVV" and entryStructure[1] == "CV":
                 tone = 4
                 extSyllables.append(syllables[0])
+                extSyllables.append(syllables[1])
                 extStructure.append(structure[0])
-                syllables = syllables[1:]
-                structure = structure[1:]
-                entryStructure = entryStructure[1:]
-            elif structure[0] == "CV" and structure[1] == "CVV":
-                if entryStructure[0] == "CVV" and entryStructure[1] == "CV":
+                extStructure.append(structure[1])
+                syllables = syllables[2:]
+                structure = structure[2:]
+                entryStructure = entryStructure[2:]
+                entrySyllables = entrySyllables[2:]
+            #TODO: Reorder this
+            elif len(entryStructure) == 2:
+                if entryStructure[0] == "CVV" and entryStructure[1] == "CVC" and entrySyllables[1][-1] == 'd':
                     tone = 4
                     extSyllables.append(syllables[0])
                     extSyllables.append(syllables[1])
@@ -136,19 +158,17 @@ def createPronunciation(entry):
                     syllables = syllables[2:]
                     structure = structure[2:]
                     entryStructure = entryStructure[2:]
-                #TODO: Reorder this
-                elif len(entryStructure) == 2:
-                    if entryStructure[0] == "CVV" and entryStructure[1] == "CVC" and entrySyllables[1][-1] == 'd':
-                        tone = 4
-                        extSyllables.append(syllables[0])
-                        extSyllables.append(syllables[1])
-                        extStructure.append(structure[0])
-                        extStructure.append(structure[1])
-                        syllables = syllables[2:]
-                        structure = structure[2:]
-                        entryStructure = entryStructure[2:]
-        else:
-            print(entry)
+                    entrySyllables = entrySyllables[2:]
+        elif structure[0][0:3] == "CVC" and entryStructure[0][0:4] == "CVVC":
+            tone = 4
+            extSyllables.append(syllables[0])
+            extStructure.append(structure[0])
+            syllables = syllables[1:]
+            structure = structure[1:]
+            entryStructure = entryStructure[1:]
+            entrySyllables = entrySyllables[1:]
+                
+
         
         if len(extStructure) == 0:
             tone = 0

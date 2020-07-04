@@ -187,7 +187,7 @@ def main():
     randIndex = random.randint(0,len(df['Entries']))
     entry = df.iloc[randIndex]['Entries']
     #entry = "*pʰaʔsʼulh"
-    #entry = "*bo·catad"
+    entry = "*co·nʔwad"
 
     print(entry)
 

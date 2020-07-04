@@ -23,7 +23,6 @@ Index: 818 | Entry: *ciwoloq | Pronunciation: ciwolóʔ | Generated Pronunciatio
 Index: 819 | Entry: *ciwolo·qocʼ | Pronunciation: ciwoló·qoʔ | Generated Pronunciation: ciwólo·qoʔ
 Index: 821 | Entry: *ciwoqocʼ | Pronunciation: ciwoqóʔ | Generated Pronunciation: ciwóqoʔ
 Index: 865 | Entry: *cohqacʼ | Pronunciation: cohqáʔ | Generated Pronunciation: cóhqaʔ
-Index: 912 | Entry: *co·nʔwad | Pronunciation: conʔwadú | Generated Pronunciation: conʔwádu
 Index: 958 | Entry: cuhma | Pronunciation: cuhmá | Generated Pronunciation: cuhma´
 Index: 1042 | Entry: *cusʼuy | Pronunciation: cusʼuyʔ | Generated Pronunciation: cusʼúyʔ
 Index: 1096 | Entry: *cʰahtimacʼ | Pronunciation: cʰáhtimaʔ | Generated Pronunciation: cʰahtimáʔ
@@ -32,14 +31,12 @@ Index: 1121 | Entry: *cʰiko·koc | Pronunciation: cʰikó·koʔ | Generated Pro
 Index: 1131 | Entry: *cʰikʼot | Pronunciation: cʰokʼóʔ | Generated Pronunciation: cʰikʼóʔ
 Index: 1139 | Entry: *cʰila·qocʼ | Pronunciation: cʰila·qóʔ | Generated Pronunciation: cʰilá·qoʔ
 Index: 1207 | Entry: *cʰotʰci | Pronunciation: cʰohci | Generated Pronunciation: cʰótʰciw
-Index: 1208 | Entry: cʰo·ʔnati | Pronunciation: cʰoʔnatí | Generated Pronunciation: cʰoʔnáti
 Index: 1216 | Entry: *cʰulma | Pronunciation: cʰulmáw | Generated Pronunciation: cʰúlmaw
 Index: 1236 | Entry: *cʼolocʼolo | Pronunciation: cʼolocʼolow | Generated Pronunciation: cʼolocʼólow
 Index: 1238 | Entry: *cʼoyʔcʼed | Pronunciation: cʼóyʔcʼedu | Generated Pronunciation: cʼoyʔcʼedú
 Index: 1355 | Entry: *dahpʰihpʰi | Pronunciation: dahpíhpiw | Generated Pronunciation: dahpʰíhpʰiw
 Index: 1368 | Entry: *dahqʰadahqʰa | Pronunciation: dahqʰdáhqʰaw | Generated Pronunciation: dahqʰadáhqʰaw
 Index: 1460 | Entry: *damita·duc | Pronunciation: damíta·duʔ | Generated Pronunciation: damitá·duʔ
-Index: 1477 | Entry: *daqʰa·sad | Pronunciation: daqʰasa·du´ | Generated Pronunciation: daqʰasá·du
 Index: 1494 | Entry: *dašohli | Pronunciation: dašohlíw | Generated Pronunciation: dašóhliw
 Index: 1501 | Entry: datiʔli | Pronunciation: datiʔli´ | Generated Pronunciation: datíʔli
 Index: 1571 | Entry: *daʔtʼutʰu | Pronunciation: daʔtʼútʰuw | Generated Pronunciation: daʔtʼutʰúw
@@ -74,7 +71,6 @@ Index: 2380 | Entry: *haʔṭʼuṭʰu | Pronunciation: haʔṭʼúṭʰuw | Gen
 Index: 2405 | Entry: *hcʰam | Pronunciation: hcʰámʔ | Generated Pronunciation: cʰámʔ
 Index: 2420 | Entry: hibu· wi | Pronunciation: hibu· wi | Generated Pronunciation: hibu· wi´
 Index: 2466 | Entry: hihlaw ʔqan | Pronunciation: hihláw ʔqan | Generated Pronunciation: híhlaw ʔqan
-Index: 2552 | Entry: *hiqʰa·sad | Pronunciation: hiqʰasa·du´ | Generated Pronunciation: hiqʰasá·du
 Index: 2566 | Entry: hisʼuhši | Pronunciation: hisʼuhši´ | Generated Pronunciation: hisʼúhši
 Index: 2609 | Entry: *hiʔkʼu·ma | Pronunciation: hiʔkʼú·maw | Generated Pronunciation: hiʔkʼu·máw
 Index: 2666 | Entry: *hoṭʰi·c | Pronunciation: hoṭʰiʔ´ | Generated Pronunciation: hoṭʰíʔ
@@ -141,7 +137,7 @@ Index: 4010 | Entry: *pošma | Pronunciation: póšmaw | Generated Pronunciation
 Index: 4011 | Entry: potri·yu | Pronunciation: potrí·yu | Generated Pronunciation: potri·yu´
 Index: 4054 | Entry: *puhṭʰe | Pronunciation: puhṭʰe´ | Generated Pronunciation: puhṭʰéw
 Index: 4065 | Entry: *pukʰilqa | Pronunciation: pukʰilqáw | Generated Pronunciation: pukʰílqaw
-Index: 4096 | Entry: *puṭa·npuṭa·n | Pronunciation: puṭánpuṭanʔ | Generated Pronunciation: puṭanpúṭanʔ
+Index: 4096 | Entry: *puṭa·npuṭa·n | Pronunciation: puṭánpuṭanʔ | Generated Pronunciation: puṭanpuṭánʔ
 Index: 4115 | Entry: *pʰacʼepʰacʼe | Pronunciation: pʰacʼépʰacʼew | Generated Pronunciation: pʰacʼepʰácʼew
 Index: 4143 | Entry: *pʰakʼu·m | Pronunciation: pʰakʼumʔ | Generated Pronunciation: pʰakʼumʔ´
 Index: 4152 | Entry: pʰaliʔli | Pronunciation: pʰaliʔli´ | Generated Pronunciation: pʰalíʔli
@@ -206,7 +202,6 @@ Index: 5119 | Entry: *ši·batʰya· cahno | Pronunciation: ší·batʰya· cahn
 Index: 5128 | Entry: *šoca·tacʼ | Pronunciation: šoca·táʔ | Generated Pronunciation: šocá·taʔ
 Index: 5129 | Entry: *šoca·tad | Pronunciation: šoca·tádu | Generated Pronunciation: šocá·tadu
 Index: 5159 | Entry: šohqʰa | Pronunciation: šóhqʰa | Generated Pronunciation: šohqʰa´
-Index: 5167 | Entry: šoko·lʔli | Pronunciation: šokolʔli´ | Generated Pronunciation: šokolʔlí
 Index: 5178 | Entry: *šoʔcʼotʰci | Pronunciation: šoʔcʼotʰciw | Generated Pronunciation: šoʔcʼótʰciw
 Index: 5187 | Entry: *šoʔpʼošopʼotad | Pronunciation: šoʔpʼošópʼota·du | Generated Pronunciation: šóʔpʼošopʼota·du
 Index: 5191 | Entry: šo·me | Pronunciation: šó·me | Generated Pronunciation: šo·me´
@@ -245,5 +240,4 @@ Index: 5536 | Entry: *ʔelši | Pronunciation: ʔélšiw | Generated Pronunciati
 Index: 5540 | Entry: *ʔihqa | Pronunciation: ʔihqáw | Generated Pronunciation: ʔíhqaw
 Index: 5553 | Entry: ʔisko·wa | Pronunciation: ʔiskó·wa | Generated Pronunciation: ʔisko·wa´
 Index: 5562 | Entry: ʔorki·ya | Pronunciation: ʔorkí·ya | Generated Pronunciation: ʔorki·ya´
-Index: 5570 | Entry: *ʔqʼa·waduc | Pronunciation: qʼawa·dúʔ | Generated Pronunciation: qʼawá·duʔ
 Index: 5595 | Entry: ʔu·was | Pronunciation: ʔú·was | Generated Pronunciation: ʔu·wás
